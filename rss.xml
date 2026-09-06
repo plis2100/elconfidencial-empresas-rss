@@ -1,9 +1,147 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>El Confidencial — Empresas</title>
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
-    <language>es-ES</language>
+    <language>es</language>
+    <lastBuildDate>Sun, 06 Sep 2026 16:02:13 +0200</lastBuildDate>
+    <generator>GitHub Actions RSS Generator</generator>
+    <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un avión de Air Europa, varado en Brasil por incidencia técnica… y tras picaduras de garrapatas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/air-europa-avion-rcd-mallorca-varado-brasil-incidencia-tecnica-garrapatas_4418266/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/air-europa-avion-rcd-mallorca-varado-brasil-incidencia-tecnica-garrapatas_4418266/</guid>
+      <pubDate>Fri, 04 Sep 2026 19:37:00 +0000</pubDate>
+      <description>Ha realizado un aterrizaje de emergencia en Salvador de Bahía y una azafata ha utilizado insecticida, según relata una pasajera a El Confidencial</description>
+      <author>Agustín Rivera. Málaga</author>
+      <enclosure url="https://images.ecestaticos.com/5gC7uf6AZrbLeFU0M3Gif3HLNWc=/0x0:1200x1448/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb21%2F220%2F612%2Fb212206125861501c70c592af64a9efd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Volkswagen rompe con su proveedor coreano y encarga a la china Gotion culminar la gigafactoría de Sagunto</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/powerco-volkswagen-gotion-china-gigafactoria-gotion-coreano_4418020/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/powerco-volkswagen-gotion-china-gigafactoria-gotion-coreano_4418020/</guid>
+      <pubDate>Fri, 04 Sep 2026 15:38:00 +0000</pubDate>
+      <description>PowerCo contrata al socio asiático del grupo para terminar la instalación de la salas blancas tras los problemas acumulados con K-Ensol para cumplir con el calendario de puesta en marcha</description>
+      <author>Víctor Romero. Valencia</author>
+      <enclosure url="https://images.ecestaticos.com/O5cvKrsmE3OvaRmRYOiforUhmZ8=/0x0:2272x1702/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7af%2F764%2F8eb%2F7af7648ebda7a97b5bb7c262079aa354.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Broedel, ejecutivo acusado de fraude por Itaú, sale de Banco Santander tras dos años</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/broedel-itau-banco-santander-directivo-fraude_4418006/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/broedel-itau-banco-santander-directivo-fraude_4418006/</guid>
+      <pubDate>Fri, 04 Sep 2026 12:46:00 +0000</pubDate>
+      <description>El directivo entró en 2024 en el grupo presidido por Ana Botín, pero su breve carrera en la entidad ha estado lastrada por una acusación de Itaú</description>
+      <author>Ó. G.</author>
+      <enclosure url="https://images.ecestaticos.com/UXVfm2-JusHmN_U3GJKVCd8dR30=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faf7%2Fc3c%2F3b8%2Faf7c3c3b83c3a5b10c4b699627d5e213.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Airbus y sindicatos alcanzan un preacuerdo tras la mediación del Ministerio de Industria</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/airbus-y-sindicatos-alcanzan-un-preacuerdo-industria_4417998/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/airbus-y-sindicatos-alcanzan-un-preacuerdo-industria_4417998/</guid>
+      <pubDate>Fri, 04 Sep 2026 12:37:00 +0000</pubDate>
+      <description>"Es un magnífico principio de acuerdo en el que salen ganando los trabajadores en sus condiciones salariales y laborales, a la vez que se garantiza la competitividad y la viabilidad industrial de Airbus España", ha señalado Jordi Hereu</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/ULAtwRhw9ZIiZhOC0QW1hzpHaPw=/0x0:2272x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb72%2F67a%2F90f%2Fb7267a90fb6a6b33dab3f2a1ae6ecd28.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La CNMV admite a trámite la opa de Jainaga y un consorcio vasco por Azkoyen</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/cnmv-tramite-opa-jainaga-consorcio-vasco-azkoyen_4417951/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/cnmv-tramite-opa-jainaga-consorcio-vasco-azkoyen_4417951/</guid>
+      <pubDate>Fri, 04 Sep 2026 11:47:00 +0000</pubDate>
+      <description>Han presentado una oferta de 244 millones de euros por la totalidad de las acciones de la compañía, a 10 euros por acción, sujeta a la aceptación de más del 50% del capital</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/thJeP0_X9R7X4AhPwD-H1lLDXG0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc0c%2F21b%2F369%2Fc0c21b3695162b296587ea7c8cb04ee3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iberdrola y Naturgy unen fuerzas para impulsar una central hidroeléctrica en Ourense</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/iberdrola-y-naturgy-unen-fuerzas-para-impulsar_4417926/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/iberdrola-y-naturgy-unen-fuerzas-para-impulsar_4417926/</guid>
+      <pubDate>Fri, 04 Sep 2026 11:33:00 +0000</pubDate>
+      <description>Han pedido a la Confederación Hidrográfica del Miño-Sil (CHMS) una concesión para aprovechar hasta 75.000 litros por segundo de los ríos Sil y Edrada para una central de almacenamiento hidráulico de energía</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/wItdJC4TauKv5W5-Jy4cH6kwGBk=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd10%2F814%2Fa76%2Fd10814a7657dc431fc4a0b6478c7255a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La 'semana negra' para Shein: sufre un desplome de casi el 22% desde su debut bursátil</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/cotizacion-shein-semana-negra-desplome-debut-bursatil_4417797/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/cotizacion-shein-semana-negra-desplome-debut-bursatil_4417797/</guid>
+      <pubDate>Fri, 04 Sep 2026 09:33:00 +0000</pubDate>
+      <description>Su actual cotización se sitúa un 79% por debajo de su pico de 2022 ante las dudas sobre su modelo de negocio, en el punto de mira de los reguladores de EEUU y Europa</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/Pac7jRSz2f07aQ4Ww_UcvU0mbbk=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcad%2F7a9%2Fdab%2Fcad7a9dab02b4f44ebc04510bb7e5a2f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Foro 'España energética', en imágenes</title>
+      <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
+      <pubDate>Fri, 03 Jul 2026 03:00:00 +0000</pubDate>
+      <description>Madrid ha acogido este foro, en el que se han reunido líderes y representantes del sector energético para arrojar luz sobre la ruta que debemos seguir en España y Europa</description>
+      <author>Fotografía: J. del Río</author>
+      <enclosure url="https://images.ecestaticos.com/w2r1xlnALHSV6xitnNSbYQGlUF0=/0x0:1920x1281/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa94%2F93c%2Fea7%2Fa9493cea774861ee611bf3b11650af5b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>José Ignacio Goirigolzarri: "La banca es un negocio de confianza; sin ella, un banco desaparece"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-06-30/el-arte-de-crear-banca-jose-ignacio-goirigolzarri-bra_4380167/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-30/el-arte-de-crear-banca-jose-ignacio-goirigolzarri-bra_4380167/</guid>
+      <pubDate>Tue, 30 Jun 2026 03:00:00 +0000</pubDate>
+      <description>El presidente de Fad Juventud se une a El Arte de Crear para repasar casi cinco décadas en la primera línea de la banca española y una forma de entender el liderazgo en la que las personas, los principios y el ejemplo van siempre por delante</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/xf__Xb8oaS2YQgprj7xAJk_C-iI=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2d4%2Fc99%2Faea%2F2d4c99aea86656c31f76d98aece310f4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Carlos Moro: "El éxito es efímero: es estar cada día avanzando, mejorando y trabajando por un mundo mejor"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-06-16/el-arte-de-crear-bodega-matarromera-carlos-moro-bra_4372812/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-16/el-arte-de-crear-bodega-matarromera-carlos-moro-bra_4372812/</guid>
+      <pubDate>Tue, 16 Jun 2026 03:00:00 +0000</pubDate>
+      <description>El fundador y presidente de Bodegas Familiares Matarromera se sienta en el sofá de El Arte de Crear para repasar casi cuatro décadas de aventura: del despacho de la Administración a la viña</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/dkcobG5JQ4VzrizqnvlpLj5CSRs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed8%2Fbe9%2Fbdf%2Fed8be9bdfae73a5fff4b93c31c8ffdd2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Laura Erra: "Todo empezó con una pregunta: ¿y si hacemos la leche sin la vaca?"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-06-09/el-arte-de-crear-liquats-vegetals-laura-erra-bra_4369079/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-09/el-arte-de-crear-liquats-vegetals-laura-erra-bra_4369079/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:00:00 +0000</pubDate>
+      <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</guid>
+      <pubDate>Tue, 02 Jun 2026 03:00:00 +0000</pubDate>
+      <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</guid>
+      <pubDate>Tue, 26 May 2026 03:00:00 +0000</pubDate>
+      <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
+      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
+      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</guid>
+      <pubDate>Tue, 07 Apr 2026 03:00:00 +0000</pubDate>
+      <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
