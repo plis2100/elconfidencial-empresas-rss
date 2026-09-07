@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:32:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:31:45 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nordex vuela hasta un 12% en bolsa y aúpa a Acciona gracias al consejo de compra de Bank of America</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-07/nordex-recomendacion-compra-bank-america-1tps_4418948/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/nordex-recomendacion-compra-bank-america-1tps_4418948/</guid>
+      <pubDate>Mon, 07 Sep 2026 08:46:00 +0000</pubDate>
+      <description>Consideran que existe un notable recorrido al alza en las previsiones de beneficios, lo que les ha llevado a elevar su precio objetivo hasta los 54 euros, lo que le otorga un potencial alcista del 31%</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/1gAFlXGe2H94ehxHs20ROa-n_-0=/0x0:2272x1498/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F312%2F3cf%2F770%2F3123cf770c672d83bdf1a993e5c21829.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Un avión de Air Europa, varado en Brasil por incidencia técnica… y tras picaduras de garrapatas</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-04/air-europa-avion-rcd-mallorca-varado-brasil-incidencia-tecnica-garrapatas_4418266/</link>
@@ -25,15 +34,6 @@
       <description>PowerCo contrata al socio asiático del grupo para terminar la instalación de la salas blancas tras los problemas acumulados con K-Ensol para cumplir con el calendario de puesta en marcha</description>
       <author>Víctor Romero. Valencia</author>
       <enclosure url="https://images.ecestaticos.com/O5cvKrsmE3OvaRmRYOiforUhmZ8=/0x0:2272x1702/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7af%2F764%2F8eb%2F7af7648ebda7a97b5bb7c262079aa354.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Broedel, ejecutivo acusado de fraude por Itaú, sale de Banco Santander tras dos años</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-04/broedel-itau-banco-santander-directivo-fraude_4418006/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/broedel-itau-banco-santander-directivo-fraude_4418006/</guid>
-      <pubDate>Fri, 04 Sep 2026 12:46:00 +0000</pubDate>
-      <description>El directivo entró en 2024 en el grupo presidido por Ana Botín, pero su breve carrera en la entidad ha estado lastrada por una acusación de Itaú</description>
-      <author>Ó. G.</author>
-      <enclosure url="https://images.ecestaticos.com/UXVfm2-JusHmN_U3GJKVCd8dR30=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faf7%2Fc3c%2F3b8%2Faf7c3c3b83c3a5b10c4b699627d5e213.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,15 @@
       <description>El CEO de Central Lechera Asturiana sostiene en esta entrevista que cada decisión de consumo es también una forma de elegir qué empresas y qué país apoyar</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/lSnZkZzSw_sibgBn_iR-qpvwhgk=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4bc%2F11c%2F684%2F4bc11c684011329bcf244cabccaff3b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Broedel, ejecutivo acusado de fraude por Itaú, sale de Banco Santander tras dos años</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/broedel-itau-banco-santander-directivo-fraude_4418006/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/broedel-itau-banco-santander-directivo-fraude_4418006/</guid>
+      <pubDate>Fri, 04 Sep 2026 12:46:00 +0000</pubDate>
+      <description>El directivo entró en 2024 en el grupo presidido por Ana Botín, pero su breve carrera en la entidad ha estado lastrada por una acusación de Itaú</description>
+      <author>Ó. G.</author>
+      <enclosure url="https://images.ecestaticos.com/UXVfm2-JusHmN_U3GJKVCd8dR30=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faf7%2Fc3c%2F3b8%2Faf7c3c3b83c3a5b10c4b699627d5e213.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Airbus y sindicatos alcanzan un preacuerdo tras la mediación del Ministerio de Industria</title>
