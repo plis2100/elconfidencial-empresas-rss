@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:02:13 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:28:17 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -34,42 +34,6 @@
       <description>El directivo entró en 2024 en el grupo presidido por Ana Botín, pero su breve carrera en la entidad ha estado lastrada por una acusación de Itaú</description>
       <author>Ó. G.</author>
       <enclosure url="https://images.ecestaticos.com/UXVfm2-JusHmN_U3GJKVCd8dR30=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faf7%2Fc3c%2F3b8%2Faf7c3c3b83c3a5b10c4b699627d5e213.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Airbus y sindicatos alcanzan un preacuerdo tras la mediación del Ministerio de Industria</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-04/airbus-y-sindicatos-alcanzan-un-preacuerdo-industria_4417998/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/airbus-y-sindicatos-alcanzan-un-preacuerdo-industria_4417998/</guid>
-      <pubDate>Fri, 04 Sep 2026 12:37:00 +0000</pubDate>
-      <description>"Es un magnífico principio de acuerdo en el que salen ganando los trabajadores en sus condiciones salariales y laborales, a la vez que se garantiza la competitividad y la viabilidad industrial de Airbus España", ha señalado Jordi Hereu</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/ULAtwRhw9ZIiZhOC0QW1hzpHaPw=/0x0:2272x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb72%2F67a%2F90f%2Fb7267a90fb6a6b33dab3f2a1ae6ecd28.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La CNMV admite a trámite la opa de Jainaga y un consorcio vasco por Azkoyen</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-04/cnmv-tramite-opa-jainaga-consorcio-vasco-azkoyen_4417951/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/cnmv-tramite-opa-jainaga-consorcio-vasco-azkoyen_4417951/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:47:00 +0000</pubDate>
-      <description>Han presentado una oferta de 244 millones de euros por la totalidad de las acciones de la compañía, a 10 euros por acción, sujeta a la aceptación de más del 50% del capital</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/thJeP0_X9R7X4AhPwD-H1lLDXG0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc0c%2F21b%2F369%2Fc0c21b3695162b296587ea7c8cb04ee3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Iberdrola y Naturgy unen fuerzas para impulsar una central hidroeléctrica en Ourense</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-04/iberdrola-y-naturgy-unen-fuerzas-para-impulsar_4417926/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/iberdrola-y-naturgy-unen-fuerzas-para-impulsar_4417926/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:33:00 +0000</pubDate>
-      <description>Han pedido a la Confederación Hidrográfica del Miño-Sil (CHMS) una concesión para aprovechar hasta 75.000 litros por segundo de los ríos Sil y Edrada para una central de almacenamiento hidráulico de energía</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/wItdJC4TauKv5W5-Jy4cH6kwGBk=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd10%2F814%2Fa76%2Fd10814a7657dc431fc4a0b6478c7255a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La 'semana negra' para Shein: sufre un desplome de casi el 22% desde su debut bursátil</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-04/cotizacion-shein-semana-negra-desplome-debut-bursatil_4417797/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/cotizacion-shein-semana-negra-desplome-debut-bursatil_4417797/</guid>
-      <pubDate>Fri, 04 Sep 2026 09:33:00 +0000</pubDate>
-      <description>Su actual cotización se sitúa un 79% por debajo de su pico de 2022 ante las dudas sobre su modelo de negocio, en el punto de mira de los reguladores de EEUU y Europa</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/Pac7jRSz2f07aQ4Ww_UcvU0mbbk=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcad%2F7a9%2Fdab%2Fcad7a9dab02b4f44ebc04510bb7e5a2f.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +106,78 @@
       <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Alfonso Jiménez: "En 45 minutos se quemaron 30 años de historia"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</guid>
+      <pubDate>Tue, 31 Mar 2026 03:00:00 +0000</pubDate>
+      <description>El fundador de Cascajares relata en El Arte de Crear cómo vivió el incendio que arrasó su fábrica, por qué decidió no rendirse y qué aprendió cuando lo perdió todo</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/UYFoAwR9vtMbdqtWTk4x8UGggQs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaa%2Fd81%2F596%2Fdaad81596f2e8d320490bf8e82b4221f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Andrés Rodríguez: "España necesita mirar al empresario como un aventurero, no como un sospechoso"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</guid>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 +0000</pubDate>
+      <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Amancio López Seijas: "La mayoría de las hoteleras españolas empezamos desde cero"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-03-17/cadenas-hoteleras-espanolas-el-arte-de-crear-bra_4321136/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-17/cadenas-hoteleras-espanolas-el-arte-de-crear-bra_4321136/</guid>
+      <pubDate>Tue, 17 Mar 2026 04:00:00 +0000</pubDate>
+      <description>El fundador del grupo Hotusa conversa sobre sus orígenes humildes, la construcción de una de las mayores cadenas hoteleras de Europa y el valor de la credibilidad en su recorrido</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/1VtcLoI-RuniB3XblV4iyDc0PX8=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F82f%2F565%2F5a3%2F82f5655a3fe9c51bb0869d5771852088.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>José Armando Tellado: "No es la España vaciada, es la que nos da de comer"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-03-10/el-arte-de-crear-jose-armando-tellado-allianz-bra_4317085/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-10/el-arte-de-crear-jose-armando-tellado-allianz-bra_4317085/</guid>
+      <pubDate>Tue, 10 Mar 2026 04:00:00 +0000</pubDate>
+      <description>El CEO de Central Lechera Asturiana sostiene en esta entrevista que cada decisión de consumo es también una forma de elegir qué empresas y qué país apoyar</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/lSnZkZzSw_sibgBn_iR-qpvwhgk=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4bc%2F11c%2F684%2F4bc11c684011329bcf244cabccaff3b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Airbus y sindicatos alcanzan un preacuerdo tras la mediación del Ministerio de Industria</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/airbus-y-sindicatos-alcanzan-un-preacuerdo-industria_4417998/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/airbus-y-sindicatos-alcanzan-un-preacuerdo-industria_4417998/</guid>
+      <pubDate>Fri, 04 Sep 2026 12:37:00 +0000</pubDate>
+      <description>"Es un magnífico principio de acuerdo en el que salen ganando los trabajadores en sus condiciones salariales y laborales, a la vez que se garantiza la competitividad y la viabilidad industrial de Airbus España", ha señalado Jordi Hereu</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/ULAtwRhw9ZIiZhOC0QW1hzpHaPw=/0x0:2272x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb72%2F67a%2F90f%2Fb7267a90fb6a6b33dab3f2a1ae6ecd28.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La CNMV admite a trámite la opa de Jainaga y un consorcio vasco por Azkoyen</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/cnmv-tramite-opa-jainaga-consorcio-vasco-azkoyen_4417951/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/cnmv-tramite-opa-jainaga-consorcio-vasco-azkoyen_4417951/</guid>
+      <pubDate>Fri, 04 Sep 2026 11:47:00 +0000</pubDate>
+      <description>Han presentado una oferta de 244 millones de euros por la totalidad de las acciones de la compañía, a 10 euros por acción, sujeta a la aceptación de más del 50% del capital</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/thJeP0_X9R7X4AhPwD-H1lLDXG0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc0c%2F21b%2F369%2Fc0c21b3695162b296587ea7c8cb04ee3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iberdrola y Naturgy unen fuerzas para impulsar una central hidroeléctrica en Ourense</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/iberdrola-y-naturgy-unen-fuerzas-para-impulsar_4417926/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/iberdrola-y-naturgy-unen-fuerzas-para-impulsar_4417926/</guid>
+      <pubDate>Fri, 04 Sep 2026 11:33:00 +0000</pubDate>
+      <description>Han pedido a la Confederación Hidrográfica del Miño-Sil (CHMS) una concesión para aprovechar hasta 75.000 litros por segundo de los ríos Sil y Edrada para una central de almacenamiento hidráulico de energía</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/wItdJC4TauKv5W5-Jy4cH6kwGBk=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd10%2F814%2Fa76%2Fd10814a7657dc431fc4a0b6478c7255a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La 'semana negra' para Shein: sufre un desplome de casi el 22% desde su debut bursátil</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/cotizacion-shein-semana-negra-desplome-debut-bursatil_4417797/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/cotizacion-shein-semana-negra-desplome-debut-bursatil_4417797/</guid>
+      <pubDate>Fri, 04 Sep 2026 09:33:00 +0000</pubDate>
+      <description>Su actual cotización se sitúa un 79% por debajo de su pico de 2022 ante las dudas sobre su modelo de negocio, en el punto de mira de los reguladores de EEUU y Europa</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/Pac7jRSz2f07aQ4Ww_UcvU0mbbk=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcad%2F7a9%2Fdab%2Fcad7a9dab02b4f44ebc04510bb7e5a2f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
