@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:31:50 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:26:48 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Óscar Rodríguez estará al frente de los medios de Grupo Godó y Francesc Cano dirigirá RAC1</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-07/grupo-godo-nombra-nuevos-directivos-1tps_4419473/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/grupo-godo-nombra-nuevos-directivos-1tps_4419473/</guid>
+      <pubDate>Mon, 07 Sep 2026 18:43:00 +0000</pubDate>
+      <description>Sustituirá a Xavier de Pol, que ha sido el responsable de medios del Grupo Godó los últimos cuatro años y ha decidido emprender nuevos proyectos empresariales en el ámbito audiovisual</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/JN-ZvJQWK3EdhPWwSogQdINHn0o=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa7b%2F51f%2F959%2Fa7b51f959f73fed6a27dae2242d35e92.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La plantilla de Airbus en Cádiz, Tablada (Sevilla) e Illescas (Toledo) decide suspender la huelga</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-07/plantilla-de-airbus-en-cadiz-tablada-sevilla-e-illescas_4419268/</link>
