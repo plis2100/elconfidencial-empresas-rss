@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:29:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:29:41 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iryo perdió 12 millones en 2025 y sus accionistas inyectan otros 35 millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-07/iryo-perdidas-ampliacion-capital-2025-1tps_4419025/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/iryo-perdidas-ampliacion-capital-2025-1tps_4419025/</guid>
+      <pubDate>Mon, 07 Sep 2026 10:27:00 +0000</pubDate>
+      <description>El accidente de Adamuz (Córdoba), en el que se vio implicado uno de sus trenes, llevó a la compañía a revisar su planificación y a validar un nuevo presupuesto para 2026</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/7uQbMM2IeiaQYiDRNfpmFDKaR1o=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa39%2F78d%2F50d%2Fa3978d50d3e0bb2402df3b6b39e1119b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nordex vuela hasta un 12% en bolsa y aúpa a Acciona gracias al consejo de compra de Bank of America</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-07/nordex-recomendacion-compra-bank-america-1tps_4418948/</link>
@@ -25,15 +34,6 @@
       <description>Ha realizado un aterrizaje de emergencia en Salvador de Bahía y una azafata ha utilizado insecticida, según relata una pasajera a El Confidencial</description>
       <author>Agustín Rivera. Málaga</author>
       <enclosure url="https://images.ecestaticos.com/5gC7uf6AZrbLeFU0M3Gif3HLNWc=/0x0:1200x1448/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb21%2F220%2F612%2Fb212206125861501c70c592af64a9efd.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Volkswagen rompe con su proveedor coreano y encarga a la china Gotion culminar la gigafactoría de Sagunto</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-04/powerco-volkswagen-gotion-china-gigafactoria-gotion-coreano_4418020/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/powerco-volkswagen-gotion-china-gigafactoria-gotion-coreano_4418020/</guid>
-      <pubDate>Fri, 04 Sep 2026 15:38:00 +0000</pubDate>
-      <description>PowerCo contrata al socio asiático del grupo para terminar la instalación de la salas blancas tras los problemas acumulados con K-Ensol para cumplir con el calendario de puesta en marcha</description>
-      <author>Víctor Romero. Valencia</author>
-      <enclosure url="https://images.ecestaticos.com/O5cvKrsmE3OvaRmRYOiforUhmZ8=/0x0:2272x1702/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7af%2F764%2F8eb%2F7af7648ebda7a97b5bb7c262079aa354.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,15 @@
       <description>El CEO de Central Lechera Asturiana sostiene en esta entrevista que cada decisión de consumo es también una forma de elegir qué empresas y qué país apoyar</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/lSnZkZzSw_sibgBn_iR-qpvwhgk=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4bc%2F11c%2F684%2F4bc11c684011329bcf244cabccaff3b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Volkswagen rompe con su proveedor coreano y encarga a la china Gotion culminar la gigafactoría de Sagunto</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-04/powerco-volkswagen-gotion-china-gigafactoria-gotion-coreano_4418020/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-04/powerco-volkswagen-gotion-china-gigafactoria-gotion-coreano_4418020/</guid>
+      <pubDate>Fri, 04 Sep 2026 15:38:00 +0000</pubDate>
+      <description>PowerCo contrata al socio asiático del grupo para terminar la instalación de la salas blancas tras los problemas acumulados con K-Ensol para cumplir con el calendario de puesta en marcha</description>
+      <author>Víctor Romero. Valencia</author>
+      <enclosure url="https://images.ecestaticos.com/O5cvKrsmE3OvaRmRYOiforUhmZ8=/0x0:2272x1702/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7af%2F764%2F8eb%2F7af7648ebda7a97b5bb7c262079aa354.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Broedel, ejecutivo acusado de fraude por Itaú, sale de Banco Santander tras dos años</title>
