@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:26:48 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:28:48 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump pide boicotear al fabricante aeronáutico Bombardier y escala la guerra comercial con Canadá</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-07/trump-boicot-bombardier-guerra-comercial-1tna-1tps_4419490/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/trump-boicot-bombardier-guerra-comercial-1tna-1tps_4419490/</guid>
+      <pubDate>Mon, 07 Sep 2026 20:14:00 +0000</pubDate>
+      <description>Washington amenaza con elevar hasta el 50% los gravámenes a vehículos, acero y otros bienes, mientras Ottawa prepara represalias desde este martes</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/YEPaxGfXx_RFQr0w5ujVxsED_tY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8b7%2F3cf%2Fdda%2F8b73cfdda8def569e1d2a213b6b5e2e5.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Óscar Rodríguez estará al frente de los medios de Grupo Godó y Francesc Cano dirigirá RAC1</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-07/grupo-godo-nombra-nuevos-directivos-1tps_4419473/</link>
