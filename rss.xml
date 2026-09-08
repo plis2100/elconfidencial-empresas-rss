@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 08 Sep 2026 08:34:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:30:07 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bit2me ficha a un exmiembro de la UCO y crea su agencia de custodia e incautación de criptoactivos</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/bit2me-fichaje-uco-guardia-civil-agencia-custodia-incautacion-criptoactivos_4419582/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/bit2me-fichaje-uco-guardia-civil-agencia-custodia-incautacion-criptoactivos_4419582/</guid>
+      <pubDate>Tue, 08 Sep 2026 07:22:00 +0000</pubDate>
+      <description>Reúne en una sola estructura capacidades que hasta ahora se debían buscar por separado: análisis de trazabilidad, asistencia técnica en intervenciones, prueba pericial, custodia y formación</description>
+      <author>C. R.</author>
+      <enclosure url="https://images.ecestaticos.com/IJTlEi5c5GsTRj5E3X547hazmk0=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa88%2F565%2F188%2Fa8856518824e57248fef191a032aae76.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Trump pide boicotear al fabricante aeronáutico Bombardier y escala la guerra comercial con Canadá</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-07/trump-boicot-bombardier-guerra-comercial-1tna-1tps_4419490/</link>
