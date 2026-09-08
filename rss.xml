@@ -5,9 +5,36 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:36:12 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:31:08 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IKEA impulsa una nueva etapa de crecimiento con cambios organizativos y el refuerzo del comité de dirección</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/ikea-espana-nueva-era-omnicanal-1hms-1svm_4419867/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/ikea-espana-nueva-era-omnicanal-1hms-1svm_4419867/</guid>
+      <pubDate>Tue, 08 Sep 2026 13:30:00 +0000</pubDate>
+      <description>Alberto Fossati dirigirá el nuevo canal transversal, mientras la compañía simplifica procesos y prepara más rebajas para responder a un consumidor cada vez más digital</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/rzOGVOdgq0FVrpSE88VXWKrXjOI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0d7%2F280%2F11d%2F0d728011d586e55bb39819ed065799c1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cinven recauda 2.300 M para su segundo Fondo Estratégico, superando en un 50% su tamaño objetivo</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/cinven-recauda-fondo-estrategico-europeo-1hms-1svm_4419866/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/cinven-recauda-fondo-estrategico-europeo-1hms-1svm_4419866/</guid>
+      <pubDate>Tue, 08 Sep 2026 13:28:00 +0000</pubDate>
+      <description>El nuevo vehículo supera en un 50% su objetivo y ya cuenta con participaciones en cuatro compañías de servicios financieros, empresariales y tecnológicos</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/r2qFqL8pE0EFcXyKnEE9tSu2k7I=/0x0:800x554/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7df%2Fe39%2F513%2F7dfe39513ae0254bab92718292900559.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La plantilla de Airbus España mantiene la huelga por 67 votos de diferencia, a la espera del referéndum</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/plantilla-de-airbus-espana-mantiene-la-huelga_4419864/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/plantilla-de-airbus-espana-mantiene-la-huelga_4419864/</guid>
+      <pubDate>Tue, 08 Sep 2026 12:44:00 +0000</pubDate>
+      <description>El centro de San Pablo (Sevilla) fuera el último en votar tras los problemas técnicos de ayer, el cual ha elegido mantener la movilización con 266 votos, al contrario que en Cádiz (94,3% por el sí), Illescas (59,7%), Tablada (60,2%) y Albacete</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/jKTwiRcm6VEdvltZR7pGRiXslr8=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F674%2F3f9%2F353%2F6743f935359b28a76272400d81db5573.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Un banquero suizo, exsocio de Mirabaud, es condenado por corrupción de un alto funcionario kuwaití</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-08/exbanquero-suizo-mirabaud-condenado-corrupcion-kuwait-1tps_4419769/</link>
