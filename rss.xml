@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:29:57 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:30:21 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Volkswagen estudia la venta de la marca italiana de motocicletas Ducati</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/volkswagen-estudia-la-venta-de-motocicletas-ducati_4419680/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/volkswagen-estudia-la-venta-de-motocicletas-ducati_4419680/</guid>
+      <pubDate>Tue, 08 Sep 2026 09:23:00 +0000</pubDate>
+      <description>Según valoraciones de los competidores, el fabricante de motocicletas con sede en Bolonia podría tener un valor aproximado de 1.250 millones de euros</description>
+      <author>Cotizalia</author>
+      <enclosure url="https://images.ecestaticos.com/_VHYvG1D-LIU07tigLf5a1EYJ8U=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4e7%2F04e%2F5f0%2F4e704e5f0ac5b22417531e894699b235.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Amancio Ortega vende a Portugal el 13,7% de Redes Energéticas Nacionais por 380 millones</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-08/amancio-ortega-pontegadea-venta-portugal-redes-energeticas_4419586/</link>
@@ -34,15 +43,6 @@
       <description>Washington amenaza con elevar hasta el 50% los gravámenes a vehículos, acero y otros bienes, mientras Ottawa prepara represalias desde este martes</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/YEPaxGfXx_RFQr0w5ujVxsED_tY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8b7%2F3cf%2Fdda%2F8b73cfdda8def569e1d2a213b6b5e2e5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Óscar Rodríguez estará al frente de los medios de Grupo Godó y Francesc Cano dirigirá RAC1</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-07/grupo-godo-nombra-nuevos-directivos-1tps_4419473/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/grupo-godo-nombra-nuevos-directivos-1tps_4419473/</guid>
-      <pubDate>Mon, 07 Sep 2026 18:43:00 +0000</pubDate>
-      <description>Sustituirá a Xavier de Pol, que ha sido el responsable de medios del Grupo Godó los últimos cuatro años y ha decidido emprender nuevos proyectos empresariales en el ámbito audiovisual</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/JN-ZvJQWK3EdhPWwSogQdINHn0o=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa7b%2F51f%2F959%2Fa7b51f959f73fed6a27dae2242d35e92.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La plantilla de Airbus en Cádiz, Tablada (Sevilla) e Illescas (Toledo) decide suspender la huelga</title>
@@ -142,6 +142,15 @@
       <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Óscar Rodríguez estará al frente de los medios de Grupo Godó y Francesc Cano dirigirá RAC1</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-07/grupo-godo-nombra-nuevos-directivos-1tps_4419473/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/grupo-godo-nombra-nuevos-directivos-1tps_4419473/</guid>
+      <pubDate>Mon, 07 Sep 2026 18:43:00 +0000</pubDate>
+      <description>Sustituirá a Xavier de Pol, que ha sido el responsable de medios del Grupo Godó los últimos cuatro años y ha decidido emprender nuevos proyectos empresariales en el ámbito audiovisual</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/JN-ZvJQWK3EdhPWwSogQdINHn0o=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa7b%2F51f%2F959%2Fa7b51f959f73fed6a27dae2242d35e92.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Alfonso Jiménez: "En 45 minutos se quemaron 30 años de historia"</title>
