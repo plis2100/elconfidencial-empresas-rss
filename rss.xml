@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 08 Sep 2026 09:30:07 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:31:25 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amancio Ortega vende a Portugal el 13,7% de Redes Energéticas Nacionais por 380 millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/amancio-ortega-pontegadea-venta-portugal-redes-energeticas_4419586/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/amancio-ortega-pontegadea-venta-portugal-redes-energeticas_4419586/</guid>
+      <pubDate>Tue, 08 Sep 2026 07:40:00 +0000</pubDate>
+      <description>La operación supone el regreso del Estado al capital de una compañía considerada estratégica para Portugal doce años después</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/tFKMkUIp7_qnBSWM4Xfev9MVx30=/0x0:1000x750/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e5%2F481%2F603%2F3e5481603bc16daa0c3a969089df67d4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Bit2me ficha a un exmiembro de la UCO y crea su agencia de custodia e incautación de criptoactivos</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-08/bit2me-fichaje-uco-guardia-civil-agencia-custodia-incautacion-criptoactivos_4419582/</link>
