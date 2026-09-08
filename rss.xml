@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:30:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:28:27 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un banquero suizo, exsocio de Mirabaud, es condenado por corrupción de un alto funcionario kuwaití</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/exbanquero-suizo-mirabaud-condenado-corrupcion-kuwait-1tps_4419769/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/exbanquero-suizo-mirabaud-condenado-corrupcion-kuwait-1tps_4419769/</guid>
+      <pubDate>Tue, 08 Sep 2026 11:03:00 +0000</pubDate>
+      <description>Otorgó entre 2000 y 2012 beneficios por un total de 82 millones de francos suizos (87 millones de euros) al entonces responsable de la Seguridad Social de Kuwait, Fahad al Rajaan</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/lZZCaSYXPReM8DuJCY7529TBYuc=/0x0:1692x1464/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9ab%2F2a3%2F2cf%2F9ab2a32cf1a0241974657851684d947d.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Volkswagen estudia la venta de la marca italiana de motocicletas Ducati</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-08/volkswagen-estudia-la-venta-de-motocicletas-ducati_4419680/</link>
