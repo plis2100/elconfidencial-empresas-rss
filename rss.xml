@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:30:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:30:58 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -43,15 +43,6 @@
       <description>La entidad, que ha fichado diez banqueros en este año, incorpora perfiles con trayectoria en el sector financiero y experiencia en asesoramiento, gestión patrimonial y relación con inversores</description>
       <author>C. R.</author>
       <enclosure url="https://images.ecestaticos.com/h475-XoXRESdvSHUnXCcXyGY0jI=/0x0:1920x1279/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbea%2F6f3%2F0b7%2Fbea6f30b7d32f69864f86b1aeb657953.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Moeve y ArcelorMittal crean una plataforma de innovación para acelerar la descarbonización</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-09/moeve-arcelormittal-descarbonizacion-industrial-1tps_4420346/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/moeve-arcelormittal-descarbonizacion-industrial-1tps_4420346/</guid>
-      <pubDate>Wed, 09 Sep 2026 08:47:00 +0000</pubDate>
-      <description>La iniciativa se enmarca en su alianza Green Molecules to Green Steel (G2G) y ha sido constituida por ambas compañías al 50%</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/5_a8k9Sp6lcjXlCeLtLwJ6vERXs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3a9%2Fb18%2F549%2F3a9b18549dad999a75358780b18e5609.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Pódcast | No, tu banco no te está pidiendo tu contraseña por teléfono: qué hacer ante un intento de estafa</title>
@@ -151,6 +142,15 @@
       <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Moeve y ArcelorMittal crean una plataforma de innovación para acelerar la descarbonización</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/moeve-arcelormittal-descarbonizacion-industrial-1tps_4420346/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/moeve-arcelormittal-descarbonizacion-industrial-1tps_4420346/</guid>
+      <pubDate>Wed, 09 Sep 2026 08:47:00 +0000</pubDate>
+      <description>La iniciativa se enmarca en su alianza Green Molecules to Green Steel (G2G) y ha sido constituida por ambas compañías al 50%</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/5_a8k9Sp6lcjXlCeLtLwJ6vERXs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3a9%2Fb18%2F549%2F3a9b18549dad999a75358780b18e5609.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>IKEA impulsa una nueva etapa de crecimiento con cambios organizativos y el refuerzo del comité de dirección</title>
