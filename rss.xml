@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:30:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:30:42 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moeve y ArcelorMittal crean una plataforma de innovación para acelerar la descarbonización</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/moeve-arcelormittal-descarbonizacion-industrial-1tps_4420346/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/moeve-arcelormittal-descarbonizacion-industrial-1tps_4420346/</guid>
+      <pubDate>Wed, 09 Sep 2026 08:47:00 +0000</pubDate>
+      <description>La iniciativa se enmarca en su alianza Green Molecules to Green Steel (G2G) y ha sido constituida por ambas compañías al 50%</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/5_a8k9Sp6lcjXlCeLtLwJ6vERXs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3a9%2Fb18%2F549%2F3a9b18549dad999a75358780b18e5609.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pódcast | No, tu banco no te está pidiendo tu contraseña por teléfono: qué hacer ante un intento de estafa</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-09/estafas-banco-smishing-phishing-vishing-codigo-futuro-bra_4378278/</link>
@@ -61,24 +70,6 @@
       <description>Según valoraciones de los competidores, el fabricante de motocicletas con sede en Bolonia podría tener un valor aproximado de 1.250 millones de euros</description>
       <author>Cotizalia</author>
       <enclosure url="https://images.ecestaticos.com/_VHYvG1D-LIU07tigLf5a1EYJ8U=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4e7%2F04e%2F5f0%2F4e704e5f0ac5b22417531e894699b235.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Amancio Ortega vende a Portugal el 13,7% de Redes Energéticas Nacionais por 380 millones</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-08/amancio-ortega-pontegadea-venta-portugal-redes-energeticas_4419586/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/amancio-ortega-pontegadea-venta-portugal-redes-energeticas_4419586/</guid>
-      <pubDate>Tue, 08 Sep 2026 07:40:00 +0000</pubDate>
-      <description>La operación supone el regreso del Estado al capital de una compañía considerada estratégica para Portugal doce años después</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/tFKMkUIp7_qnBSWM4Xfev9MVx30=/0x0:1000x750/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e5%2F481%2F603%2F3e5481603bc16daa0c3a969089df67d4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bit2me ficha a un exmiembro de la UCO y crea su agencia de custodia e incautación de criptoactivos</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-08/bit2me-fichaje-uco-guardia-civil-agencia-custodia-incautacion-criptoactivos_4419582/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/bit2me-fichaje-uco-guardia-civil-agencia-custodia-incautacion-criptoactivos_4419582/</guid>
-      <pubDate>Tue, 08 Sep 2026 07:22:00 +0000</pubDate>
-      <description>Reúne en una sola estructura capacidades que hasta ahora se debían buscar por separado: análisis de trazabilidad, asistencia técnica en intervenciones, prueba pericial, custodia y formación</description>
-      <author>C. R.</author>
-      <enclosure url="https://images.ecestaticos.com/IJTlEi5c5GsTRj5E3X547hazmk0=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa88%2F565%2F188%2Fa8856518824e57248fef191a032aae76.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -144,6 +135,33 @@
       <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</guid>
+      <pubDate>Tue, 07 Apr 2026 03:00:00 +0000</pubDate>
+      <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Amancio Ortega vende a Portugal el 13,7% de Redes Energéticas Nacionais por 380 millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/amancio-ortega-pontegadea-venta-portugal-redes-energeticas_4419586/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/amancio-ortega-pontegadea-venta-portugal-redes-energeticas_4419586/</guid>
+      <pubDate>Tue, 08 Sep 2026 07:40:00 +0000</pubDate>
+      <description>La operación supone el regreso del Estado al capital de una compañía considerada estratégica para Portugal doce años después</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/tFKMkUIp7_qnBSWM4Xfev9MVx30=/0x0:1000x750/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e5%2F481%2F603%2F3e5481603bc16daa0c3a969089df67d4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bit2me ficha a un exmiembro de la UCO y crea su agencia de custodia e incautación de criptoactivos</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/bit2me-fichaje-uco-guardia-civil-agencia-custodia-incautacion-criptoactivos_4419582/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/bit2me-fichaje-uco-guardia-civil-agencia-custodia-incautacion-criptoactivos_4419582/</guid>
+      <pubDate>Tue, 08 Sep 2026 07:22:00 +0000</pubDate>
+      <description>Reúne en una sola estructura capacidades que hasta ahora se debían buscar por separado: análisis de trazabilidad, asistencia técnica en intervenciones, prueba pericial, custodia y formación</description>
+      <author>C. R.</author>
+      <enclosure url="https://images.ecestaticos.com/IJTlEi5c5GsTRj5E3X547hazmk0=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa88%2F565%2F188%2Fa8856518824e57248fef191a032aae76.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Trump pide boicotear al fabricante aeronáutico Bombardier y escala la guerra comercial con Canadá</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-07/trump-boicot-bombardier-guerra-comercial-1tna-1tps_4419490/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/trump-boicot-bombardier-guerra-comercial-1tna-1tps_4419490/</guid>
@@ -178,15 +196,6 @@
       <description>El accidente de Adamuz (Córdoba), en el que se vio implicado uno de sus trenes, llevó a la compañía a revisar su planificación y a validar un nuevo presupuesto para 2026</description>
       <author>EP</author>
       <enclosure url="https://images.ecestaticos.com/7uQbMM2IeiaQYiDRNfpmFDKaR1o=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa39%2F78d%2F50d%2Fa3978d50d3e0bb2402df3b6b39e1119b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</guid>
-      <pubDate>Tue, 07 Apr 2026 03:00:00 +0000</pubDate>
-      <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Óscar Rodríguez estará al frente de los medios de Grupo Godó y Francesc Cano dirigirá RAC1</title>
