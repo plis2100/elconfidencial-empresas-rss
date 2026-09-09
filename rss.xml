@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:30:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:30:17 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Umiko reabre el 24 de septiembre con la mejor cocina japonesa-española de Madrid</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/umiko-reabre-fusion-japonesa-madrid-1hms-1svm_4420632/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/umiko-reabre-fusion-japonesa-madrid-1hms-1svm_4420632/</guid>
+      <pubDate>Wed, 09 Sep 2026 14:22:00 +0000</pubDate>
+      <description>El restaurante operará bajo el control de Experience Group, plataforma de marcas de consumo con sede en Madrid, que asumió la gestión tras el conflicto societario que llevó al cierre en diciembre de 2025</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/4ejGuDK-rpcdjfVoJD_69wqRG28=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F85b%2F219%2Fa1a%2F85b219a1a18985a933b74060096356cc.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Vestige Namibia abrirá las puertas de Vestige Xaudum el 15 de marzo de 2027</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-09/vestige-xaudum-namibia-khaudum-1hms-1svm_4420627/</link>
