@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:30:42 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:30:26 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A&amp;G ficha en Bankinter y Mapfre AM para reforzar su equipo de banca privada en Madrid</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/ag-fichaje-bankinter-mapfre-equipo-banca-privada-madrid_4420386/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/ag-fichaje-bankinter-mapfre-equipo-banca-privada-madrid_4420386/</guid>
+      <pubDate>Wed, 09 Sep 2026 09:28:00 +0000</pubDate>
+      <description>La entidad, que ha fichado diez banqueros en este año, incorpora perfiles con trayectoria en el sector financiero y experiencia en asesoramiento, gestión patrimonial y relación con inversores</description>
+      <author>C. R.</author>
+      <enclosure url="https://images.ecestaticos.com/h475-XoXRESdvSHUnXCcXyGY0jI=/0x0:1920x1279/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbea%2F6f3%2F0b7%2Fbea6f30b7d32f69864f86b1aeb657953.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Moeve y ArcelorMittal crean una plataforma de innovación para acelerar la descarbonización</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-09/moeve-arcelormittal-descarbonizacion-industrial-1tps_4420346/</link>
@@ -61,15 +70,6 @@
       <description>Otorgó entre 2000 y 2012 beneficios por un total de 82 millones de francos suizos (87 millones de euros) al entonces responsable de la Seguridad Social de Kuwait, Fahad al Rajaan</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/lZZCaSYXPReM8DuJCY7529TBYuc=/0x0:1692x1464/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9ab%2F2a3%2F2cf%2F9ab2a32cf1a0241974657851684d947d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Volkswagen estudia la venta de la marca italiana de motocicletas Ducati</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-08/volkswagen-estudia-la-venta-de-motocicletas-ducati_4419680/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/volkswagen-estudia-la-venta-de-motocicletas-ducati_4419680/</guid>
-      <pubDate>Tue, 08 Sep 2026 09:23:00 +0000</pubDate>
-      <description>Según valoraciones de los competidores, el fabricante de motocicletas con sede en Bolonia podría tener un valor aproximado de 1.250 millones de euros</description>
-      <author>Cotizalia</author>
-      <enclosure url="https://images.ecestaticos.com/_VHYvG1D-LIU07tigLf5a1EYJ8U=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4e7%2F04e%2F5f0%2F4e704e5f0ac5b22417531e894699b235.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,15 @@
       <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Volkswagen estudia la venta de la marca italiana de motocicletas Ducati</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/volkswagen-estudia-la-venta-de-motocicletas-ducati_4419680/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/volkswagen-estudia-la-venta-de-motocicletas-ducati_4419680/</guid>
+      <pubDate>Tue, 08 Sep 2026 09:23:00 +0000</pubDate>
+      <description>Según valoraciones de los competidores, el fabricante de motocicletas con sede en Bolonia podría tener un valor aproximado de 1.250 millones de euros</description>
+      <author>Cotizalia</author>
+      <enclosure url="https://images.ecestaticos.com/_VHYvG1D-LIU07tigLf5a1EYJ8U=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4e7%2F04e%2F5f0%2F4e704e5f0ac5b22417531e894699b235.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Amancio Ortega vende a Portugal el 13,7% de Redes Energéticas Nacionais por 380 millones</title>
