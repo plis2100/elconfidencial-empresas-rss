@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:29:23 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:36:01 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</guid>
       <pubDate>Wed, 09 Sep 2026 10:44:00 +0000</pubDate>
-      <description>El secretario de Transportes de EEUU reprocha al presidente de la multinacional americana los pactos con compañías chinas y tensiona la negociación para la fábrica valenciana</description>
+      <description>El secretario de Transportes de EEUU reprocha al presidente de la multinacional los pactos con compañías chinas y tensiona la negociación para la fábrica valenciana. Ford niega que la carta afecte al acuerdo</description>
       <author>Víctor Romero. Valencia</author>
       <enclosure url="https://images.ecestaticos.com/rtF8AneCVZT1V8CUibn-sWR_PmU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d7%2F26c%2Fa81%2F7d726ca81bc98f547e27e6d115960796.jpg" type="image/jpeg" />
     </item>
