@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:31:35 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:30:24 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vestige Namibia abrirá las puertas de Vestige Xaudum el 15 de marzo de 2027</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/vestige-xaudum-namibia-khaudum-1hms-1svm_4420627/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/vestige-xaudum-namibia-khaudum-1hms-1svm_4420627/</guid>
+      <pubDate>Wed, 09 Sep 2026 13:46:00 +0000</pubDate>
+      <description>Su inauguración marcará un nuevo capítulo para Vestige Collection al convertirse en la primera propiedad de la firma fuera de España, y el primero de los cuatro lodges que conformarán el nuevo circuito de Vestige Namibia</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/kUANW0idYD-HbWgxI9TNRnxf8Js=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff86%2Fcd6%2F800%2Ff86cd6800db9bf9860daa27fe3833acd.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Trump pide a Ford que rompa el pacto con Geely para fabricar coches en Almussafes: "Ayuda a adversarios estratégicos"</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</link>
@@ -41,35 +50,8 @@
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/estafas-banco-smishing-phishing-vishing-codigo-futuro-bra_4378278/</guid>
       <pubDate>Wed, 09 Sep 2026 03:00:00 +0000</pubDate>
       <description>En el estreno de 'Código Futuro', un pódcast de CaixaBank y El Confidencial para reflexionar sobre tecnología y banca, hablamos del auge de las estafas financieras y las claves para evitarlas</description>
-      <author>EB</author>
+      <author>EC Brands</author>
       <enclosure url="https://images.ecestaticos.com/2PY8jen90W2aUn8_msJarcCvHyQ=/0x0:1369x913/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F93d%2Fae6%2Ffad%2F93dae6faded4f0c8030820c63a274fc5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>IKEA impulsa una nueva etapa de crecimiento con cambios organizativos y el refuerzo del comité de dirección</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-08/ikea-espana-nueva-era-omnicanal-1hms-1svm_4419867/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/ikea-espana-nueva-era-omnicanal-1hms-1svm_4419867/</guid>
-      <pubDate>Tue, 08 Sep 2026 13:30:00 +0000</pubDate>
-      <description>Alberto Fossati dirigirá el nuevo canal transversal, mientras la compañía simplifica procesos y prepara más rebajas para responder a un consumidor cada vez más digital</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/rzOGVOdgq0FVrpSE88VXWKrXjOI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0d7%2F280%2F11d%2F0d728011d586e55bb39819ed065799c1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Cinven recauda 2.300 M para su segundo Fondo Estratégico, superando en un 50% su tamaño objetivo</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-08/cinven-recauda-fondo-estrategico-europeo-1hms-1svm_4419866/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/cinven-recauda-fondo-estrategico-europeo-1hms-1svm_4419866/</guid>
-      <pubDate>Tue, 08 Sep 2026 13:28:00 +0000</pubDate>
-      <description>El nuevo vehículo supera en un 50% su objetivo y ya cuenta con participaciones en cuatro compañías de servicios financieros, empresariales y tecnológicos</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/r2qFqL8pE0EFcXyKnEE9tSu2k7I=/0x0:800x554/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7df%2Fe39%2F513%2F7dfe39513ae0254bab92718292900559.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La plantilla de Airbus España mantiene la huelga por 67 votos de diferencia, a la espera del referéndum</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-08/plantilla-de-airbus-espana-mantiene-la-huelga_4419864/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/plantilla-de-airbus-espana-mantiene-la-huelga_4419864/</guid>
-      <pubDate>Tue, 08 Sep 2026 12:44:00 +0000</pubDate>
-      <description>El centro de San Pablo (Sevilla) fuera el último en votar tras los problemas técnicos de ayer, el cual ha elegido mantener la movilización con 266 votos, al contrario que en Cádiz (94,3% por el sí), Illescas (59,7%), Tablada (60,2%) y Albacete</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/jKTwiRcm6VEdvltZR7pGRiXslr8=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F674%2F3f9%2F353%2F6743f935359b28a76272400d81db5573.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +124,51 @@
       <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Alfonso Jiménez: "En 45 minutos se quemaron 30 años de historia"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</guid>
+      <pubDate>Tue, 31 Mar 2026 03:00:00 +0000</pubDate>
+      <description>El fundador de Cascajares relata en El Arte de Crear cómo vivió el incendio que arrasó su fábrica, por qué decidió no rendirse y qué aprendió cuando lo perdió todo</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/UYFoAwR9vtMbdqtWTk4x8UGggQs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaa%2Fd81%2F596%2Fdaad81596f2e8d320490bf8e82b4221f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Andrés Rodríguez: "España necesita mirar al empresario como un aventurero, no como un sospechoso"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</guid>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 +0000</pubDate>
+      <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>IKEA impulsa una nueva etapa de crecimiento con cambios organizativos y el refuerzo del comité de dirección</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/ikea-espana-nueva-era-omnicanal-1hms-1svm_4419867/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/ikea-espana-nueva-era-omnicanal-1hms-1svm_4419867/</guid>
+      <pubDate>Tue, 08 Sep 2026 13:30:00 +0000</pubDate>
+      <description>Alberto Fossati dirigirá el nuevo canal transversal, mientras la compañía simplifica procesos y prepara más rebajas para responder a un consumidor cada vez más digital</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/rzOGVOdgq0FVrpSE88VXWKrXjOI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0d7%2F280%2F11d%2F0d728011d586e55bb39819ed065799c1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cinven recauda 2.300 M para su segundo Fondo Estratégico, superando en un 50% su tamaño objetivo</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/cinven-recauda-fondo-estrategico-europeo-1hms-1svm_4419866/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/cinven-recauda-fondo-estrategico-europeo-1hms-1svm_4419866/</guid>
+      <pubDate>Tue, 08 Sep 2026 13:28:00 +0000</pubDate>
+      <description>El nuevo vehículo supera en un 50% su objetivo y ya cuenta con participaciones en cuatro compañías de servicios financieros, empresariales y tecnológicos</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/r2qFqL8pE0EFcXyKnEE9tSu2k7I=/0x0:800x554/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7df%2Fe39%2F513%2F7dfe39513ae0254bab92718292900559.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La plantilla de Airbus España mantiene la huelga por 67 votos de diferencia, a la espera del referéndum</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/plantilla-de-airbus-espana-mantiene-la-huelga_4419864/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/plantilla-de-airbus-espana-mantiene-la-huelga_4419864/</guid>
+      <pubDate>Tue, 08 Sep 2026 12:44:00 +0000</pubDate>
+      <description>El centro de San Pablo (Sevilla) fuera el último en votar tras los problemas técnicos de ayer, el cual ha elegido mantener la movilización con 266 votos, al contrario que en Cádiz (94,3% por el sí), Illescas (59,7%), Tablada (60,2%) y Albacete</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/jKTwiRcm6VEdvltZR7pGRiXslr8=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F674%2F3f9%2F353%2F6743f935359b28a76272400d81db5573.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Un banquero suizo, exsocio de Mirabaud, es condenado por corrupción de un alto funcionario kuwaití</title>
@@ -223,24 +250,6 @@
       <description>Sustituirá a Xavier de Pol, que ha sido el responsable de medios del Grupo Godó los últimos cuatro años y ha decidido emprender nuevos proyectos empresariales en el ámbito audiovisual</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/JN-ZvJQWK3EdhPWwSogQdINHn0o=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa7b%2F51f%2F959%2Fa7b51f959f73fed6a27dae2242d35e92.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Alfonso Jiménez: "En 45 minutos se quemaron 30 años de historia"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</guid>
-      <pubDate>Tue, 31 Mar 2026 03:00:00 +0000</pubDate>
-      <description>El fundador de Cascajares relata en El Arte de Crear cómo vivió el incendio que arrasó su fábrica, por qué decidió no rendirse y qué aprendió cuando lo perdió todo</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/UYFoAwR9vtMbdqtWTk4x8UGggQs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaa%2Fd81%2F596%2Fdaad81596f2e8d320490bf8e82b4221f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Andrés Rodríguez: "España necesita mirar al empresario como un aventurero, no como un sospechoso"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</guid>
-      <pubDate>Tue, 24 Mar 2026 04:00:00 +0000</pubDate>
-      <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Amancio López Seijas: "La mayoría de las hoteleras españolas empezamos desde cero"</title>
