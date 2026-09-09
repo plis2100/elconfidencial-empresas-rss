@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:30:26 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:29:23 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump pide a Ford que rompa el pacto con Geely para fabricar coches en Almussafes: "Ayuda a adversarios estratégicos"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</guid>
+      <pubDate>Wed, 09 Sep 2026 10:44:00 +0000</pubDate>
+      <description>El secretario de Transportes de EEUU reprocha al presidente de la multinacional americana los pactos con compañías chinas y tensiona la negociación para la fábrica valenciana</description>
+      <author>Víctor Romero. Valencia</author>
+      <enclosure url="https://images.ecestaticos.com/rtF8AneCVZT1V8CUibn-sWR_PmU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d7%2F26c%2Fa81%2F7d726ca81bc98f547e27e6d115960796.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>A&amp;G ficha en Bankinter y Mapfre AM para reforzar su equipo de banca privada en Madrid</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-09/ag-fichaje-bankinter-mapfre-equipo-banca-privada-madrid_4420386/</link>
@@ -61,15 +70,6 @@
       <description>El centro de San Pablo (Sevilla) fuera el último en votar tras los problemas técnicos de ayer, el cual ha elegido mantener la movilización con 266 votos, al contrario que en Cádiz (94,3% por el sí), Illescas (59,7%), Tablada (60,2%) y Albacete</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/jKTwiRcm6VEdvltZR7pGRiXslr8=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F674%2F3f9%2F353%2F6743f935359b28a76272400d81db5573.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Un banquero suizo, exsocio de Mirabaud, es condenado por corrupción de un alto funcionario kuwaití</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-08/exbanquero-suizo-mirabaud-condenado-corrupcion-kuwait-1tps_4419769/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/exbanquero-suizo-mirabaud-condenado-corrupcion-kuwait-1tps_4419769/</guid>
-      <pubDate>Tue, 08 Sep 2026 11:03:00 +0000</pubDate>
-      <description>Otorgó entre 2000 y 2012 beneficios por un total de 82 millones de francos suizos (87 millones de euros) al entonces responsable de la Seguridad Social de Kuwait, Fahad al Rajaan</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/lZZCaSYXPReM8DuJCY7529TBYuc=/0x0:1692x1464/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9ab%2F2a3%2F2cf%2F9ab2a32cf1a0241974657851684d947d.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,15 @@
       <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Un banquero suizo, exsocio de Mirabaud, es condenado por corrupción de un alto funcionario kuwaití</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-08/exbanquero-suizo-mirabaud-condenado-corrupcion-kuwait-1tps_4419769/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-08/exbanquero-suizo-mirabaud-condenado-corrupcion-kuwait-1tps_4419769/</guid>
+      <pubDate>Tue, 08 Sep 2026 11:03:00 +0000</pubDate>
+      <description>Otorgó entre 2000 y 2012 beneficios por un total de 82 millones de francos suizos (87 millones de euros) al entonces responsable de la Seguridad Social de Kuwait, Fahad al Rajaan</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/lZZCaSYXPReM8DuJCY7529TBYuc=/0x0:1692x1464/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9ab%2F2a3%2F2cf%2F9ab2a32cf1a0241974657851684d947d.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Volkswagen estudia la venta de la marca italiana de motocicletas Ducati</title>
