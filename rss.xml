@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:28:36 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:28:22 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pódcast | No, tu banco no te está pidiendo tu contraseña por teléfono: qué hacer ante un intento de estafa</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/estafas-banco-smishing-phishing-vishing-codigo-futuro-bra_4378278/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/estafas-banco-smishing-phishing-vishing-codigo-futuro-bra_4378278/</guid>
+      <pubDate>Wed, 09 Sep 2026 03:00:00 +0000</pubDate>
+      <description>En el estreno de 'Código Futuro', un pódcast de CaixaBank y El Confidencial para reflexionar sobre tecnología y banca, hablamos del auge de las estafas financieras y las claves para evitarlas</description>
+      <author>EB</author>
+      <enclosure url="https://images.ecestaticos.com/2PY8jen90W2aUn8_msJarcCvHyQ=/0x0:1369x913/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F93d%2Fae6%2Ffad%2F93dae6faded4f0c8030820c63a274fc5.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>IKEA impulsa una nueva etapa de crecimiento con cambios organizativos y el refuerzo del comité de dirección</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-08/ikea-espana-nueva-era-omnicanal-1hms-1svm_4419867/</link>
@@ -72,24 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/IJTlEi5c5GsTRj5E3X547hazmk0=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa88%2F565%2F188%2Fa8856518824e57248fef191a032aae76.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Trump pide boicotear al fabricante aeronáutico Bombardier y escala la guerra comercial con Canadá</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-07/trump-boicot-bombardier-guerra-comercial-1tna-1tps_4419490/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/trump-boicot-bombardier-guerra-comercial-1tna-1tps_4419490/</guid>
-      <pubDate>Mon, 07 Sep 2026 20:14:00 +0000</pubDate>
-      <description>Washington amenaza con elevar hasta el 50% los gravámenes a vehículos, acero y otros bienes, mientras Ottawa prepara represalias desde este martes</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/YEPaxGfXx_RFQr0w5ujVxsED_tY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8b7%2F3cf%2Fdda%2F8b73cfdda8def569e1d2a213b6b5e2e5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nordex vuela un 10% en bolsa y aúpa a Acciona gracias al consejo de compra de Bank of America</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-07/nordex-recomendacion-compra-bank-america-1tps_4418948/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/nordex-recomendacion-compra-bank-america-1tps_4418948/</guid>
-      <pubDate>Mon, 07 Sep 2026 08:46:00 +0000</pubDate>
-      <description>Consideran que existe un notable recorrido al alza en las previsiones de beneficios, lo que les ha llevado a elevar su precio objetivo hasta los 54 euros, lo que le otorga un potencial alcista del 31%</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/1gAFlXGe2H94ehxHs20ROa-n_-0=/0x0:2272x1498/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F312%2F3cf%2F770%2F3123cf770c672d83bdf1a993e5c21829.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -144,6 +135,33 @@
       <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
+      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
+      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump pide boicotear al fabricante aeronáutico Bombardier y escala la guerra comercial con Canadá</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-07/trump-boicot-bombardier-guerra-comercial-1tna-1tps_4419490/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/trump-boicot-bombardier-guerra-comercial-1tna-1tps_4419490/</guid>
+      <pubDate>Mon, 07 Sep 2026 20:14:00 +0000</pubDate>
+      <description>Washington amenaza con elevar hasta el 50% los gravámenes a vehículos, acero y otros bienes, mientras Ottawa prepara represalias desde este martes</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/YEPaxGfXx_RFQr0w5ujVxsED_tY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8b7%2F3cf%2Fdda%2F8b73cfdda8def569e1d2a213b6b5e2e5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nordex vuela un 10% en bolsa y aúpa a Acciona gracias al consejo de compra de Bank of America</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-07/nordex-recomendacion-compra-bank-america-1tps_4418948/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/nordex-recomendacion-compra-bank-america-1tps_4418948/</guid>
+      <pubDate>Mon, 07 Sep 2026 08:46:00 +0000</pubDate>
+      <description>Consideran que existe un notable recorrido al alza en las previsiones de beneficios, lo que les ha llevado a elevar su precio objetivo hasta los 54 euros, lo que le otorga un potencial alcista del 31%</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/1gAFlXGe2H94ehxHs20ROa-n_-0=/0x0:2272x1498/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F312%2F3cf%2F770%2F3123cf770c672d83bdf1a993e5c21829.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>La plantilla de Airbus en Cádiz, Tablada (Sevilla) e Illescas (Toledo) decide suspender la huelga</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-07/plantilla-de-airbus-en-cadiz-tablada-sevilla-e-illescas_4419268/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-07/plantilla-de-airbus-en-cadiz-tablada-sevilla-e-illescas_4419268/</guid>
@@ -160,15 +178,6 @@
       <description>El accidente de Adamuz (Córdoba), en el que se vio implicado uno de sus trenes, llevó a la compañía a revisar su planificación y a validar un nuevo presupuesto para 2026</description>
       <author>EP</author>
       <enclosure url="https://images.ecestaticos.com/7uQbMM2IeiaQYiDRNfpmFDKaR1o=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa39%2F78d%2F50d%2Fa3978d50d3e0bb2402df3b6b39e1119b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
-      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
-      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
