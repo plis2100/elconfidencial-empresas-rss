@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:28:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:35:35 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las empresas españolas refuerzan su apuesta por Latinoamérica como motor de crecimiento</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-10/empresas-espanolas-expansion-latinoamerica-1hms-1svm_4421321/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/empresas-espanolas-expansion-latinoamerica-1hms-1svm_4421321/</guid>
+      <pubDate>Thu, 10 Sep 2026 12:23:00 +0000</pubDate>
+      <description>Brasil y México concentran nuevas compras, concesiones y proyectos de agua, energía, banca y transporte impulsados desde España durante 2026</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/wqNTH7zcr4IdJ3AYtBViKij8-aY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff10%2F165%2Fa8a%2Ff10165a8acd48ddcd3fdc2eeb50ce715.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Openbank relanza su bróker con rebajas de comisiones para competir con los neobancos</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-10/openbank-broker-comisiones-neobancos-acciones-etf_4421060/</link>
@@ -52,15 +61,6 @@
       <description>Su inauguración marcará un nuevo capítulo para Vestige Collection al convertirse en la primera propiedad de la firma fuera de España, y el primero de los cuatro lodges que conformarán el nuevo circuito de Vestige Namibia</description>
       <author>Servimedia</author>
       <enclosure url="https://images.ecestaticos.com/kUANW0idYD-HbWgxI9TNRnxf8Js=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff86%2Fcd6%2F800%2Ff86cd6800db9bf9860daa27fe3833acd.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Trump pide a Ford que rompa el pacto con Geely para fabricar coches en Almussafes: "Ayuda a adversarios estratégicos"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</guid>
-      <pubDate>Wed, 09 Sep 2026 10:44:00 +0000</pubDate>
-      <description>El secretario de Transportes de EEUU reprocha al presidente de la multinacional los pactos con compañías chinas y tensiona la negociación para la fábrica valenciana. Ford niega que la carta afecte al acuerdo</description>
-      <author>Víctor Romero. Valencia</author>
-      <enclosure url="https://images.ecestaticos.com/rtF8AneCVZT1V8CUibn-sWR_PmU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d7%2F26c%2Fa81%2F7d726ca81bc98f547e27e6d115960796.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,15 @@
       <description>El fundador de Cascajares relata en El Arte de Crear cómo vivió el incendio que arrasó su fábrica, por qué decidió no rendirse y qué aprendió cuando lo perdió todo</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/UYFoAwR9vtMbdqtWTk4x8UGggQs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaa%2Fd81%2F596%2Fdaad81596f2e8d320490bf8e82b4221f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump pide a Ford que rompa el pacto con Geely para fabricar coches en Almussafes: "Ayuda a adversarios estratégicos"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</guid>
+      <pubDate>Wed, 09 Sep 2026 10:44:00 +0000</pubDate>
+      <description>El secretario de Transportes de EEUU reprocha al presidente de la multinacional los pactos con compañías chinas y tensiona la negociación para la fábrica valenciana. Ford niega que la carta afecte al acuerdo</description>
+      <author>Víctor Romero. Valencia</author>
+      <enclosure url="https://images.ecestaticos.com/rtF8AneCVZT1V8CUibn-sWR_PmU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d7%2F26c%2Fa81%2F7d726ca81bc98f547e27e6d115960796.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Andrés Rodríguez: "España necesita mirar al empresario como un aventurero, no como un sospechoso"</title>
