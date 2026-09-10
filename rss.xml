@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:30:35 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:31:18 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Openbank relanza su bróker con rebajas de comisiones para competir con los neobancos</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-10/openbank-broker-comisiones-neobancos-acciones-etf_4421060/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/openbank-broker-comisiones-neobancos-acciones-etf_4421060/</guid>
+      <pubDate>Thu, 10 Sep 2026 07:31:00 +0000</pubDate>
+      <description>El banco digital de Santander reduce las comisiones a un euro por operación de compraventa y sin custodia</description>
+      <author>Óscar Giménez</author>
+      <enclosure url="https://images.ecestaticos.com/NMhnvqk1FSxbcECLfZiZu-3T14M=/0x0:2000x1333/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F24a%2F86a%2F4ad%2F24a86a4adcb722da0c6259b6e5c961bf.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Lo que no se ve del Black Friday: si tu empresa quiere vender más, necesita gestionar (mejor) la logística</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-10/black-friday-espana-logistica-smartlog-bra_4417753/</link>
