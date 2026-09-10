@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:35:35 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:28:29 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cegid y Silae se unen para crear un líder europeo en tecnología empresarial potenciada por IA</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-10/cegid-silae-fusion-tecnologica-1hms-1svm_4421325/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/cegid-silae-fusion-tecnologica-1hms-1svm_4421325/</guid>
+      <pubDate>Thu, 10 Sep 2026 12:45:00 +0000</pubDate>
+      <description>La alianza proyecta un grupo valorado en más de 10.000 millones, con dos millones de clientes y una oferta conjunta de software empresarial, pagos y nóminas</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/usAN-KuAmFiU7aNMNBjmWjffYCE=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F88a%2Fd01%2F195%2F88ad01195a04f72a6e6421db28b14df8.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Las empresas españolas refuerzan su apuesta por Latinoamérica como motor de crecimiento</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-10/empresas-espanolas-expansion-latinoamerica-1hms-1svm_4421321/</link>
