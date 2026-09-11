@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 08:34:17 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:29:31 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cox cierra con éxito una emisión de 690 M de capital híbrido en EEUU y con un cupón del 8,75%</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-11/cox-mexico-emision-capital-hibrido-estados-unidos-cupon-1hms_4421779/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-11/cox-mexico-emision-capital-hibrido-estados-unidos-cupon-1hms_4421779/</guid>
+      <pubDate>Fri, 11 Sep 2026 06:45:00 +0000</pubDate>
+      <description>Ha registrado una demanda equivalente a una sobresuscripción de más de tres veces y ha contado con la participación de 125 inversores institucionales de EEUU, Reino Unido, Europa y Asia</description>
+      <author>C. R.</author>
+      <enclosure url="https://images.ecestaticos.com/oMGPnZhUpIBVBUx6gvLsJgUP6Zg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F619%2F5b6%2F56a%2F6195b656abd9b1265616fecbbccec02a.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>El 'head hunter' americano ZRG aterriza en España con la compra de Blacksmith</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-11/el-head-hunter-americano-zrg-aterriza-en-espana-con-la-compra-de-blacksmith_4421548/</link>
@@ -43,15 +52,6 @@
       <description>El banco digital de Santander reduce las comisiones a un euro por operación de compraventa y sin custodia</description>
       <author>Óscar Giménez</author>
       <enclosure url="https://images.ecestaticos.com/NMhnvqk1FSxbcECLfZiZu-3T14M=/0x0:2000x1333/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F24a%2F86a%2F4ad%2F24a86a4adcb722da0c6259b6e5c961bf.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Revolut y MetLife se alían para ofrecer a sus clientes un seguro de protección para préstamos</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-10/revolut-metlife-seguro-proteccion-pagos-1hms-1svm_4420630/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/revolut-metlife-seguro-proteccion-pagos-1hms-1svm_4420630/</guid>
-      <pubDate>Thu, 10 Sep 2026 03:00:00 +0000</pubDate>
-      <description>La cobertura opcional, integrada en la app, respaldará a quienes afronten desempleo, incapacidad, hospitalización o fallecimiento al devolver sus préstamos</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/NLbh4zU6aHtk9MJB6WC6PTfm9eU=/0x0:2272x1489/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb8c%2Fbd8%2Fb1d%2Fb8cbd8b1dd3c023279917f8838021adb.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,15 @@
       <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Revolut y MetLife se alían para ofrecer a sus clientes un seguro de protección para préstamos</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-10/revolut-metlife-seguro-proteccion-pagos-1hms-1svm_4420630/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/revolut-metlife-seguro-proteccion-pagos-1hms-1svm_4420630/</guid>
+      <pubDate>Thu, 10 Sep 2026 03:00:00 +0000</pubDate>
+      <description>La cobertura opcional, integrada en la app, respaldará a quienes afronten desempleo, incapacidad, hospitalización o fallecimiento al devolver sus préstamos</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/NLbh4zU6aHtk9MJB6WC6PTfm9eU=/0x0:2272x1489/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb8c%2Fbd8%2Fb1d%2Fb8cbd8b1dd3c023279917f8838021adb.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Lo que no se ve del Black Friday: si tu empresa quiere vender más, necesita gestionar (mejor) la logística</title>
