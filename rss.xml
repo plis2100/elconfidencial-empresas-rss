@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 14:34:24 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:29:29 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La AIE rebaja sus previsiones de demanda y producción de petróleo mundiales para 2026</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-11/aie-rebaja-sus-previsiones-de-demanda_4422156/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-11/aie-rebaja-sus-previsiones-de-demanda_4422156/</guid>
+      <pubDate>Fri, 11 Sep 2026 13:20:00 +0000</pubDate>
+      <description>La agencia adscrita a la OCDE ha trasladado que la demanda de crudo caerá en 2,5 millones de barriles diarios (mb/d) en 2026, lo que supone 940.000 menos de barriles al día que lo estimado en agosto</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/2sbt02Fc5hbKLTJ0gSSc1B86SO0=/0x0:1280x853/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F371%2F1a5%2F4d2%2F3711a54d273eaa8f6e334a9e6af5ada4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Los ‘data centers’ amenazan con llevar al Gobierno a los tribunales por cambiar las reglas</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-11/data-centers-amenazan-llevar-gobierno-tribunales_4421998/</link>
