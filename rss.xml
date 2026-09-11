@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:30:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:29:17 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TSK se hunde hasta un 8% en bolsa tras presentar sus primeras cuentas semestrales como cotizada</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-11/tsk-se-hunde-hasta-un-8-en-bolsa-resultados_4421911/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-11/tsk-se-hunde-hasta-un-8-en-bolsa-resultados_4421911/</guid>
+      <pubDate>Fri, 11 Sep 2026 08:53:00 +0000</pubDate>
+      <description>La empresa logró un beneficio neto de 44,8 millones de euros durante el primer semestre, lo que supone multiplicar por 16 la cifra de 2,8 millones del mismo período del año anterior</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/WDjQV8sVNTn1Soj7PB3Gv1nALDg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F68d%2F8cc%2F47c%2F68d8cc47c7552941077a46ee0a490475.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Cox cierra con éxito una emisión de 690 M de capital híbrido en EEUU y con un cupón del 8,75%</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-11/cox-mexico-emision-capital-hibrido-estados-unidos-cupon-1hms_4421779/</link>
