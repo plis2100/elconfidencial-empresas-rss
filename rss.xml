@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:29:17 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:29:16 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los ‘data centers’ amenazan con llevar al Gobierno a los tribunales por cambiar las reglas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-11/data-centers-amenazan-llevar-gobierno-tribunales_4421998/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-11/data-centers-amenazan-llevar-gobierno-tribunales_4421998/</guid>
+      <pubDate>Fri, 11 Sep 2026 09:57:00 +0000</pubDate>
+      <description>El sector avisa de "compensaciones multimillonarias". Spain DC alerta que la regulación preparada por el Ministerio para la Transición Ecológica supone la muerte del negocio en España</description>
+      <author>Alberto Sanz</author>
+      <enclosure url="https://images.ecestaticos.com/ue3T40Cy7tTIWLC24k0B0KVYeZ4=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fae5%2F1de%2F513%2Fae51de5138fb997ba237313764d2e857.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>TSK se hunde hasta un 8% en bolsa tras presentar sus primeras cuentas semestrales como cotizada</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-11/tsk-se-hunde-hasta-un-8-en-bolsa-resultados_4421911/</link>
