@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 10 Sep 2026 22:27:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:27:38 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El 'head hunter' americano ZRG aterriza en España con la compra de Blacksmith</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-11/el-head-hunter-americano-zrg-aterriza-en-espana-con-la-compra-de-blacksmith_4421548/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-11/el-head-hunter-americano-zrg-aterriza-en-espana-con-la-compra-de-blacksmith_4421548/</guid>
+      <pubDate>Fri, 11 Sep 2026 03:00:00 +0000</pubDate>
+      <description>La firma internacional adquiere el cazatalentos español dirigido por Alberto Herrero, que se convierte en el responsable para Europa del sector financiero del nuevo grupo</description>
+      <author>A. Marco</author>
+      <enclosure url="https://images.ecestaticos.com/r-xIWLxpvF_aARe8b3zgrL_qe1Y=/0x0:500x281/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Feac%2F607%2F52d%2Feac60752d91c24117fb81f716ce839ea.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Cegid y Silae se unen para crear un líder europeo en tecnología empresarial potenciada por IA</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-10/cegid-silae-fusion-tecnologica-1hms-1svm_4421325/</link>
@@ -36,15 +45,6 @@
       <enclosure url="https://images.ecestaticos.com/NMhnvqk1FSxbcECLfZiZu-3T14M=/0x0:2000x1333/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F24a%2F86a%2F4ad%2F24a86a4adcb722da0c6259b6e5c961bf.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Lo que no se ve del Black Friday: si tu empresa quiere vender más, necesita gestionar (mejor) la logística</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-10/black-friday-espana-logistica-smartlog-bra_4417753/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/black-friday-espana-logistica-smartlog-bra_4417753/</guid>
-      <pubDate>Thu, 10 Sep 2026 03:00:00 +0000</pubDate>
-      <description>Para muchas empresas, el Black Friday es esencial en sus cifras de negocio. Pero el aumento de la demanda debe ir acompañado de una gestión del 'stock', el almacén, los envíos a clientes...</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/C78bpk_Ftewbahfx-NVk4hTl0v8=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F124%2Fe8f%2F7a9%2F124e8f7a9292ccc2cdcc135c7aaac5e8.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Revolut y MetLife se alían para ofrecer a sus clientes un seguro de protección para préstamos</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-10/revolut-metlife-seguro-proteccion-pagos-1hms-1svm_4420630/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/revolut-metlife-seguro-proteccion-pagos-1hms-1svm_4420630/</guid>
@@ -52,24 +52,6 @@
       <description>La cobertura opcional, integrada en la app, respaldará a quienes afronten desempleo, incapacidad, hospitalización o fallecimiento al devolver sus préstamos</description>
       <author>Servimedia</author>
       <enclosure url="https://images.ecestaticos.com/NLbh4zU6aHtk9MJB6WC6PTfm9eU=/0x0:2272x1489/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb8c%2Fbd8%2Fb1d%2Fb8cbd8b1dd3c023279917f8838021adb.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Umiko reabre el 24 de septiembre con la mejor cocina japonesa-española de Madrid</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-09/umiko-reabre-fusion-japonesa-madrid-1hms-1svm_4420632/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/umiko-reabre-fusion-japonesa-madrid-1hms-1svm_4420632/</guid>
-      <pubDate>Wed, 09 Sep 2026 14:22:00 +0000</pubDate>
-      <description>El restaurante operará bajo el control de Experience Group, plataforma de marcas de consumo con sede en Madrid, que asumió la gestión tras el conflicto societario que llevó al cierre en diciembre de 2025</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/4ejGuDK-rpcdjfVoJD_69wqRG28=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F85b%2F219%2Fa1a%2F85b219a1a18985a933b74060096356cc.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vestige Namibia abrirá las puertas de Vestige Xaudum el 15 de marzo de 2027</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-09/vestige-xaudum-namibia-khaudum-1hms-1svm_4420627/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/vestige-xaudum-namibia-khaudum-1hms-1svm_4420627/</guid>
-      <pubDate>Wed, 09 Sep 2026 13:46:00 +0000</pubDate>
-      <description>Su inauguración marcará un nuevo capítulo para Vestige Collection al convertirse en la primera propiedad de la firma fuera de España, y el primero de los cuatro lodges que conformarán el nuevo circuito de Vestige Namibia</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/kUANW0idYD-HbWgxI9TNRnxf8Js=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff86%2Fcd6%2F800%2Ff86cd6800db9bf9860daa27fe3833acd.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -153,15 +135,6 @@
       <enclosure url="https://images.ecestaticos.com/UYFoAwR9vtMbdqtWTk4x8UGggQs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaa%2Fd81%2F596%2Fdaad81596f2e8d320490bf8e82b4221f.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Trump pide a Ford que rompa el pacto con Geely para fabricar coches en Almussafes: "Ayuda a adversarios estratégicos"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</guid>
-      <pubDate>Wed, 09 Sep 2026 10:44:00 +0000</pubDate>
-      <description>El secretario de Transportes de EEUU reprocha al presidente de la multinacional los pactos con compañías chinas y tensiona la negociación para la fábrica valenciana. Ford niega que la carta afecte al acuerdo</description>
-      <author>Víctor Romero. Valencia</author>
-      <enclosure url="https://images.ecestaticos.com/rtF8AneCVZT1V8CUibn-sWR_PmU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d7%2F26c%2Fa81%2F7d726ca81bc98f547e27e6d115960796.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Andrés Rodríguez: "España necesita mirar al empresario como un aventurero, no como un sospechoso"</title>
       <link>https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</guid>
@@ -169,6 +142,42 @@
       <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lo que no se ve del Black Friday: si tu empresa quiere vender más, necesita gestionar (mejor) la logística</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-10/black-friday-espana-logistica-smartlog-bra_4417753/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/black-friday-espana-logistica-smartlog-bra_4417753/</guid>
+      <pubDate>Thu, 10 Sep 2026 03:00:00 +0000</pubDate>
+      <description>Para muchas empresas, el Black Friday es esencial en sus cifras de negocio. Pero el aumento de la demanda debe ir acompañado de una gestión del 'stock', el almacén, los envíos a clientes...</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/C78bpk_Ftewbahfx-NVk4hTl0v8=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F124%2Fe8f%2F7a9%2F124e8f7a9292ccc2cdcc135c7aaac5e8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Umiko reabre el 24 de septiembre con la mejor cocina japonesa-española de Madrid</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/umiko-reabre-fusion-japonesa-madrid-1hms-1svm_4420632/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/umiko-reabre-fusion-japonesa-madrid-1hms-1svm_4420632/</guid>
+      <pubDate>Wed, 09 Sep 2026 14:22:00 +0000</pubDate>
+      <description>El restaurante operará bajo el control de Experience Group, plataforma de marcas de consumo con sede en Madrid, que asumió la gestión tras el conflicto societario que llevó al cierre en diciembre de 2025</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/4ejGuDK-rpcdjfVoJD_69wqRG28=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F85b%2F219%2Fa1a%2F85b219a1a18985a933b74060096356cc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Vestige Namibia abrirá las puertas de Vestige Xaudum el 15 de marzo de 2027</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/vestige-xaudum-namibia-khaudum-1hms-1svm_4420627/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/vestige-xaudum-namibia-khaudum-1hms-1svm_4420627/</guid>
+      <pubDate>Wed, 09 Sep 2026 13:46:00 +0000</pubDate>
+      <description>Su inauguración marcará un nuevo capítulo para Vestige Collection al convertirse en la primera propiedad de la firma fuera de España, y el primero de los cuatro lodges que conformarán el nuevo circuito de Vestige Namibia</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/kUANW0idYD-HbWgxI9TNRnxf8Js=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff86%2Fcd6%2F800%2Ff86cd6800db9bf9860daa27fe3833acd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump pide a Ford que rompa el pacto con Geely para fabricar coches en Almussafes: "Ayuda a adversarios estratégicos"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-09/trump-acuerdo-for-geely-fabrica-almussafes-tension_4420469/</guid>
+      <pubDate>Wed, 09 Sep 2026 10:44:00 +0000</pubDate>
+      <description>El secretario de Transportes de EEUU reprocha al presidente de la multinacional los pactos con compañías chinas y tensiona la negociación para la fábrica valenciana. Ford niega que la carta afecte al acuerdo</description>
+      <author>Víctor Romero. Valencia</author>
+      <enclosure url="https://images.ecestaticos.com/rtF8AneCVZT1V8CUibn-sWR_PmU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d7%2F26c%2Fa81%2F7d726ca81bc98f547e27e6d115960796.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>A&amp;G ficha en Bankinter y Mapfre AM para reforzar su equipo de banca privada en Madrid</title>
