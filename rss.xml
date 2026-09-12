@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:28:28 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:26:39 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -81,15 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/wqNTH7zcr4IdJ3AYtBViKij8-aY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff10%2F165%2Fa8a%2Ff10165a8acd48ddcd3fdc2eeb50ce715.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Openbank relanza su bróker con rebajas de comisiones para competir con los neobancos</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-10/openbank-broker-comisiones-neobancos-acciones-etf_4421060/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/openbank-broker-comisiones-neobancos-acciones-etf_4421060/</guid>
-      <pubDate>Thu, 10 Sep 2026 07:31:00 +0000</pubDate>
-      <description>El banco digital de Santander reduce las comisiones a un euro por operación de compraventa y sin custodia</description>
-      <author>Óscar Giménez</author>
-      <enclosure url="https://images.ecestaticos.com/NMhnvqk1FSxbcECLfZiZu-3T14M=/0x0:2000x1333/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F24a%2F86a%2F4ad%2F24a86a4adcb722da0c6259b6e5c961bf.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -151,6 +142,15 @@
       <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Openbank relanza su bróker con rebajas de comisiones para competir con los neobancos</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-10/openbank-broker-comisiones-neobancos-acciones-etf_4421060/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-10/openbank-broker-comisiones-neobancos-acciones-etf_4421060/</guid>
+      <pubDate>Thu, 10 Sep 2026 07:31:00 +0000</pubDate>
+      <description>El banco digital de Santander reduce las comisiones a un euro por operación de compraventa y sin custodia</description>
+      <author>Óscar Giménez</author>
+      <enclosure url="https://images.ecestaticos.com/NMhnvqk1FSxbcECLfZiZu-3T14M=/0x0:2000x1333/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F24a%2F86a%2F4ad%2F24a86a4adcb722da0c6259b6e5c961bf.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
