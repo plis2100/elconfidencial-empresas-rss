@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:32:15 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:32:13 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El dueño de Cortefiel logra su mejor primer semestre al subir su beneficio un 28%</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-14/dueno-de-cortefiel-logra-su-mejor-primer-semestre_4423227/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/dueno-de-cortefiel-logra-su-mejor-primer-semestre_4423227/</guid>
+      <pubDate>Mon, 14 Sep 2026 09:10:00 +0000</pubDate>
+      <description>Tendam cerró el primer semestre de su ejercicio 2026 con 60 aperturas netas, lo que representa un crecimiento neto de su red omnicanal del 5% en seis meses</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/qEARqbIJlMT4M0K3cciuM1hFDTE=/0x0:1200x1448/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F45c%2Fcab%2F4a4%2F45ccab4a41279c4de4e9bb1d624e5cb4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Unicaja sitúa sus 'apps' para particulares y empresas como las más valoradas del sector</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-14/unicaja-aplicacion-particulares-empresas-bra_4411261/</link>
@@ -43,15 +52,6 @@
       <description>El sector avisa de "compensaciones multimillonarias". Spain DC alerta que la regulación preparada por el Ministerio para la Transición Ecológica supone la muerte del negocio en España</description>
       <author>Alberto Sanz</author>
       <enclosure url="https://images.ecestaticos.com/ue3T40Cy7tTIWLC24k0B0KVYeZ4=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fae5%2F1de%2F513%2Fae51de5138fb997ba237313764d2e857.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>TSK se hunde hasta un 8% en bolsa tras presentar sus primeras cuentas semestrales como cotizada</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-11/tsk-se-hunde-hasta-un-8-en-bolsa-resultados_4421911/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-11/tsk-se-hunde-hasta-un-8-en-bolsa-resultados_4421911/</guid>
-      <pubDate>Fri, 11 Sep 2026 08:53:00 +0000</pubDate>
-      <description>La empresa logró un beneficio neto de 44,8 millones de euros durante el primer semestre, lo que supone multiplicar por 16 la cifra de 2,8 millones del mismo período del año anterior</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/WDjQV8sVNTn1Soj7PB3Gv1nALDg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F68d%2F8cc%2F47c%2F68d8cc47c7552941077a46ee0a490475.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,15 @@
       <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>TSK se hunde hasta un 8% en bolsa tras presentar sus primeras cuentas semestrales como cotizada</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-11/tsk-se-hunde-hasta-un-8-en-bolsa-resultados_4421911/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-11/tsk-se-hunde-hasta-un-8-en-bolsa-resultados_4421911/</guid>
+      <pubDate>Fri, 11 Sep 2026 08:53:00 +0000</pubDate>
+      <description>La empresa logró un beneficio neto de 44,8 millones de euros durante el primer semestre, lo que supone multiplicar por 16 la cifra de 2,8 millones del mismo período del año anterior</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/WDjQV8sVNTn1Soj7PB3Gv1nALDg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F68d%2F8cc%2F47c%2F68d8cc47c7552941077a46ee0a490475.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Cox cierra con éxito una emisión de 690 M de capital híbrido en EEUU y con un cupón del 8,75%</title>
