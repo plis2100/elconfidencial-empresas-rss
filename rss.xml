@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:32:21 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:32:03 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Cosmos cierra una ronda de financiación de 300 millones para impulsar la inteligencia en tiempo real desde el espacio</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-14/open-cosmos-ronda-financiacion-satelites-espaciales-1hms-1svm_4423443/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/open-cosmos-ronda-financiacion-satelites-espaciales-1hms-1svm_4423443/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:04:00 +0000</pubDate>
+      <description>La inversión permitirá ampliar la fabricación en serie y acelerar servicios de conectividad e inteligencia desde Barcelona, con respaldo europeo</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/Kvmvb9Wg9bEISowVUaKIVbMtFWY=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F180%2Fb22%2Ff10%2F180b22f1072215a6cc04266a2cee31f8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>FCC Construcción Australia gana el contrato del proyecto Sydney Metro West</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-14/sydney-metro-west-estacion-olimpica-1hms-1svm_4423440/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/sydney-metro-west-estacion-olimpica-1hms-1svm_4423440/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:44:00 +0000</pubDate>
+      <description>Consistirá en la construcción de una nueva estación de metro subterránea, junto con el desarrollo de un área más amplia en el Parque Olímpico de Sídney, uno de los destinos más importantes de la ciudad en materia de vivienda, empleo y eventos</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/go6wrMqagPrLaQzKde4mltGPR4E=/0x0:1200x533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F33c%2F4f9%2Fddd%2F33c4f9ddd2f58b670a66905ea6f49367.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>OHLA pone en venta su filial checa y asegura que cuenta con "diversas muestras de interés"</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-14/ohla-pone-en-venta-su-filial-checa_4423436/</link>
