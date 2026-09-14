@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:29:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:30:00 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naturgy invertirá 330 M en la transformación tecnológica de seis parques eólicos en España</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-14/naturgy-invertira-330-millones-transformacion-tecnologica_4423343/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/naturgy-invertira-330-millones-transformacion-tecnologica_4423343/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:03:00 +0000</pubDate>
+      <description>Estos proyectos contemplan la sustitución de un total de 274 aerogeneradores por máquinas más modernas y eficientes, lo que permitirá reducir significativamente el número de equipos</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/pyPz5p4BQ0ELhvtb7m_4cDHEA-A=/0x0:2272x1708/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc96%2F97c%2F594%2Fc9697c5942d59e1fa114d94be819e5a0.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>El dueño de Cortefiel logra su mejor primer semestre al subir su beneficio un 28%</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-14/dueno-de-cortefiel-logra-su-mejor-primer-semestre_4423227/</link>
@@ -43,15 +52,6 @@
       <description>La agencia adscrita a la OCDE ha trasladado que la demanda de crudo caerá en 2,5 millones de barriles diarios (mb/d) en 2026, lo que supone 940.000 menos de barriles al día que lo estimado en agosto</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/2sbt02Fc5hbKLTJ0gSSc1B86SO0=/0x0:1280x853/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F371%2F1a5%2F4d2%2F3711a54d273eaa8f6e334a9e6af5ada4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Los ‘data centers’ amenazan con llevar al Gobierno a los tribunales por cambiar las reglas</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-11/data-centers-amenazan-llevar-gobierno-tribunales_4421998/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-11/data-centers-amenazan-llevar-gobierno-tribunales_4421998/</guid>
-      <pubDate>Fri, 11 Sep 2026 09:57:00 +0000</pubDate>
-      <description>El sector avisa de "compensaciones multimillonarias". Spain DC alerta que la regulación preparada por el Ministerio para la Transición Ecológica supone la muerte del negocio en España</description>
-      <author>Alberto Sanz</author>
-      <enclosure url="https://images.ecestaticos.com/ue3T40Cy7tTIWLC24k0B0KVYeZ4=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fae5%2F1de%2F513%2Fae51de5138fb997ba237313764d2e857.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,15 @@
       <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los ‘data centers’ amenazan con llevar al Gobierno a los tribunales por cambiar las reglas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-11/data-centers-amenazan-llevar-gobierno-tribunales_4421998/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-11/data-centers-amenazan-llevar-gobierno-tribunales_4421998/</guid>
+      <pubDate>Fri, 11 Sep 2026 09:57:00 +0000</pubDate>
+      <description>El sector avisa de "compensaciones multimillonarias". Spain DC alerta que la regulación preparada por el Ministerio para la Transición Ecológica supone la muerte del negocio en España</description>
+      <author>Alberto Sanz</author>
+      <enclosure url="https://images.ecestaticos.com/ue3T40Cy7tTIWLC24k0B0KVYeZ4=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fae5%2F1de%2F513%2Fae51de5138fb997ba237313764d2e857.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>TSK se hunde hasta un 8% en bolsa tras presentar sus primeras cuentas semestrales como cotizada</title>
