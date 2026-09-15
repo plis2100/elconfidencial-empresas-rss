@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:30:22 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:29:24 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>José María Pons, nuevo director general de BeOne Medicines en Iberia</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-15/beone-medicines-nombra-pons-iberia-1hms-1svm_4424197/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-15/beone-medicines-nombra-pons-iberia-1hms-1svm_4424197/</guid>
+      <pubDate>Tue, 15 Sep 2026 13:43:00 +0000</pubDate>
+      <description>El ejecutivo, con más de 15 años en el sector, llega tras liderar Hematología en Novartis y afronta una etapa de crecimiento y consolidación regional</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/11noJPvWYPzlcVAIn2Svfr4rXDo=/0x0:894x780/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe40%2F84f%2F9a2%2Fe4084f9a24d9ce5476a3a85235c180a0.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Atresmedia vende el 5% que le quedaba en el unicornio Fever por 227 M y con 205 M de plusvalías</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-15/atresmedia-venta-fever-labs-unicornio_4424216/</link>
@@ -72,15 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/go6wrMqagPrLaQzKde4mltGPR4E=/0x0:1200x533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F33c%2F4f9%2Fddd%2F33c4f9ddd2f58b670a66905ea6f49367.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>OHLA pone en venta su filial checa y asegura que cuenta con "diversas muestras de interés"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-14/ohla-pone-en-venta-su-filial-checa_4423436/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/ohla-pone-en-venta-su-filial-checa_4423436/</guid>
-      <pubDate>Mon, 14 Sep 2026 13:25:00 +0000</pubDate>
-      <description>La empresa controlada por los hermanos Amodio ha precisado que en el primer trimestre de este año inició un proceso ordenado de prospección del mercado para la venta de su filial checa</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/P7EBvO-2_7DMq1CbINsyIzXHdPU=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F927%2F572%2F729%2F927572729e6f0552e5fa6c5dcccdd33c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -142,6 +142,15 @@
       <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>OHLA pone en venta su filial checa y asegura que cuenta con "diversas muestras de interés"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-14/ohla-pone-en-venta-su-filial-checa_4423436/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/ohla-pone-en-venta-su-filial-checa_4423436/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:25:00 +0000</pubDate>
+      <description>La empresa controlada por los hermanos Amodio ha precisado que en el primer trimestre de este año inició un proceso ordenado de prospección del mercado para la venta de su filial checa</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/P7EBvO-2_7DMq1CbINsyIzXHdPU=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F927%2F572%2F729%2F927572729e6f0552e5fa6c5dcccdd33c.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Dimite el presidente de Hugo Boss después de que Frasers se hiciera con casi el 50% de la firma</title>
