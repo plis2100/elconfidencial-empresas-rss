@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:29:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:28:00 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Santander gana el recurso contra AXA por el pago de 800 millones en Reino Unido</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-15/santander-gana-el-recurso-contra-axa_4424399/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-15/santander-gana-el-recurso-contra-axa_4424399/</guid>
+      <pubDate>Tue, 15 Sep 2026 15:11:00 +0000</pubDate>
+      <description>La justicia británica ha decidido estimar el recurso de Santander contra una sentencia previa que obligaba al banco a pagar 791 millones a Axa por el caso de las pólizas de seguros de protección de pagos</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/6u3rJkh9A54tBlA5M4LtHJ8dcb0=/0x0:2272x1402/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F993%2F3fd%2Fa72%2F9933fda720661660c501a7fef90b418a.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>José María Pons, nuevo director general de BeOne Medicines en Iberia</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-15/beone-medicines-nombra-pons-iberia-1hms-1svm_4424197/</link>
@@ -72,15 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/Kvmvb9Wg9bEISowVUaKIVbMtFWY=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F180%2Fb22%2Ff10%2F180b22f1072215a6cc04266a2cee31f8.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>FCC Construcción Australia gana el contrato del proyecto Sydney Metro West</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-14/sydney-metro-west-estacion-olimpica-1hms-1svm_4423440/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/sydney-metro-west-estacion-olimpica-1hms-1svm_4423440/</guid>
-      <pubDate>Mon, 14 Sep 2026 13:44:00 +0000</pubDate>
-      <description>Consistirá en la construcción de una nueva estación de metro subterránea, junto con el desarrollo de un área más amplia en el Parque Olímpico de Sídney, uno de los destinos más importantes de la ciudad en materia de vivienda, empleo y eventos</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/go6wrMqagPrLaQzKde4mltGPR4E=/0x0:1200x533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F33c%2F4f9%2Fddd%2F33c4f9ddd2f58b670a66905ea6f49367.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -142,6 +142,15 @@
       <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>FCC Construcción Australia gana el contrato del proyecto Sydney Metro West</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-14/sydney-metro-west-estacion-olimpica-1hms-1svm_4423440/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/sydney-metro-west-estacion-olimpica-1hms-1svm_4423440/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:44:00 +0000</pubDate>
+      <description>Consistirá en la construcción de una nueva estación de metro subterránea, junto con el desarrollo de un área más amplia en el Parque Olímpico de Sídney, uno de los destinos más importantes de la ciudad en materia de vivienda, empleo y eventos</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/go6wrMqagPrLaQzKde4mltGPR4E=/0x0:1200x533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F33c%2F4f9%2Fddd%2F33c4f9ddd2f58b670a66905ea6f49367.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>OHLA pone en venta su filial checa y asegura que cuenta con "diversas muestras de interés"</title>
