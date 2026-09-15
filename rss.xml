@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:28:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:29:47 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -70,15 +70,6 @@
       <description>Tendam cerró el primer semestre de su ejercicio 2026 con 60 aperturas netas, lo que representa un crecimiento neto de su red omnicanal del 5% en seis meses</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/qEARqbIJlMT4M0K3cciuM1hFDTE=/0x0:1200x1448/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F45c%2Fcab%2F4a4%2F45ccab4a41279c4de4e9bb1d624e5cb4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Unicaja sitúa sus 'apps' para particulares y empresas como las más valoradas del sector</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-14/unicaja-aplicacion-particulares-empresas-bra_4411261/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/unicaja-aplicacion-particulares-empresas-bra_4411261/</guid>
-      <pubDate>Mon, 14 Sep 2026 03:00:00 +0000</pubDate>
-      <description>La entidad mejora en 30 puntos su NPS digital en el primer semestre, avanzando en los ejes de su Plan Estratégico. Además, ha reforzado la experiencia digital de sus clientes</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/EGc5Ar6mjWvD0PIKOhgdtvCMWNM=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F88e%2F44c%2Fd56%2F88e44cd56fa69bfa3db97cfb6f116122.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -151,6 +142,15 @@
       <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Unicaja sitúa sus 'apps' para particulares y empresas como las más valoradas del sector</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-14/unicaja-aplicacion-particulares-empresas-bra_4411261/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/unicaja-aplicacion-particulares-empresas-bra_4411261/</guid>
+      <pubDate>Mon, 14 Sep 2026 03:00:00 +0000</pubDate>
+      <description>La entidad mejora en 30 puntos su NPS digital en el primer semestre, avanzando en los ejes de su Plan Estratégico. Además, ha reforzado la experiencia digital de sus clientes</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/EGc5Ar6mjWvD0PIKOhgdtvCMWNM=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F88e%2F44c%2Fd56%2F88e44cd56fa69bfa3db97cfb6f116122.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Alfonso Jiménez: "En 45 minutos se quemaron 30 años de historia"</title>
