@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 15 Sep 2026 12:29:43 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:28:12 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puente anuncia 13.000 millones para aeropuertos y reabre la batalla de Aena con las aerolíneas por las tasas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-15/puente-13-000-millones-aeropuertos-batalla-aena-aerolineas_4424116/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-15/puente-13-000-millones-aeropuertos-batalla-aena-aerolineas_4424116/</guid>
+      <pubDate>Tue, 15 Sep 2026 11:02:00 +0000</pubDate>
+      <description>El Gobierno da luz verde al DORA III, que multiplica por más de cuatro la inversión regulada. Las aerolíneas desconfían de la congelación de tarifas anunciada por Transportes</description>
+      <author>Alberto Sanz</author>
+      <enclosure url="https://images.ecestaticos.com/fJfBWOgJT9DTEFCpSdCio4qFSyA=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3b5%2F586%2Fb1c%2F3b5586b1c309557df770898e35a13166.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lidl, Dia y Consum ganan más en cuota frente a la estabilidad de Mercadona y Carrefour</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-15/lidl-dia-y-consum-ganan-mas-en-cuota_4424105/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-15/lidl-dia-y-consum-ganan-mas-en-cuota_4424105/</guid>
+      <pubDate>Tue, 15 Sep 2026 10:48:00 +0000</pubDate>
+      <description>El último análisis sobre la evolución del sector de la distribución en el segundo semestre de 2026 muestra a un consumidor "hipersensibilizado" frente a la incertidumbre y una mayor presión sobre el precio en la última parte del año</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/bSwAiTZwfB8bkFiIeJal1olb1Hc=/0x0:2272x1613/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F601%2Fc6c%2F036%2F601c6c036c18f03d7617fad4ec7faf8e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>"Los activos digitales tienen ventajas para los mercados y en CNMV vamos a apoyar su desarrollo"</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-15/cnmv-activos-digitales-blockchain-san-basilio-bra_4423934/</link>
@@ -81,15 +99,6 @@
       <enclosure url="https://images.ecestaticos.com/pyPz5p4BQ0ELhvtb7m_4cDHEA-A=/0x0:2272x1708/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc96%2F97c%2F594%2Fc9697c5942d59e1fa114d94be819e5a0.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>El dueño de Cortefiel logra su mejor primer semestre al subir su beneficio un 28%</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-14/dueno-de-cortefiel-logra-su-mejor-primer-semestre_4423227/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/dueno-de-cortefiel-logra-su-mejor-primer-semestre_4423227/</guid>
-      <pubDate>Mon, 14 Sep 2026 09:10:00 +0000</pubDate>
-      <description>Tendam cerró el primer semestre de su ejercicio 2026 con 60 aperturas netas, lo que representa un crecimiento neto de su red omnicanal del 5% en seis meses</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/qEARqbIJlMT4M0K3cciuM1hFDTE=/0x0:1200x1448/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F45c%2Fcab%2F4a4%2F45ccab4a41279c4de4e9bb1d624e5cb4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -133,6 +142,15 @@
       <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El dueño de Cortefiel logra su mejor primer semestre al subir su beneficio un 28%</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-14/dueno-de-cortefiel-logra-su-mejor-primer-semestre_4423227/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-14/dueno-de-cortefiel-logra-su-mejor-primer-semestre_4423227/</guid>
+      <pubDate>Mon, 14 Sep 2026 09:10:00 +0000</pubDate>
+      <description>Tendam cerró el primer semestre de su ejercicio 2026 con 60 aperturas netas, lo que representa un crecimiento neto de su red omnicanal del 5% en seis meses</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/qEARqbIJlMT4M0K3cciuM1hFDTE=/0x0:1200x1448/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F45c%2Fcab%2F4a4%2F45ccab4a41279c4de4e9bb1d624e5cb4.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
