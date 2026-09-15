@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 15 Sep 2026 19:26:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:30:03 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -51,7 +51,7 @@
       <pubDate>Tue, 15 Sep 2026 08:05:00 +0000</pubDate>
       <description>El presidente de la CNMV, Carlos San Basilio, cree que hay que analizar el uso de activos digitales y nuevas tecnologías en la inauguración de la IX edición del Foro ‘Activos Digitales’</description>
       <author>Óscar Giménez</author>
-      <enclosure url="https://images.ecestaticos.com/nSeY0Qa5FS0ekUZq4dtO7ll9bbA=/0x0:1057x559/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faae%2F9d3%2Fd0b%2Faae9d3d0b3493c0ebcec714e04055b5f.jpg" type="image/jpeg" />
+      <enclosure url="https://images.ecestaticos.com/J7r-f32OkwvjK1lE81Jqw74bfLo=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F698%2F300%2Ffa0%2F698300fa0fc74e9eed0e27ad2ae32610.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Telefónica alcanza un acuerdo con Dazn por 1.650 M y emitirá todo el fútbol de Primera División</title>
