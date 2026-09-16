@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:29:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:29:29 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Técnicas Reunidas firma un contrato de una planta de amoniaco verde y se dispara en bolsa</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-16/tecnicas-reunidas-firma-un-contrato-de-una-planta_4424793/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-16/tecnicas-reunidas-firma-un-contrato-de-una-planta_4424793/</guid>
+      <pubDate>Wed, 16 Sep 2026 09:58:00 +0000</pubDate>
+      <description>Ha conseguido un contrato de ingeniería de una planta de amoniaco verde en Sudáfrica promovida por Hive Hydrogen South Africa (HHSA)</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/hpP5FV1NDEVI7ZKeV1C2OEst494=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd37%2F6c0%2F01d%2Fd376c001dcaa0b89405e3ff5592245e7.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>El Gobierno aumenta en 3.400 millones la inversión en red eléctrica ante la avalancha de peticiones</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-16/gobierno-3400-millones-inversion-electrica-peticiones_4424717/</link>
