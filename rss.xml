@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:28:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:35:15 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PwC celebra el décimo aniversario de Women to Watch</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-16/pwc-women-to-watch-consejeras-1hms-1svm_4424900/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-16/pwc-women-to-watch-consejeras-1hms-1svm_4424900/</guid>
+      <pubDate>Wed, 16 Sep 2026 11:50:00 +0000</pubDate>
+      <description>El proyecto ha acompañado a 400 profesionales y contribuido a que 117 accedan como independientes a órganos de gobierno empresarial</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/3GN6vZbwxhRXvNVeeTqoSEiWfwU=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb51%2Fdc5%2F002%2Fb51dc50028772613d23e8600b7b04758.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Técnicas Reunidas firma un contrato de una planta de amoniaco verde y se dispara en bolsa</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-16/tecnicas-reunidas-firma-un-contrato-de-una-planta_4424793/</link>
