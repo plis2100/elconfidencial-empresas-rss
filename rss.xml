@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:30:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:29:37 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prosegur conmemora su 50 aniversario con una audiencia del Rey</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-16/rey-audiencia-prosegur-aniversario-1hms-1svm_4424906/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-16/rey-audiencia-prosegur-aniversario-1hms-1svm_4424906/</guid>
+      <pubDate>Wed, 16 Sep 2026 13:52:00 +0000</pubDate>
+      <description>Durante el encuentro, los directivos trasladaron a Felipe VI "el carácter diferencial de la compañía", cuya actividad se sustenta en las personas, la innovación y su contribución al desarrollo económico y social de los países en los que opera</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/saz_DaOSn_KTmJLnNpQxQeR4jLc=/0x0:1200x799/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0e7%2F674%2F887%2F0e767488710e42dfdb76c210b4656929.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Cofides entra en el accionariado de Elian con una inversión de 40 millones</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-16/cofides-entra-en-el-accionariado-de-elian_4425001/</link>
@@ -72,15 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/vrixz-XEpZ6RQ3ciN8irc4VPn6M=/0x0:996x747/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fde9%2F8bf%2F9b8%2Fde98bf9b817eeb28f295a5b5f905cbe6.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Lidl, Dia y Consum ganan más en cuota frente a la estabilidad de Mercadona y Carrefour</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-15/lidl-dia-y-consum-ganan-mas-en-cuota_4424105/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-15/lidl-dia-y-consum-ganan-mas-en-cuota_4424105/</guid>
-      <pubDate>Tue, 15 Sep 2026 10:48:00 +0000</pubDate>
-      <description>El último análisis sobre la evolución del sector de la distribución en el segundo semestre de 2026 muestra a un consumidor "hipersensibilizado" frente a la incertidumbre y una mayor presión sobre el precio en la última parte del año</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/bSwAiTZwfB8bkFiIeJal1olb1Hc=/0x0:2272x1613/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F601%2Fc6c%2F036%2F601c6c036c18f03d7617fad4ec7faf8e.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>"Los activos digitales tienen ventajas para los mercados y en CNMV vamos a apoyar su desarrollo"</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-15/cnmv-activos-digitales-blockchain-san-basilio-bra_4423934/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-15/cnmv-activos-digitales-blockchain-san-basilio-bra_4423934/</guid>
@@ -142,6 +142,15 @@
       <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lidl, Dia y Consum ganan más en cuota frente a la estabilidad de Mercadona y Carrefour</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-15/lidl-dia-y-consum-ganan-mas-en-cuota_4424105/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-15/lidl-dia-y-consum-ganan-mas-en-cuota_4424105/</guid>
+      <pubDate>Tue, 15 Sep 2026 10:48:00 +0000</pubDate>
+      <description>El último análisis sobre la evolución del sector de la distribución en el segundo semestre de 2026 muestra a un consumidor "hipersensibilizado" frente a la incertidumbre y una mayor presión sobre el precio en la última parte del año</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/bSwAiTZwfB8bkFiIeJal1olb1Hc=/0x0:2272x1613/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F601%2Fc6c%2F036%2F601c6c036c18f03d7617fad4ec7faf8e.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Telefónica alcanza un acuerdo con Dazn por 1.650 M y emitirá todo el fútbol de Primera División</title>
