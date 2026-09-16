@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:30:44 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:29:55 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Gobierno aumenta en 3.400 millones la inversión en red eléctrica ante la avalancha de peticiones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-16/gobierno-3400-millones-inversion-electrica-peticiones_4424717/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-16/gobierno-3400-millones-inversion-electrica-peticiones_4424717/</guid>
+      <pubDate>Wed, 16 Sep 2026 08:44:00 +0000</pubDate>
+      <description>Transición Ecológica eleva el presupuesto tras recibir 2.566 alegaciones. La nueva planificación amplía las conexiones para atender el crecimiento de la industria, el consumo y las renovables</description>
+      <author>Alberto Sanz</author>
+      <enclosure url="https://images.ecestaticos.com/daO0Mo_NRHvj2eakYCR_tdxsN_8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff19%2F2d9%2F2c2%2Ff192d92c2709f48125f9e0777f027b77.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Santander gana el recurso contra AXA por el pago de 800 millones en Reino Unido</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-15/santander-gana-el-recurso-contra-axa_4424399/</link>
