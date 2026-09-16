@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:35:15 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:30:22 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cofides entra en el accionariado de Elian con una inversión de 40 millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-16/cofides-entra-en-el-accionariado-de-elian_4425001/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-16/cofides-entra-en-el-accionariado-de-elian_4425001/</guid>
+      <pubDate>Wed, 16 Sep 2026 13:08:00 +0000</pubDate>
+      <description>La operación, por la cual Cofides se convierte en accionista minoritario, ya que ostentará un 13,8% del capital, se ha presentado este miércoles en la planta de Elian en el Puerto de Barcelona</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/DdwXSc-S_nfHwRl-TyeXvEeqTWw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb55%2F762%2F7d2%2Fb557627d2096a9e57cc26310ae987f77.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>PwC celebra el décimo aniversario de Women to Watch</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-16/pwc-women-to-watch-consejeras-1hms-1svm_4424900/</link>
@@ -81,15 +90,6 @@
       <enclosure url="https://images.ecestaticos.com/J7r-f32OkwvjK1lE81Jqw74bfLo=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F698%2F300%2Ffa0%2F698300fa0fc74e9eed0e27ad2ae32610.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Telefónica alcanza un acuerdo con Dazn por 1.650 M y emitirá todo el fútbol de Primera División</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-15/telefonica-acuerdo-dazn-emision-todos-partidos-futbol-laliga_4423886/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-15/telefonica-acuerdo-dazn-emision-todos-partidos-futbol-laliga_4423886/</guid>
-      <pubDate>Tue, 15 Sep 2026 06:52:00 +0000</pubDate>
-      <description>La teleco podrá emitir cinco partidos más por jornada del Campeonato Nacional de Liga de Primera División, en las 38 jornadas,  gracias a la distribución del paquete de DAZN LaLiga</description>
-      <author>C. R.</author>
-      <enclosure url="https://images.ecestaticos.com/d6rYAP6W643M-GR1oB6TNDK4bKI=/0x0:2272x1510/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd39%2F2c2%2Fec2%2Fd392c2ec200b72d03d1f30e009eb65a5.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -142,6 +142,15 @@
       <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Telefónica alcanza un acuerdo con Dazn por 1.650 M y emitirá todo el fútbol de Primera División</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-15/telefonica-acuerdo-dazn-emision-todos-partidos-futbol-laliga_4423886/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-15/telefonica-acuerdo-dazn-emision-todos-partidos-futbol-laliga_4423886/</guid>
+      <pubDate>Tue, 15 Sep 2026 06:52:00 +0000</pubDate>
+      <description>La teleco podrá emitir cinco partidos más por jornada del Campeonato Nacional de Liga de Primera División, en las 38 jornadas,  gracias a la distribución del paquete de DAZN LaLiga</description>
+      <author>C. R.</author>
+      <enclosure url="https://images.ecestaticos.com/d6rYAP6W643M-GR1oB6TNDK4bKI=/0x0:2272x1510/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd39%2F2c2%2Fec2%2Fd392c2ec200b72d03d1f30e009eb65a5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
