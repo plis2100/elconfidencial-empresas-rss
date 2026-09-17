@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:28:57 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:28:14 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Audiencia Nacional ratifica la absolución de la cúpula de Urbas por ampliación de capital</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-17/audiencia-nacional-ratifica-la-absolucion-cupula-de-urbas_4425757/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-17/audiencia-nacional-ratifica-la-absolucion-cupula-de-urbas_4425757/</guid>
+      <pubDate>Thu, 17 Sep 2026 10:49:00 +0000</pubDate>
+      <description>La Sala no acepta los argumentos de la Fiscalía, que no pretendía "una revaluación global de la prueba, sino denunciar errores patentes, utilización de prueba inexistente y omisiones relevantes de hechos probados"</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/Y44muVh9dr1vXw0LMuB-No6gtx4=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbec%2F26b%2F5e1%2Fbec26b5e1fd23460e914442843dc7218.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Revolut niega haber recibido amenazas tras sufrir un robo de información sensible</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-17/revolut-niega-amenazas-robo-informacion-sensible-brecha-seguridad_4425685/</link>
@@ -72,15 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/3GN6vZbwxhRXvNVeeTqoSEiWfwU=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb51%2Fdc5%2F002%2Fb51dc50028772613d23e8600b7b04758.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Técnicas Reunidas firma un contrato de una planta de amoniaco verde y se dispara en bolsa</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-16/tecnicas-reunidas-firma-un-contrato-de-una-planta_4424793/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-16/tecnicas-reunidas-firma-un-contrato-de-una-planta_4424793/</guid>
-      <pubDate>Wed, 16 Sep 2026 09:58:00 +0000</pubDate>
-      <description>Ha conseguido un contrato de ingeniería de una planta de amoniaco verde en Sudáfrica promovida por Hive Hydrogen South Africa (HHSA)</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/hpP5FV1NDEVI7ZKeV1C2OEst494=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd37%2F6c0%2F01d%2Fd376c001dcaa0b89405e3ff5592245e7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -142,6 +142,15 @@
       <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Técnicas Reunidas firma un contrato de una planta de amoniaco verde y se dispara en bolsa</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-16/tecnicas-reunidas-firma-un-contrato-de-una-planta_4424793/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-16/tecnicas-reunidas-firma-un-contrato-de-una-planta_4424793/</guid>
+      <pubDate>Wed, 16 Sep 2026 09:58:00 +0000</pubDate>
+      <description>Ha conseguido un contrato de ingeniería de una planta de amoniaco verde en Sudáfrica promovida por Hive Hydrogen South Africa (HHSA)</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/hpP5FV1NDEVI7ZKeV1C2OEst494=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd37%2F6c0%2F01d%2Fd376c001dcaa0b89405e3ff5592245e7.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>El Gobierno aumenta en 3.400 millones la inversión en red eléctrica ante la avalancha de peticiones</title>
