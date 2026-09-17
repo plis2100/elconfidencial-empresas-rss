@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:29:39 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:28:57 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revolut niega haber recibido amenazas tras sufrir un robo de información sensible</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-17/revolut-niega-amenazas-robo-informacion-sensible-brecha-seguridad_4425685/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-17/revolut-niega-amenazas-robo-informacion-sensible-brecha-seguridad_4425685/</guid>
+      <pubDate>Thu, 17 Sep 2026 09:47:00 +0000</pubDate>
+      <description>La entidad, que confirmó que hay 680 cuentas afectadas a nivel global, asegura que los sistemas de Revolut y los fondos de sus clientes no se han visto afectados</description>
+      <author>El Confidencial</author>
+      <enclosure url="https://images.ecestaticos.com/4KApZ5xQLf_Zf4wLb77_X7nt6mg=/0x0:2272x1435/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2Fafd%2F2ec%2F70aafd2ec6aa47fa9a8c6c5805211cf2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los ingresos de las gasolineras en España y Portugal superaron los 45.500 millones en 2025</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-17/ingresos-de-las-gasolineras-en-espana-y-portugal_4425657/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-17/ingresos-de-las-gasolineras-en-espana-y-portugal_4425657/</guid>
+      <pubDate>Thu, 17 Sep 2026 09:28:00 +0000</pubDate>
+      <description>Las previsiones del informe apuntan a una ralentización del crecimiento del volumen de ventas de carburantes, acompañada de un fuerte ascenso de los ingresos del sector en un contexto marcado por la subida significativa de los precios.</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/Ujs67EfE8OiPougDhHJapHHSbAs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F015%2Fd7c%2F5a0%2F015d7c5a0723837f65121ebe367eaddc.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Ezentis despunta hasta un 10% en bolsa tras volver a beneficios en el semestre y ganar tres millones</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-17/ezentis-beneficio-ingresos-crecimiento-1tps_4425534/</link>
@@ -61,15 +79,6 @@
       <description>Ha conseguido un contrato de ingeniería de una planta de amoniaco verde en Sudáfrica promovida por Hive Hydrogen South Africa (HHSA)</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/hpP5FV1NDEVI7ZKeV1C2OEst494=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd37%2F6c0%2F01d%2Fd376c001dcaa0b89405e3ff5592245e7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El Gobierno aumenta en 3.400 millones la inversión en red eléctrica ante la avalancha de peticiones</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-16/gobierno-3400-millones-inversion-electrica-peticiones_4424717/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-16/gobierno-3400-millones-inversion-electrica-peticiones_4424717/</guid>
-      <pubDate>Wed, 16 Sep 2026 08:44:00 +0000</pubDate>
-      <description>Transición Ecológica eleva el presupuesto tras recibir 2.566 alegaciones. La nueva planificación amplía las conexiones para atender el crecimiento de la industria, el consumo y las renovables</description>
-      <author>Alberto Sanz</author>
-      <enclosure url="https://images.ecestaticos.com/daO0Mo_NRHvj2eakYCR_tdxsN_8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff19%2F2d9%2F2c2%2Ff192d92c2709f48125f9e0777f027b77.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -133,6 +142,15 @@
       <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Gobierno aumenta en 3.400 millones la inversión en red eléctrica ante la avalancha de peticiones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-16/gobierno-3400-millones-inversion-electrica-peticiones_4424717/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-16/gobierno-3400-millones-inversion-electrica-peticiones_4424717/</guid>
+      <pubDate>Wed, 16 Sep 2026 08:44:00 +0000</pubDate>
+      <description>Transición Ecológica eleva el presupuesto tras recibir 2.566 alegaciones. La nueva planificación amplía las conexiones para atender el crecimiento de la industria, el consumo y las renovables</description>
+      <author>Alberto Sanz</author>
+      <enclosure url="https://images.ecestaticos.com/daO0Mo_NRHvj2eakYCR_tdxsN_8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff19%2F2d9%2F2c2%2Ff192d92c2709f48125f9e0777f027b77.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
