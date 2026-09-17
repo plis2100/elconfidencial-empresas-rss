@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:30:11 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:30:45 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ezentis despunta hasta un 10% en bolsa tras volver a beneficios en el semestre y ganar tres millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-17/ezentis-beneficio-ingresos-crecimiento-1tps_4425534/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-17/ezentis-beneficio-ingresos-crecimiento-1tps_4425534/</guid>
+      <pubDate>Thu, 17 Sep 2026 07:33:00 +0000</pubDate>
+      <description>La firma tecnológica cierra el semestre con una cartera de proyectos de 36,6 millones, cuatro adquisiciones y una deuda financiera reducida a 2 millones</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/EehaGjLJ7j64UHCwk8AAFZ49-O4=/0x0:1182x867/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faf4%2F9c5%2F477%2Faf49c5477cabed70a43f5bad50ecc0e8.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Mercadona prueba un nuevo sistema de cobro en sus cajas que obliga a los clientes a vaciar el carro por completo a la hora de pagar</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-17/mercadona-prueba-sistema-cobro-cajas-obliga-clientes-vaciar-carro-1qrt_4425294/</link>
