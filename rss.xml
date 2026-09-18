@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:28:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:29:20 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un consorcio de Técnicas Reunidas y Samsung recibirá 120 M por un arbitraje de 2021</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-18/tecnicas-reunidas-samsung-arbitraje-mgt-1tps_4426546/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/tecnicas-reunidas-samsung-arbitraje-mgt-1tps_4426546/</guid>
+      <pubDate>Fri, 18 Sep 2026 08:15:00 +0000</pubDate>
+      <description>El fallo londinense cierra una disputa iniciada en 2021, mientras la compañía española afronta otro litigio por avales de 133 millones en Sitra</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/Xk5L5hge-IxMiCHZQ033TF7EiOA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbb6%2F927%2F6fc%2Fbb69276fc1afa98e9b42df6ee929c90a.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Los suplementos de Aldous llegan a las tiendas físicas de Primor en España y Portugal</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-18/aldous-suplementos-venta-primor-tiendas-bra_4419038/</link>
