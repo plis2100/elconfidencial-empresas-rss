@@ -5,11 +5,20 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:28:25 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:29:05 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>La ex número dos de Puente niega responsabilidad en Adamuz y desconoce motivo de su cese</title>
+      <title>Rankia reconoce la formación online y especializada de GBSB Global Business School</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-21/gbsb-global-segunda-ranking-online-1hms-1svm_4428289/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/gbsb-global-segunda-ranking-online-1hms-1svm_4428289/</guid>
+      <pubDate>Mon, 21 Sep 2026 13:28:00 +0000</pubDate>
+      <description>La evaluación destaca la enseñanza íntegramente en inglés, la innovación de sus programas y una infraestructura tecnológica reconocida por Microsoft</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/G74GsH7eXnGgrnDWKvomRU4b3nA=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F490%2Fad2%2F009%2F490ad2009131839309c28b4d87f0d4da.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La ex número dos de Puente niega responsabilidad en Adamuz y desconoce el motivo de su cese</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-21/oscar-puente-niega-responsabilidad-en-adamuz_4428307/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/oscar-puente-niega-responsabilidad-en-adamuz_4428307/</guid>
       <pubDate>Mon, 21 Sep 2026 13:23:00 +0000</pubDate>
