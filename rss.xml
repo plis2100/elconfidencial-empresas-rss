@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 19 Sep 2026 22:26:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:28:28 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -52,42 +52,6 @@
       <description>Durante la gala de los V Premios Atlántico Hoy, el presidente autonómico defendió la verificación, el rigor y el arraigo local como pilares ante la era digital</description>
       <author>Servimedia</author>
       <enclosure url="https://images.ecestaticos.com/B9xjAcZooL2B6IG4gZWUkxhdm-A=/0x0:800x533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F77a%2F746%2F25e%2F77a74625ebb90faaed66422a57fbe192.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Warren Buffett deja la presidencia de Berkshire Hathaway y da paso a su hijo Howard Buffett</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-18/warren-buffett-deja-presidencia-berkshire-1tps_4426808/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/warren-buffett-deja-presidencia-berkshire-1tps_4426808/</guid>
-      <pubDate>Fri, 18 Sep 2026 11:28:00 +0000</pubDate>
-      <description>A sus 96 años, el inversor conservará un asiento en el consejo y asumirá un cargo honorífico, mientras su hijo Howard velará por la cultura del grupo</description>
-      <author>EP</author>
-      <enclosure url="https://images.ecestaticos.com/yCU9hKXvWZtpXGChVTpa3khJi_s=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F06f%2F114%2F5e7%2F06f1145e721f9d670c3083fc26848d75.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Quién es Anas Laghrari, el asesor financiero marroquí mano derecha de Florentino Pérez: todos sus negocios y su papel no oficial en el Real Madrid</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-18/1qrt-quien-es-anas-laghrari-asesor-marroqui-mano-derecha-florentino_4426572/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/1qrt-quien-es-anas-laghrari-asesor-marroqui-mano-derecha-florentino_4426572/</guid>
-      <pubDate>Fri, 18 Sep 2026 10:01:00 +0000</pubDate>
-      <description>Su discreto protagonismo se extiende desde la Superliga hasta la comercialización del nuevo Bernabéu, pasando por complejas operaciones corporativas dentro y fuera del fútbol</description>
-      <author>El Confidencial</author>
-      <enclosure url="https://images.ecestaticos.com/UDfmhpyWhA2HDzp0y31k78KZR4s=/0x0:1200x675/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa1d%2Ff42%2F641%2Fa1df426413dc707429a8759a15233000.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Un consorcio de Técnicas Reunidas y Samsung recibirá 120 M por un arbitraje de 2021</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-18/tecnicas-reunidas-samsung-arbitraje-mgt-1tps_4426546/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/tecnicas-reunidas-samsung-arbitraje-mgt-1tps_4426546/</guid>
-      <pubDate>Fri, 18 Sep 2026 08:15:00 +0000</pubDate>
-      <description>El fallo londinense cierra una disputa iniciada en 2021, mientras la compañía española afronta otro litigio por avales de 133 millones en Sitra</description>
-      <author>EP</author>
-      <enclosure url="https://images.ecestaticos.com/Xk5L5hge-IxMiCHZQ033TF7EiOA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbb6%2F927%2F6fc%2Fbb69276fc1afa98e9b42df6ee929c90a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Los suplementos de Aldous llegan a las tiendas físicas de Primor en España y Portugal</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-18/aldous-suplementos-venta-primor-tiendas-bra_4419038/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/aldous-suplementos-venta-primor-tiendas-bra_4419038/</guid>
-      <pubDate>Fri, 18 Sep 2026 03:00:00 +0000</pubDate>
-      <description>La compañía de complementos alimenticios española incorpora 25 referencias a la red de establecimientos de Primor. Este movimiento forma parte de su plan de transición desde el canal digital hacia el comercio minorista tradicional</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/yWxBYzYaetcUwg17Bvy7Opiht2s=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6f8%2F42b%2Fc3d%2F6f842bc3daae6e3a11a1d1ff44ab2840.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +106,78 @@
       <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
+      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
+      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</guid>
+      <pubDate>Tue, 07 Apr 2026 03:00:00 +0000</pubDate>
+      <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Alfonso Jiménez: "En 45 minutos se quemaron 30 años de historia"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</guid>
+      <pubDate>Tue, 31 Mar 2026 03:00:00 +0000</pubDate>
+      <description>El fundador de Cascajares relata en El Arte de Crear cómo vivió el incendio que arrasó su fábrica, por qué decidió no rendirse y qué aprendió cuando lo perdió todo</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/UYFoAwR9vtMbdqtWTk4x8UGggQs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaa%2Fd81%2F596%2Fdaad81596f2e8d320490bf8e82b4221f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Andrés Rodríguez: "España necesita mirar al empresario como un aventurero, no como un sospechoso"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</guid>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 +0000</pubDate>
+      <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Warren Buffett deja la presidencia de Berkshire Hathaway y da paso a su hijo Howard Buffett</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-18/warren-buffett-deja-presidencia-berkshire-1tps_4426808/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/warren-buffett-deja-presidencia-berkshire-1tps_4426808/</guid>
+      <pubDate>Fri, 18 Sep 2026 11:28:00 +0000</pubDate>
+      <description>A sus 96 años, el inversor conservará un asiento en el consejo y asumirá un cargo honorífico, mientras su hijo Howard velará por la cultura del grupo</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/yCU9hKXvWZtpXGChVTpa3khJi_s=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F06f%2F114%2F5e7%2F06f1145e721f9d670c3083fc26848d75.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Quién es Anas Laghrari, el asesor financiero marroquí mano derecha de Florentino Pérez: todos sus negocios y su papel no oficial en el Real Madrid</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-18/1qrt-quien-es-anas-laghrari-asesor-marroqui-mano-derecha-florentino_4426572/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/1qrt-quien-es-anas-laghrari-asesor-marroqui-mano-derecha-florentino_4426572/</guid>
+      <pubDate>Fri, 18 Sep 2026 10:01:00 +0000</pubDate>
+      <description>Su discreto protagonismo se extiende desde la Superliga hasta la comercialización del nuevo Bernabéu, pasando por complejas operaciones corporativas dentro y fuera del fútbol</description>
+      <author>El Confidencial</author>
+      <enclosure url="https://images.ecestaticos.com/UDfmhpyWhA2HDzp0y31k78KZR4s=/0x0:1200x675/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa1d%2Ff42%2F641%2Fa1df426413dc707429a8759a15233000.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Un consorcio de Técnicas Reunidas y Samsung recibirá 120 M por un arbitraje de 2021</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-18/tecnicas-reunidas-samsung-arbitraje-mgt-1tps_4426546/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/tecnicas-reunidas-samsung-arbitraje-mgt-1tps_4426546/</guid>
+      <pubDate>Fri, 18 Sep 2026 08:15:00 +0000</pubDate>
+      <description>El fallo londinense cierra una disputa iniciada en 2021, mientras la compañía española afronta otro litigio por avales de 133 millones en Sitra</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/Xk5L5hge-IxMiCHZQ033TF7EiOA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbb6%2F927%2F6fc%2Fbb69276fc1afa98e9b42df6ee929c90a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los suplementos de Aldous llegan a las tiendas físicas de Primor en España y Portugal</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-18/aldous-suplementos-venta-primor-tiendas-bra_4419038/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/aldous-suplementos-venta-primor-tiendas-bra_4419038/</guid>
+      <pubDate>Fri, 18 Sep 2026 03:00:00 +0000</pubDate>
+      <description>La compañía de complementos alimenticios española incorpora 25 referencias a la red de establecimientos de Primor. Este movimiento forma parte de su plan de transición desde el canal digital hacia el comercio minorista tradicional</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/yWxBYzYaetcUwg17Bvy7Opiht2s=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6f8%2F42b%2Fc3d%2F6f842bc3daae6e3a11a1d1ff44ab2840.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Europa impulsa HART, la tecnología de la biofarmacéutica RemAb Therapeutics para eliminar anticuerpos implicados en enfermedades y reforzar la respuesta inmunitaria</title>
@@ -207,15 +243,6 @@
       <enclosure url="https://images.ecestaticos.com/EehaGjLJ7j64UHCwk8AAFZ49-O4=/0x0:1182x867/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faf4%2F9c5%2F477%2Faf49c5477cabed70a43f5bad50ecc0e8.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
-      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
-      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Mercadona prueba un nuevo sistema de cobro en sus cajas que obliga a los clientes a vaciar el carro por completo a la hora de pagar</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-17/mercadona-prueba-sistema-cobro-cajas-obliga-clientes-vaciar-carro-1qrt_4425294/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-17/mercadona-prueba-sistema-cobro-cajas-obliga-clientes-vaciar-carro-1qrt_4425294/</guid>
@@ -268,24 +295,6 @@
       <description>Transición Ecológica eleva el presupuesto tras recibir 2.566 alegaciones. La nueva planificación amplía las conexiones para atender el crecimiento de la industria, el consumo y las renovables</description>
       <author>Alberto Sanz</author>
       <enclosure url="https://images.ecestaticos.com/daO0Mo_NRHvj2eakYCR_tdxsN_8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff19%2F2d9%2F2c2%2Ff192d92c2709f48125f9e0777f027b77.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</guid>
-      <pubDate>Tue, 07 Apr 2026 03:00:00 +0000</pubDate>
-      <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Alfonso Jiménez: "En 45 minutos se quemaron 30 años de historia"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-31/el-arte-de-crear-cascajares-alfonso-jimenez_4329982/</guid>
-      <pubDate>Tue, 31 Mar 2026 03:00:00 +0000</pubDate>
-      <description>El fundador de Cascajares relata en El Arte de Crear cómo vivió el incendio que arrasó su fábrica, por qué decidió no rendirse y qué aprendió cuando lo perdió todo</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/UYFoAwR9vtMbdqtWTk4x8UGggQs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaa%2Fd81%2F596%2Fdaad81596f2e8d320490bf8e82b4221f.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Santander gana el recurso contra AXA por el pago de 800 millones en Reino Unido</title>
@@ -421,15 +430,6 @@
       <description>La entidad mejora en 30 puntos su NPS digital en el primer semestre, avanzando en los ejes de su Plan Estratégico. Además, ha reforzado la experiencia digital de sus clientes</description>
       <author>EC Brands</author>
       <enclosure url="https://images.ecestaticos.com/EGc5Ar6mjWvD0PIKOhgdtvCMWNM=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F88e%2F44c%2Fd56%2F88e44cd56fa69bfa3db97cfb6f116122.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Andrés Rodríguez: "España necesita mirar al empresario como un aventurero, no como un sospechoso"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-03-24/el-arte-de-crear-andres-rodriguez-bra_4325258/</guid>
-      <pubDate>Tue, 24 Mar 2026 04:00:00 +0000</pubDate>
-      <description>El editor que trajo Forbes a España conversa en El Arte de Crear sobre dinero, riesgo, poder, fracaso y una tarea pendiente en nuestro país: aprender a admirar de verdad a quienes se atreven a crear empresa</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/s5j03nhgLG26GNtSWoyCk40bKIs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d9%2Fa6e%2Fe06%2F3d9a6ee0676944a4963d0bf246611fd0.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Geopolítica, gobernanza e inteligencia artificial, ejes centrales de ESG Spain 2026</title>
