@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:29:26 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:28:20 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tres de cada cuatro comercios ya aceptan pagos presenciales con Bizum</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-21/bizum-pagos-presenciales-comercios-1tps_4428109/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/bizum-pagos-presenciales-comercios-1tps_4428109/</guid>
+      <pubDate>Mon, 21 Sep 2026 10:04:00 +0000</pubDate>
+      <description>Las personas usuarias pueden pagar en tienda con Bizum a través de las aplicaciones bancarias de algunas entidades o mediante Bizum Pay, cartera digital descargable en iOS y Android</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/0HR6io64UXLKoqzoufvo4faOjp0=/0x0:996x747/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F678%2F7a3%2Fdcf%2F6787a3dcf53881dbe8f42a2f06d4b455.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Novo se desploma en bolsa tras comprometerse a lanzar nuevos fármacos y generar 23.000 M en ventas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-21/novo-se-desploma-en-bolsa-farmacos-ventas_4428099/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/novo-se-desploma-en-bolsa-farmacos-ventas_4428099/</guid>
+      <pubDate>Mon, 21 Sep 2026 09:55:00 +0000</pubDate>
+      <description>El laboratorio ha decepcionado a los inversores con la presentación de un plan para elevar su facturación para 2035, mientras la competencia con su principal rival, Eli Lilly, mantiene al mercado saturado</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/egR1dBM4lN1vdsepg9oRseRMiBA=/0x0:2272x1483/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F462%2Fd4f%2F43e%2F462d4f43e3767fdcb6f3c29638a3a541.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Cox logra un laudo favorable de 198 millones por la desaladora de Accra en Ghana</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-21/cox-ghana-laudo-arbitral-desaladora-1tps_4428012/</link>
@@ -43,24 +61,6 @@
       <description>Las empresas de telecomunicaciones se hunden ante la preocupación por la competencia de los operadores de satélites y el impacto disruptivo de las herramientas de Inteligencia Artificial</description>
       <author>El Confidencial</author>
       <enclosure url="https://images.ecestaticos.com/bo4FQsrkI19iZDYGGmcTgnL5Cac=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F930%2F5c4%2F478%2F9305c4478123e038be596a769fcbb951.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La suiza On arrebata Kylian Mbappé a Nike en un nuevo desafío al dominio del gigante estadounidense</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-18/kylian-mbappe-real-madrid-suiza-on-nike-desafio-gigante-estados-unidos_4426917/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/kylian-mbappe-real-madrid-suiza-on-nike-desafio-gigante-estados-unidos_4426917/</guid>
-      <pubDate>Fri, 18 Sep 2026 12:51:00 +0000</pubDate>
-      <description>El delantero francés del Real Madrid se convertirá también en embajador global de la compañía, extendiendo la colaboración más allá del mundo del fútbol</description>
-      <author>C. R.</author>
-      <enclosure url="https://images.ecestaticos.com/ZECpBpNbINb6THKVs9jQ5NwbXHc=/0x0:667x658/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa2f%2F9be%2F9ad%2Fa2f9be9addf29bffebee9fe522b90278.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Clavijo defiende el "cuarto poder" como contrapeso y pide a los medios que contrasten la información</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-18/clavijo-defiende-medios-fiables-1hms-1svm_4426847/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/clavijo-defiende-medios-fiables-1hms-1svm_4426847/</guid>
-      <pubDate>Fri, 18 Sep 2026 12:41:00 +0000</pubDate>
-      <description>Durante la gala de los V Premios Atlántico Hoy, el presidente autonómico defendió la verificación, el rigor y el arraigo local como pilares ante la era digital</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/B9xjAcZooL2B6IG4gZWUkxhdm-A=/0x0:800x533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F77a%2F746%2F25e%2F77a74625ebb90faaed66422a57fbe192.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,24 @@
       <description>El fundador de Cascajares relata en El Arte de Crear cómo vivió el incendio que arrasó su fábrica, por qué decidió no rendirse y qué aprendió cuando lo perdió todo</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/UYFoAwR9vtMbdqtWTk4x8UGggQs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaa%2Fd81%2F596%2Fdaad81596f2e8d320490bf8e82b4221f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La suiza On arrebata Kylian Mbappé a Nike en un nuevo desafío al dominio del gigante estadounidense</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-18/kylian-mbappe-real-madrid-suiza-on-nike-desafio-gigante-estados-unidos_4426917/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/kylian-mbappe-real-madrid-suiza-on-nike-desafio-gigante-estados-unidos_4426917/</guid>
+      <pubDate>Fri, 18 Sep 2026 12:51:00 +0000</pubDate>
+      <description>El delantero francés del Real Madrid se convertirá también en embajador global de la compañía, extendiendo la colaboración más allá del mundo del fútbol</description>
+      <author>C. R.</author>
+      <enclosure url="https://images.ecestaticos.com/ZECpBpNbINb6THKVs9jQ5NwbXHc=/0x0:667x658/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa2f%2F9be%2F9ad%2Fa2f9be9addf29bffebee9fe522b90278.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Clavijo defiende el "cuarto poder" como contrapeso y pide a los medios que contrasten la información</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-18/clavijo-defiende-medios-fiables-1hms-1svm_4426847/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-18/clavijo-defiende-medios-fiables-1hms-1svm_4426847/</guid>
+      <pubDate>Fri, 18 Sep 2026 12:41:00 +0000</pubDate>
+      <description>Durante la gala de los V Premios Atlántico Hoy, el presidente autonómico defendió la verificación, el rigor y el arraigo local como pilares ante la era digital</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/B9xjAcZooL2B6IG4gZWUkxhdm-A=/0x0:800x533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F77a%2F746%2F25e%2F77a74625ebb90faaed66422a57fbe192.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Andrés Rodríguez: "España necesita mirar al empresario como un aventurero, no como un sospechoso"</title>
