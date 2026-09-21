@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:26:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:29:20 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paramount llega a un acuerdo con la Fiscalía estadounidense para desbloquear la compra de Warner</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-21/paramount-llega-a-un-acuerdo-con-la-fiscalia-estadounidense-para-desbloquear-la-compra-de-warner_4428464/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/paramount-llega-a-un-acuerdo-con-la-fiscalia-estadounidense-para-desbloquear-la-compra-de-warner_4428464/</guid>
+      <pubDate>Mon, 21 Sep 2026 16:16:00 +0000</pubDate>
+      <description>La conclusión de esta negociación supone un importante paso del gigante de la familia Ellison, cecana a Donald Trump, de ejecutar la compra de estos estudios por 81 mil millones de dólares</description>
+      <author>El Confidencial</author>
+      <enclosure url="https://images.ecestaticos.com/-v7-NKuq1b-y3rR1SteLo7m95hw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9aa%2F597%2F3df%2F9aa5973df3c88665f2c7c2e90eeab58a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Repsol firma un nuevo marco laboral: subida de sueldo con el IPC y más jornada intensiva</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-21/repsol-firma-un-nuevo-marco-laboral-sueldo_4428471/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/repsol-firma-un-nuevo-marco-laboral-sueldo_4428471/</guid>
+      <pubDate>Mon, 21 Sep 2026 16:04:00 +0000</pubDate>
+      <description>Dicho acuerdo refuerza el compromiso con el empleo de calidad, la protección del poder adquisitivo, la flexibilidad laboral, la inclusión y el bienestar de los empleados</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/I7_r9A8JtZh5v9o16y1aTCn9rbE=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F64e%2F4d3%2F4eb%2F64e4d34eb63804b23a894fdb9185720e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Rankia reconoce la formación online y especializada de GBSB Global Business School</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-21/gbsb-global-segunda-ranking-online-1hms-1svm_4428289/</link>
