@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:30:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:29:32 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El 84% de las empresas ya ve la sostenibilidad como una ventaja competitiva</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-22/economia-proposito-sostenibilidad-empresarial-1hms-1svm_4429072/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-22/economia-proposito-sostenibilidad-empresarial-1hms-1svm_4429072/</guid>
+      <pubDate>Tue, 22 Sep 2026 13:49:00 +0000</pubDate>
+      <description>Siete de cada diez compañías españolas ya cuentan con planes de sostenibilidad y el 84% percibe ventajas competitivas, según un informe del Pacto Mundial de la ONU España</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/hD1VoQKjUL6oIAepCi0n93TPz8c=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6b1%2Ffc7%2F6d9%2F6b1fc76d91df26ed87b0812effc46953.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>PepsiCo sigue impulsando la agricultura regenerativa en más de 4.000 ha en España</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-22/pepsico-agricultura-regenerativa-espana-1hms-1svm_4429071/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-22/pepsico-agricultura-regenerativa-espana-1hms-1svm_4429071/</guid>
+      <pubDate>Tue, 22 Sep 2026 13:46:00 +0000</pubDate>
+      <description>La compañía suma explotaciones de Garlan y Mercoguadiana a un programa que mejora los suelos, reduce emisiones y prepara al campo ante el cambio climático</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/Lcr5XaTEjKunIcqKB4QKuHjvhOw=/0x0:1200x799/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1b4%2F14c%2Ffe9%2F1b414cfe94f3227f00642f81531fe6bc.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Las empresas que usan energía de forma intensiva alertan de las subidas del precio del gas</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-22/siderurgia-alerta-de-un-sobrecoste-energetico_4428910/</link>
@@ -90,24 +108,6 @@
       <enclosure url="https://images.ecestaticos.com/h60w7tdPaACwXdfNBz2EtkSRBNw=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F291%2F82d%2Fd89%2F29182dd89c132b96a1852e7997496951.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Tres de cada cuatro comercios ya aceptan pagos presenciales con Bizum</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-21/bizum-pagos-presenciales-comercios-1tps_4428109/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/bizum-pagos-presenciales-comercios-1tps_4428109/</guid>
-      <pubDate>Mon, 21 Sep 2026 10:04:00 +0000</pubDate>
-      <description>Las personas usuarias pueden pagar en tienda con Bizum a través de las aplicaciones bancarias de algunas entidades o mediante Bizum Pay, cartera digital descargable en iOS y Android</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/0HR6io64UXLKoqzoufvo4faOjp0=/0x0:996x747/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F678%2F7a3%2Fdcf%2F6787a3dcf53881dbe8f42a2f06d4b455.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Novo se desploma en bolsa tras comprometerse a lanzar nuevos fármacos y generar 23.000 M en ventas</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-21/novo-se-desploma-en-bolsa-farmacos-ventas_4428099/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/novo-se-desploma-en-bolsa-farmacos-ventas_4428099/</guid>
-      <pubDate>Mon, 21 Sep 2026 09:55:00 +0000</pubDate>
-      <description>El laboratorio ha decepcionado a los inversores con la presentación de un plan para elevar su facturación para 2035, mientras la competencia con su principal rival, Eli Lilly, mantiene al mercado saturado</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/egR1dBM4lN1vdsepg9oRseRMiBA=/0x0:2272x1483/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F462%2Fd4f%2F43e%2F462d4f43e3767fdcb6f3c29638a3a541.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -142,6 +142,24 @@
       <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tres de cada cuatro comercios ya aceptan pagos presenciales con Bizum</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-21/bizum-pagos-presenciales-comercios-1tps_4428109/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/bizum-pagos-presenciales-comercios-1tps_4428109/</guid>
+      <pubDate>Mon, 21 Sep 2026 10:04:00 +0000</pubDate>
+      <description>Las personas usuarias pueden pagar en tienda con Bizum a través de las aplicaciones bancarias de algunas entidades o mediante Bizum Pay, cartera digital descargable en iOS y Android</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/0HR6io64UXLKoqzoufvo4faOjp0=/0x0:996x747/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F678%2F7a3%2Fdcf%2F6787a3dcf53881dbe8f42a2f06d4b455.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Novo se desploma en bolsa tras comprometerse a lanzar nuevos fármacos y generar 23.000 M en ventas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-21/novo-se-desploma-en-bolsa-farmacos-ventas_4428099/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/novo-se-desploma-en-bolsa-farmacos-ventas_4428099/</guid>
+      <pubDate>Mon, 21 Sep 2026 09:55:00 +0000</pubDate>
+      <description>El laboratorio ha decepcionado a los inversores con la presentación de un plan para elevar su facturación para 2035, mientras la competencia con su principal rival, Eli Lilly, mantiene al mercado saturado</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/egR1dBM4lN1vdsepg9oRseRMiBA=/0x0:2272x1483/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F462%2Fd4f%2F43e%2F462d4f43e3767fdcb6f3c29638a3a541.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Cox logra un laudo favorable de 198 millones por la desaladora de Accra en Ghana</title>
