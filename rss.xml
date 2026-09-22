@@ -5,11 +5,29 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:29:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:27:40 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Codorníu sale de pérdidas y gana 14 millones mientras el grupo sigue a la venta</title>
+      <title>Las empresas que usan energía de forma intensiva alertan de las subidas del precio del gas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-22/siderurgia-alerta-de-un-sobrecoste-energetico_4428910/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-22/siderurgia-alerta-de-un-sobrecoste-energetico_4428910/</guid>
+      <pubDate>Tue, 22 Sep 2026 10:42:00 +0000</pubDate>
+      <description>Las patronales de la siderurgia y del sector papelero advierten de la pérdida de competitividad y exigen medidas ante la escalada de costes</description>
+      <author>EC/Agencias</author>
+      <enclosure url="https://images.ecestaticos.com/ybyRXYomaEJhu4bpWLz8uXr1tGU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F921%2Fc6e%2F606%2F921c6e606e7a736beaa41efebb35fcdd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mapfre desbanca a Bradesco como la primera aseguradora por negocio en Latinoamérica</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-22/mapfre-desbanca-a-bradesco-primera-aseguradora_4428895/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-22/mapfre-desbanca-a-bradesco-primera-aseguradora_4428895/</guid>
+      <pubDate>Tue, 22 Sep 2026 10:29:00 +0000</pubDate>
+      <description>Bradesco lideraba la clasificación en su anterior edición, pero baja al segundo puesto después de que sus ingresos cayeran el 13,2%, hasta los 10.301 millones de dólares</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/ZjU6D5f9Q-laNW5xxDVG4sw5tAQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6d5%2F970%2F872%2F6d5970872c115f12b2591305c82b5fd0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Codorníu gana 14 millones mientras el grupo de vinos y cavas sigue a la venta</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-22/codorniu-sale-perdidas-gana-14-millones-venta_4428855/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-22/codorniu-sale-perdidas-gana-14-millones-venta_4428855/</guid>
       <pubDate>Tue, 22 Sep 2026 10:02:00 +0000</pubDate>
@@ -90,15 +108,6 @@
       <enclosure url="https://images.ecestaticos.com/egR1dBM4lN1vdsepg9oRseRMiBA=/0x0:2272x1483/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F462%2Fd4f%2F43e%2F462d4f43e3767fdcb6f3c29638a3a541.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Cox logra un laudo favorable de 198 millones por la desaladora de Accra en Ghana</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-21/cox-ghana-laudo-arbitral-desaladora-1tps_4428012/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/cox-ghana-laudo-arbitral-desaladora-1tps_4428012/</guid>
-      <pubDate>Mon, 21 Sep 2026 08:35:00 +0000</pubDate>
-      <description>La compañía recalcó que los laudos son finales y vinculantes para todas las partes, aunque permanecen sujetos a los mecanismos de impugnación previstos</description>
-      <author>EP</author>
-      <enclosure url="https://images.ecestaticos.com/dJjn7-ghryBh00BcogFIzyXW8zo=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4d3%2F89b%2Fbe5%2F4d389bbe5d49f73ca543639f84fc72d8.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -133,6 +142,15 @@
       <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cox logra un laudo favorable de 198 millones por la desaladora de Accra en Ghana</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-21/cox-ghana-laudo-arbitral-desaladora-1tps_4428012/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/cox-ghana-laudo-arbitral-desaladora-1tps_4428012/</guid>
+      <pubDate>Mon, 21 Sep 2026 08:35:00 +0000</pubDate>
+      <description>La compañía recalcó que los laudos son finales y vinculantes para todas las partes, aunque permanecen sujetos a los mecanismos de impugnación previstos</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/dJjn7-ghryBh00BcogFIzyXW8zo=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4d3%2F89b%2Fbe5%2F4d389bbe5d49f73ca543639f84fc72d8.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
