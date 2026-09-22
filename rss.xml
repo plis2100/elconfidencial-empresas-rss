@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Sep 2026 17:27:52 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:29:58 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mercadona gana la primera batalla en la agencia europea de marcas contra File, su imitador turco</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-22/mercadona-gana-primera-batalla-euipo-imitador-turco_4429036/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-22/mercadona-gana-primera-batalla-euipo-imitador-turco_4429036/</guid>
+      <pubDate>Tue, 22 Sep 2026 16:23:00 +0000</pubDate>
+      <description>La EUIPO dicta una resolución que impide a la cadena otomana registrar en Europa el grueso de sus productos por su parecido con los de la compañía valenciana. El registro de la marca está pendiente de decisión</description>
+      <author>Víctor Romero. Valencia</author>
+      <enclosure url="https://images.ecestaticos.com/OEXp_EIGeXvA2S5pWqhpTJoN6wg=/0x0:1480x878/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F879%2F4d7%2Fe10%2F8794d7e1094b13bd2feca97e4f428ef9.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>El Supremo británico falla a favor de Amancio Ortega en un pleito por un restaurante</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-22/supremo-britanico-falla-a-favor-de-amancio-ortega_4429198/</link>
@@ -108,15 +117,6 @@
       <enclosure url="https://images.ecestaticos.com/Tls61AU5QXlBLj4z-wwG0zvvAGk=/0x0:768x432/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F123%2Fe71%2F5e1%2F123e715e1524c63c86b2dff04a082cc7.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Serveo se incorpora a Forética para reforzar su compromiso con la sostenibilidad y la creación de valor responsable</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-21/serveo-adhesion-foretica-sostenibilidad-1hms-1svm_4428287/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/serveo-adhesion-foretica-sostenibilidad-1hms-1svm_4428287/</guid>
-      <pubDate>Mon, 21 Sep 2026 13:17:00 +0000</pubDate>
-      <description>La empresa participará en iniciativas ESG, compartirá conocimiento y promoverá alianzas para avanzar hacia una economía más eficiente, inclusiva y resiliente</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/h60w7tdPaACwXdfNBz2EtkSRBNw=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F291%2F82d%2Fd89%2F29182dd89c132b96a1852e7997496951.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -142,6 +142,15 @@
       <description>El fundador y presidente de Bodegas Familiares Matarromera se sienta en el sofá de El Arte de Crear para repasar casi cuatro décadas de aventura: del despacho de la Administración a la viña</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/dkcobG5JQ4VzrizqnvlpLj5CSRs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed8%2Fbe9%2Fbdf%2Fed8be9bdfae73a5fff4b93c31c8ffdd2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Serveo se incorpora a Forética para reforzar su compromiso con la sostenibilidad y la creación de valor responsable</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-21/serveo-adhesion-foretica-sostenibilidad-1hms-1svm_4428287/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-21/serveo-adhesion-foretica-sostenibilidad-1hms-1svm_4428287/</guid>
+      <pubDate>Mon, 21 Sep 2026 13:17:00 +0000</pubDate>
+      <description>La empresa participará en iniciativas ESG, compartirá conocimiento y promoverá alianzas para avanzar hacia una economía más eficiente, inclusiva y resiliente</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/h60w7tdPaACwXdfNBz2EtkSRBNw=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F291%2F82d%2Fd89%2F29182dd89c132b96a1852e7997496951.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Laura Erra: "Todo empezó con una pregunta: ¿y si hacemos la leche sin la vaca?"</title>
