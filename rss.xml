@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:28:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:29:46 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codorníu sale de pérdidas y gana 14 millones mientras el grupo sigue a la venta</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-22/codorniu-sale-perdidas-gana-14-millones-venta_4428855/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-22/codorniu-sale-perdidas-gana-14-millones-venta_4428855/</guid>
+      <pubDate>Tue, 22 Sep 2026 10:02:00 +0000</pubDate>
+      <description>Carlyle ve más probable la salida del capital de Codorníu, porque la empresa ha mejorado de manera notable sus resultados. Los Raventós, ahora minoritarios, podrían vender antes</description>
+      <author>Marcos Lamelas. Barcelona</author>
+      <enclosure url="https://images.ecestaticos.com/ZdztYC3E3Al1po0AxGtnBuAxhM4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff6e%2F199%2F3d0%2Ff6e1993d00f9542839b3301699100738.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Paramount llega a un acuerdo con la Fiscalía estadounidense para desbloquear la compra de Warner</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-21/paramount-llega-a-un-acuerdo-con-la-fiscalia-estadounidense-para-desbloquear-la-compra-de-warner_4428464/</link>
