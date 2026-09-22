@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:29:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:27:52 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Supremo británico falla a favor de Amancio Ortega en un pleito por un restaurante</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-22/supremo-britanico-falla-a-favor-de-amancio-ortega_4429198/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-22/supremo-britanico-falla-a-favor-de-amancio-ortega_4429198/</guid>
+      <pubDate>Tue, 22 Sep 2026 14:45:00 +0000</pubDate>
+      <description>El Supremo concluye que Forthwell, arrendataria del local, no podía reclamar a Pontegadea las pérdidas sufridas por su filial Lynnet Leisure, que explotaba el restaurante, al tratarse de una sociedad distinta</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/tFKMkUIp7_qnBSWM4Xfev9MVx30=/0x0:1000x750/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e5%2F481%2F603%2F3e5481603bc16daa0c3a969089df67d4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>El 84% de las empresas ya ve la sostenibilidad como una ventaja competitiva</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-22/economia-proposito-sostenibilidad-empresarial-1hms-1svm_4429072/</link>
