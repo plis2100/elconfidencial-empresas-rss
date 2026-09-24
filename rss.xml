@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 24 Sep 2026 17:09:28 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:12:40 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Renault invertirá 600 millones en España durante los próximos cuatro años</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-24/renault-invertira-600-millones-en-espana_4430981/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-24/renault-invertira-600-millones-en-espana_4430981/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:01:00 +0000</pubDate>
+      <description>Lo hará con el fin de reforzar su presencia industrial en el país, mejorar la competitividad de sus plantas en Valladolid y Palencia y acelerar el desarrollo de tecnologías de futuro</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/cZkMvtvuWOsInBbi9CM5Vz6k8LM=/0x0:2272x1292/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Feef%2Fa55%2F933%2Feefa5593353242c330a3e190a15ae975.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Solaria gana 124,9 millones hasta junio, un 52% más, impulsado por los centros de datos</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-24/solaria-beneficio-centros-datos-1hms_4430811/</link>
@@ -90,7 +99,7 @@
       <enclosure url="https://images.ecestaticos.com/zuQ28LzTobQ7o_lAR5hcMNK1BK4=/0x0:2272x1499/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb80%2F61a%2F4d4%2Fb8061a4d497c4481f2d7cd7cf3445140.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Atresmedia se dispara un 8% en bolsa tras proponer un dividendo de 0,83 euros por acción</title>
+      <title>Atresmedia vuela más de un 10% en bolsa tras proponer un dividendo de 0,83 euros por acción</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-24/atresmedia-dividendo-bolsa-1hms_4430734/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-24/atresmedia-dividendo-bolsa-1hms_4430734/</guid>
       <pubDate>Thu, 24 Sep 2026 11:54:00 +0000</pubDate>
