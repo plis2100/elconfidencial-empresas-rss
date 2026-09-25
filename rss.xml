@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:18:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 22:01:54 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Renfe confirma un ciberataque con origen en Adif que filtró nombres y mails de clientes</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-25/renfe-ciberseguridad-ataque-adif-datos-1hms_4432603/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-25/renfe-ciberseguridad-ataque-adif-datos-1hms_4432603/</guid>
+      <pubDate>Fri, 25 Sep 2026 19:07:00 +0000</pubDate>
+      <description>La intrusión permitió acceder a nombres y correos electrónicos, aunque no hay indicios de datos bancarios comprometidos ni interrupciones para los viajeros</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/YDUA9OQBjq6W1t_UxAd1ShGlzek=/0x0:1920x1440/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F693%2F93f%2F154%2F69393f154e1ec444d46666e65c5b48d2.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Volkswagen y Audi retiran casi tres millones de vehículos debido a un fallo técnico</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-25/volkswagen-y-audi-retiran-casi-tres-millones_4432403/</link>
