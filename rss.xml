@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:01:54 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:54:56 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -43,15 +43,6 @@
       <description>El banco busca permisos regulatorios para la nueva sede, que podría contar con decenas de empleados en la ciudad estadounidense</description>
       <author>El Confidencial</author>
       <enclosure url="https://images.ecestaticos.com/oIzghD2HJoPOtkvTr7JpvjJTOhA=/0x0:2272x1508/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff2e%2F0a3%2F40d%2Ff2e0a340ded4fc97d4d1c7836ace9717.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El CEO de Wizink deja el cargo con el banco en beneficios por primera vez desde 2023</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-25/wizink-ceo-iheb-nafaa-joaquim-saurina-consumo_4431703/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-25/wizink-ceo-iheb-nafaa-joaquim-saurina-consumo_4431703/</guid>
-      <pubDate>Fri, 25 Sep 2026 11:06:00 +0000</pubDate>
-      <description>Iheb Nafaa abandona el puesto de consejero delegado por motivos personales. Joaquím Saurina pasará a ser presidente ejecutivo. El banco está en negociaciones con Unicaja</description>
-      <author>Óscar Giménez</author>
-      <enclosure url="https://images.ecestaticos.com/vLSRKu2A_MDqD5Yfake0LIAgsfA=/0x0:872x478/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F25f%2Fde1%2F514%2F25fde151479a6f8bb8a4d58c4b53314a.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>OHLA gana las obras del tercer tramo de la línea de alta velocidad Burgos-Vitoria por 241,6 millones</title>
@@ -117,15 +108,6 @@
       <enclosure url="https://images.ecestaticos.com/VPqlBE6gf37oNhfqF8ouJjrHZng=/0x0:900x559/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F67d%2Fefe%2Ff77%2F67defef778236650d26a994a512525a7.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Bezos redobla su apuesta por su firma espacial Blue Origin y eleva su inversión hasta los 30.000 M</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-25/jeff-bezos-amazon-rondas-millones-financia-blue-origin-1tps_4431283/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-25/jeff-bezos-amazon-rondas-millones-financia-blue-origin-1tps_4431283/</guid>
-      <pubDate>Fri, 25 Sep 2026 07:16:00 +0000</pubDate>
-      <description>La firma aeroespacial atrae financiación externa, busca rivalizar con SpaceX y prevé multiplicar sus ingresos mediante cohetes y satélites</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/FLHkaG-lUoTP9PD8xbiZB6OPIPg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd96%2F0cc%2Ffd2%2Fd960ccfd254e0debadeb28973d304cdf.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -151,6 +133,33 @@
       <description>El fundador y presidente de Bodegas Familiares Matarromera se sienta en el sofá de El Arte de Crear para repasar casi cuatro décadas de aventura: del despacho de la Administración a la viña</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/dkcobG5JQ4VzrizqnvlpLj5CSRs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed8%2Fbe9%2Fbdf%2Fed8be9bdfae73a5fff4b93c31c8ffdd2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Laura Erra: "Todo empezó con una pregunta: ¿y si hacemos la leche sin la vaca?"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-06-09/el-arte-de-crear-liquats-vegetals-laura-erra-bra_4369079/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-09/el-arte-de-crear-liquats-vegetals-laura-erra-bra_4369079/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:00:00 +0000</pubDate>
+      <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El CEO de Wizink deja el cargo con el banco en beneficios por primera vez desde 2023</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-25/wizink-ceo-iheb-nafaa-joaquim-saurina-consumo_4431703/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-25/wizink-ceo-iheb-nafaa-joaquim-saurina-consumo_4431703/</guid>
+      <pubDate>Fri, 25 Sep 2026 11:06:00 +0000</pubDate>
+      <description>Iheb Nafaa abandona el puesto de consejero delegado por motivos personales. Joaquím Saurina pasará a ser presidente ejecutivo. El banco está en negociaciones con Unicaja</description>
+      <author>Óscar Giménez</author>
+      <enclosure url="https://images.ecestaticos.com/vLSRKu2A_MDqD5Yfake0LIAgsfA=/0x0:872x478/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F25f%2Fde1%2F514%2F25fde151479a6f8bb8a4d58c4b53314a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bezos redobla su apuesta por su firma espacial Blue Origin y eleva su inversión hasta los 30.000 M</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-25/jeff-bezos-amazon-rondas-millones-financia-blue-origin-1tps_4431283/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-25/jeff-bezos-amazon-rondas-millones-financia-blue-origin-1tps_4431283/</guid>
+      <pubDate>Fri, 25 Sep 2026 07:16:00 +0000</pubDate>
+      <description>La firma aeroespacial atrae financiación externa, busca rivalizar con SpaceX y prevé multiplicar sus ingresos mediante cohetes y satélites</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/FLHkaG-lUoTP9PD8xbiZB6OPIPg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd96%2F0cc%2Ffd2%2Fd960ccfd254e0debadeb28973d304cdf.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Renault invertirá 600 millones en España durante los próximos cuatro años</title>
@@ -214,15 +223,6 @@
       <description>La venta de Fever Labs permitirá repartir 0,83 por título y elevar la rentabilidad para los inversores hasta alrededor del 14%, tras un pago previo</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/f7hAUMIAw5oUF1qJn7FS-RWzI9s=/0x0:1280x853/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb56%2Ff16%2F231%2Fb56f16231ffbcf0e2b4c0d6300e27193.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Laura Erra: "Todo empezó con una pregunta: ¿y si hacemos la leche sin la vaca?"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-06-09/el-arte-de-crear-liquats-vegetals-laura-erra-bra_4369079/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-09/el-arte-de-crear-liquats-vegetals-laura-erra-bra_4369079/</guid>
-      <pubDate>Tue, 09 Jun 2026 03:00:00 +0000</pubDate>
-      <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
