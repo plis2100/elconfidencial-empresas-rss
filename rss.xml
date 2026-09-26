@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 26 Sep 2026 11:54:56 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 16:31:25 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fetico participa en el Leaders Summit 2026 del Pacto Mundial de la ONU</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-26/fetico-global-compact-sostenibilidad-trabajo-1hms-1svm_4432746/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-26/fetico-global-compact-sostenibilidad-trabajo-1hms-1svm_4432746/</guid>
+      <pubDate>Sat, 26 Sep 2026 11:00:00 +0000</pubDate>
+      <description>La organización defiende en Nueva York que la inteligencia artificial y la digitalización avancen con participación laboral, derechos protegidos y compromiso social</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/i24Sylr5DFCHW2d2S2wGsPLlpUE=/0x0:557x418/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F769%2F879%2Fb57%2F769879b578be86d5fc20585c130d449e.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Renfe confirma un ciberataque con origen en Adif que filtró nombres y mails de clientes</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-25/renfe-ciberseguridad-ataque-adif-datos-1hms_4432603/</link>
@@ -90,15 +99,6 @@
       <enclosure url="https://images.ecestaticos.com/-fhQFo0XyhDOGmeW63YAovgQD9c=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faa1%2Ff3b%2F105%2Faa1f3b105f0736782fe43ce1aae6be48.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>UBS reactiva los contactos con otros bancos para abordar una fusión y salir de Suiza</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-25/ubs-bancos-fusion-morgan-stanley-suiza-1tps_4431708/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-25/ubs-bancos-fusion-morgan-stanley-suiza-1tps_4431708/</guid>
-      <pubDate>Fri, 25 Sep 2026 10:22:00 +0000</pubDate>
-      <description>La dirección del banco estudia distintas vías para sortear la legislación suiza y una integración corporativa despuntaría como la opción más factible</description>
-      <author>EP</author>
-      <enclosure url="https://images.ecestaticos.com/arbbyAzhqKPlJJaLu8BUveNSg_U=/0x0:2272x1399/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7a0%2F875%2F5c2%2F7a08755c28923309795b4e92f6a3ff87.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>La horchata "fresca" de Mercadona y Puleva es legal: Món Orxata pierde un largo pleito en el Supremo</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-25/horchata-mercadona-puleva-legal-supremo-mon-orxata_4431659/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-25/horchata-mercadona-puleva-legal-supremo-mon-orxata_4431659/</guid>
@@ -142,6 +142,15 @@
       <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UBS reactiva los contactos con otros bancos para abordar una fusión y salir de Suiza</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-25/ubs-bancos-fusion-morgan-stanley-suiza-1tps_4431708/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-25/ubs-bancos-fusion-morgan-stanley-suiza-1tps_4431708/</guid>
+      <pubDate>Fri, 25 Sep 2026 10:22:00 +0000</pubDate>
+      <description>La dirección del banco estudia distintas vías para sortear la legislación suiza y una integración corporativa despuntaría como la opción más factible</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/arbbyAzhqKPlJJaLu8BUveNSg_U=/0x0:2272x1399/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7a0%2F875%2F5c2%2F7a08755c28923309795b4e92f6a3ff87.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>El CEO de Wizink deja el cargo con el banco en beneficios por primera vez desde 2023</title>
