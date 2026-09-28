@@ -5,11 +5,65 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:43:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:41:54 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CBNK ficha como consejera independiente a la ex CEO de ING, Almudena Román</title>
+      <title>GBSB Global inicia el curso académico con estudiantes de 79 países y un sistema de aprendizaje mejorado basado en la IA</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-28/gbsb-global-educacion-inteligencia-artificial-1hms-1svm_4433747/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/gbsb-global-educacion-inteligencia-artificial-1hms-1svm_4433747/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:59:00 +0000</pubDate>
+      <description>Alumnado de 79 países, programas de emprendimiento y nuevas metodologías sobre inteligencia artificial marcarán la formación empresarial a partir de octubre</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/7Gd8GOhIXH6uo-hU_7qy_0OY0KY=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F463%2Fb44%2F71a%2F463b4471ab3134d582e96c20609c9919.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>T-Systems, proveedor de Cloud y Aplicaciones que mayor satisfacción genera entre sus clientes según Whitelane</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-28/t-systems-lidera-satisfaccion-cloud-1hms-1svm_4433749/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/t-systems-lidera-satisfaccion-cloud-1hms-1svm_4433749/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:46:00 +0000</pubDate>
+      <description>El 91% de sus usuarios respalda los proyectos de nube e infraestructura, mientras la firma logra un 86% de valoración global en España</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/Jvsx0sGG-sOMWoHKEdJE0F78uIQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e8%2F8ad%2F541%2F3e88ad541377dc15989b44d779767dd8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Albia amplía hasta el 23 de octubre el plazo para participar en su Laboratorio Universitario de Ideas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-28/laboratorio-ideas-sostenibilidad-estudiantes-1hms-1svm_4433748/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/laboratorio-ideas-sostenibilidad-estudiantes-1hms-1svm_4433748/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:46:00 +0000</pubDate>
+      <description>Estudiantes de cualquier disciplina podrán enviar propuestas innovadoras hasta el 23 de octubre y optar a 1.000 euros y un reconocimiento en Madrid</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/QuZjthgedR5yJuGp1wHfOe8YyQM=/0x0:1253x836/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed5%2F9bc%2Fdfe%2Fed59bcdfed4a058fc2a8277d9bcd83eb.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Volkswagen vende a la china Gotion el 49% de la gigafactoría de Sagunto con contratos por 1.094 millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-28/volkswagen-vende-gotion-49-gigafactoria-sagunto_4433738/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/volkswagen-vende-gotion-49-gigafactoria-sagunto_4433738/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:44:00 +0000</pubDate>
+      <description>La multinacional alemana cede a su socio asiático casi la mitad del proyecto y le encarga la ingeniería. El plan es hacer de la planta valenciana el centro de producción europeo de baterías LFP</description>
+      <author>Víctor Romero. Valencia</author>
+      <enclosure url="https://images.ecestaticos.com/euOgf8JakcgddP4530DpcvJuiH0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe32%2F3b0%2F7eb%2Fe323b07eb11c2a6b85a7fc09219d9fbe.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Prosegur entra en el Top 30 de las 100 mejores empresas para trabajar en España</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-28/prosegur-mejores-empresas-trabajar-espana-1hms-1svm_4433752/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/prosegur-mejores-empresas-trabajar-espana-1hms-1svm_4433752/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:40:00 +0000</pubDate>
+      <description>El reconocimiento llega en su 50º aniversario y destaca una estrategia centrada en la retribución flexible, el desarrollo profesional y el bienestar de sus equipos</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/E3ryBrPyb0feqmB7XjVUtVfMa9E=/0x0:1200x901/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F014%2F7e0%2F87b%2F0147e087ba8b70138d2a2191c06d7d1a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La CNMC autoriza la opa de la alavesa Ohmnia sobre Azkoyen</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-28/cnmc-autoriza-la-opa-de-la-alavesa-ohmnia-azkoyen_4433658/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/cnmc-autoriza-la-opa-de-la-alavesa-ohmnia-azkoyen_4433658/</guid>
+      <pubDate>Mon, 28 Sep 2026 11:53:00 +0000</pubDate>
+      <description>Competencia autorizó la operación el pasado viernes "sin sujetarla al cumplimento de compromiso alguno" y este lunes la CNMV ha sido informada en una comunicación firmada por el propio Jainaga</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/3wqG9xS_fmF5sT6eimhh7WEOAOg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5a9%2F1ee%2F6fc%2F5a91ee6fcb098539b732827f5bde7399.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>CBNK ficha como consejera independiente a la ex CEO de ING Almudena Román</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-28/cbnk-ficha-como-consejera-independiente_4433554/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/cbnk-ficha-como-consejera-independiente_4433554/</guid>
       <pubDate>Mon, 28 Sep 2026 10:23:00 +0000</pubDate>
@@ -36,15 +90,6 @@
       <enclosure url="https://images.ecestaticos.com/Gb5XirVUdwE_bNCcjHeftzuNZZU=/0x0:2272x1574/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa3a%2Fd12%2F819%2Fa3ad12819c872e08ff988a3635a6f7d4.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Hacienda recurre al Supremo la victoria de PwC por la fianza del caso IBM</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-28/hacienda-recurre-supremo-victoria-pwc-fianza-del-caso-ibm_4431736/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/hacienda-recurre-supremo-victoria-pwc-fianza-del-caso-ibm_4431736/</guid>
-      <pubDate>Mon, 28 Sep 2026 03:00:00 +0000</pubDate>
-      <description>El Alto Tribunal admite el recurso de la Abogacía del Estado contra la sentencia de la Audiencia Nacional que permitió a la firma deducirse la provisión por la fianza judicial del caso IBM</description>
-      <author>Alejandro Mata</author>
-      <enclosure url="https://images.ecestaticos.com/w2r55udFM36OkYaYt5r8L5qz2I4=/0x0:2272x1597/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc08%2Ffd5%2F26c%2Fc08fd526c02f67aff32186d04fd4fd2f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Andbank potencia su banca privada en Galicia con fichajes en Indosuez y S&amp;P</title>
       <link>https://www.elconfidencial.com/empresas/2026-09-28/andbank-banca-privada-altos-patrimonios-fichajes_4432428/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/andbank-banca-privada-altos-patrimonios-fichajes_4432428/</guid>
@@ -52,15 +97,6 @@
       <description>El banco ha incorporado dos perfiles veteranos para la oficina de A Coruña, donde quiere crecer en el negocio de altos patrimonios</description>
       <author>Óscar Giménez</author>
       <enclosure url="https://images.ecestaticos.com/kA5lw01KlH5Dh-kcRSHcMecdI8E=/0x0:1248x832/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1fb%2Fdf1%2F9eb%2F1fbdf19eb6cf7c22b94d173c2f4eb4af.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fetico participa en el Leaders Summit 2026 del Pacto Mundial de la ONU</title>
-      <link>https://www.elconfidencial.com/empresas/2026-09-26/fetico-global-compact-sostenibilidad-trabajo-1hms-1svm_4432746/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-26/fetico-global-compact-sostenibilidad-trabajo-1hms-1svm_4432746/</guid>
-      <pubDate>Sat, 26 Sep 2026 11:00:00 +0000</pubDate>
-      <description>La organización defiende en Nueva York que la inteligencia artificial y la digitalización avancen con participación laboral, derechos protegidos y compromiso social</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/i24Sylr5DFCHW2d2S2wGsPLlpUE=/0x0:557x418/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F769%2F879%2Fb57%2F769879b578be86d5fc20585c130d449e.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -106,6 +142,24 @@
       <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hacienda recurre al Supremo la victoria de PwC por la fianza del caso IBM</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-28/hacienda-recurre-supremo-victoria-pwc-fianza-del-caso-ibm_4431736/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-28/hacienda-recurre-supremo-victoria-pwc-fianza-del-caso-ibm_4431736/</guid>
+      <pubDate>Mon, 28 Sep 2026 03:00:00 +0000</pubDate>
+      <description>El Alto Tribunal admite el recurso de la Abogacía del Estado contra la sentencia de la Audiencia Nacional que permitió a la firma deducirse la provisión por la fianza judicial del caso IBM</description>
+      <author>Alejandro Mata</author>
+      <enclosure url="https://images.ecestaticos.com/w2r55udFM36OkYaYt5r8L5qz2I4=/0x0:2272x1597/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc08%2Ffd5%2F26c%2Fc08fd526c02f67aff32186d04fd4fd2f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fetico participa en el Leaders Summit 2026 del Pacto Mundial de la ONU</title>
+      <link>https://www.elconfidencial.com/empresas/2026-09-26/fetico-global-compact-sostenibilidad-trabajo-1hms-1svm_4432746/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-09-26/fetico-global-compact-sostenibilidad-trabajo-1hms-1svm_4432746/</guid>
+      <pubDate>Sat, 26 Sep 2026 11:00:00 +0000</pubDate>
+      <description>La organización defiende en Nueva York que la inteligencia artificial y la digitalización avancen con participación laboral, derechos protegidos y compromiso social</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/i24Sylr5DFCHW2d2S2wGsPLlpUE=/0x0:557x418/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F769%2F879%2Fb57%2F769879b578be86d5fc20585c130d449e.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
