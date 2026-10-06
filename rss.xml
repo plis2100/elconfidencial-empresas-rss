@@ -5,9 +5,45 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:03:10 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:24:35 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los cuatro fondos accionistas de Celsa inician su proceso de venta tres años después de asumir el control</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-06/celsa-beneficio-primer-semestre-1hms_4439640/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-06/celsa-beneficio-primer-semestre-1hms_4439640/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:45:00 +0000</pubDate>
+      <description>Esta operación podría contemplar diversas alternativas, incluyendo una potencial salida a bolsa, una venta u otras opciones disponibles, aunque no se prevé que la compañía se venda por partes ni tampoco desprenderse antes de la filial de Polonia</description>
+      <author>Agencias</author>
+      <enclosure url="https://images.ecestaticos.com/eCjepSWKZ6nLtxzDVXJtFnh5Boc=/0x0:512x341/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F08c%2F495%2F986%2F08c495986b0fce0e0c53737affa1b00b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>H/Advisors Tinkle presenta 'Mutación Algorítmica' y amplía su modelo de comunicación al entorno de la IA</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-06/mutacion-algoritmica-comunicacion-corporativa-1hms-1svm_4439519/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-06/mutacion-algoritmica-comunicacion-corporativa-1hms-1svm_4439519/</guid>
+      <pubDate>Tue, 06 Oct 2026 14:32:00 +0000</pubDate>
+      <description>La obra explica cómo los modelos generativos interpretan la información y propone una metodología para reforzar la reputación de las organizaciones ante esta nueva intermediación</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/OsDOxbASuOnVSDxdNUUfocQtn8U=/0x0:900x840/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff2f%2F73b%2F0ae%2Ff2f73b0ae6139e7f4f81c6359cb532b0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>GBSB Global refuerza su posición en el sector de la educación empresarial en España con su presencia en destacados rankings de 2026</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-06/gbsb-global-business-school-rankings-1hms-1svm_4439516/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-06/gbsb-global-business-school-rankings-1hms-1svm_4439516/</guid>
+      <pubDate>Tue, 06 Oct 2026 14:05:00 +0000</pubDate>
+      <description>La institución suma reconocimientos de QS, Forbes, Rankia y El Mundo por su oferta en digitalización, inteligencia artificial y formación empresarial internacional</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/cXFHKSHUiSwk2Jpsa5g1ZQZ9kfE=/0x0:1200x799/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff3b%2F163%2F874%2Ff3b163874af47434b0e723531e79fa36.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Paramount culmina la compra de Warner Bros por 110.000 millones de dólares</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-06/paramount-culmina-la-compra-de-warner-bros_4439529/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-06/paramount-culmina-la-compra-de-warner-bros_4439529/</guid>
+      <pubDate>Tue, 06 Oct 2026 13:51:00 +0000</pubDate>
+      <description>Termina así un polémico proceso de fusión que dará lugar a la nueva megaempresa Skydance</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/NzM4txDMSvwexESt6p2GAnn53ig=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8ae%2Fe26%2Ff5e%2F8aee26f5eaf85cc5dfef7635a87ca3b2.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Ferrovial gana a Hacienda en la AN y recuperará 37 millones por la compra de Amey y Swissport</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-06/ferrovial-gana-a-hacienda-en-la-an-y-recuperara-37-millones_4439330/</link>
@@ -72,33 +108,6 @@
       <enclosure url="https://images.ecestaticos.com/s2Vb67J2wIjW59WlHIHk0t3yJLE=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdb7%2F32b%2F9af%2Fdb732b9affbab9a98195cfb01d98956e.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Ibai Llanos y Gerard Piqué entran en la startup de aperitivos saludables Plesh</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-05/ibai-llanos-y-gerard-pique-entran-en-la-startup_4438550/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-05/ibai-llanos-y-gerard-pique-entran-en-la-startup_4438550/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:31:00 +0000</pubDate>
-      <description>La 'foodtech' ha cerrado una ronda de financiación de 3,75 millones de euros, que ha sido liderada por el 'streamer' y el exfutbolista</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/qPJPVClQYCcI-DMWCT5naydEdbQ=/0x0:1035x576/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F305%2F02c%2F8a3%2F30502c8a3aca89552a0d74ed21417ea5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La EUIPO da otro golpe al imitador turco de Mercadona y frena su registro como supermercado en Europa</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-05/euipo-golpe-imitador-turco-mercadona-supermercados_4438489/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-05/euipo-golpe-imitador-turco-mercadona-supermercados_4438489/</guid>
-      <pubDate>Mon, 05 Oct 2026 10:59:00 +0000</pubDate>
-      <description>La agencia europea de protección de marcas considera que hay riesgo de asociación mental de la imagen de la cadena FILE con la compañía española, aunque abre la puerta a productos fuera del súper</description>
-      <author>Víctor Romero</author>
-      <enclosure url="https://images.ecestaticos.com/N80IyELi-J3QJS86cc9llhy-OBA=/0x0:2272x1585/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F69f%2F271%2Ff14%2F69f271f14bc78248674e65744ea84129.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Cosentino amplía su presencia en Estados Unidos con establecimientos en Nueva Jersey y Florida</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-05/cosentino-amplia-presencia-estados-unidos-nueva-jersey-florida-1tps_4438419/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-05/cosentino-amplia-presencia-estados-unidos-nueva-jersey-florida-1tps_4438419/</guid>
-      <pubDate>Mon, 05 Oct 2026 09:53:00 +0000</pubDate>
-      <description>El grupo almeriense estrena un formato inmersivo en Montclair y suma instalaciones en Naples, además de modernizar sus espacios de Nueva York y Chicago</description>
-      <author>EP</author>
-      <enclosure url="https://images.ecestaticos.com/HswTIJdFunR7vpY9y0Jd3QNa77g=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff5f%2Fbec%2F810%2Ff5fbec810cb80481a343e199a1f6aa15.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -133,6 +142,33 @@
       <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ibai Llanos y Gerard Piqué entran en la startup de aperitivos saludables Plesh</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-05/ibai-llanos-y-gerard-pique-entran-en-la-startup_4438550/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-05/ibai-llanos-y-gerard-pique-entran-en-la-startup_4438550/</guid>
+      <pubDate>Mon, 05 Oct 2026 11:31:00 +0000</pubDate>
+      <description>La 'foodtech' ha cerrado una ronda de financiación de 3,75 millones de euros, que ha sido liderada por el 'streamer' y el exfutbolista</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/qPJPVClQYCcI-DMWCT5naydEdbQ=/0x0:1035x576/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F305%2F02c%2F8a3%2F30502c8a3aca89552a0d74ed21417ea5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La EUIPO da otro golpe al imitador turco de Mercadona y frena su registro como supermercado en Europa</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-05/euipo-golpe-imitador-turco-mercadona-supermercados_4438489/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-05/euipo-golpe-imitador-turco-mercadona-supermercados_4438489/</guid>
+      <pubDate>Mon, 05 Oct 2026 10:59:00 +0000</pubDate>
+      <description>La agencia europea de protección de marcas considera que hay riesgo de asociación mental de la imagen de la cadena FILE con la compañía española, aunque abre la puerta a productos fuera del súper</description>
+      <author>Víctor Romero</author>
+      <enclosure url="https://images.ecestaticos.com/N80IyELi-J3QJS86cc9llhy-OBA=/0x0:2272x1585/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F69f%2F271%2Ff14%2F69f271f14bc78248674e65744ea84129.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cosentino amplía su presencia en Estados Unidos con establecimientos en Nueva Jersey y Florida</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-05/cosentino-amplia-presencia-estados-unidos-nueva-jersey-florida-1tps_4438419/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-05/cosentino-amplia-presencia-estados-unidos-nueva-jersey-florida-1tps_4438419/</guid>
+      <pubDate>Mon, 05 Oct 2026 09:53:00 +0000</pubDate>
+      <description>El grupo almeriense estrena un formato inmersivo en Montclair y suma instalaciones en Naples, además de modernizar sus espacios de Nueva York y Chicago</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/HswTIJdFunR7vpY9y0Jd3QNa77g=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff5f%2Fbec%2F810%2Ff5fbec810cb80481a343e199a1f6aa15.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
