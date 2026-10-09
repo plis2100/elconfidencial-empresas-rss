@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:55:38 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 20:22:43 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EY eleva un 4,7% su facturación global anual y alcanza los 50.887 millones de euros</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-09/ey-facturacion-crecimiento-servicios-ia-1hms_4442063/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-09/ey-facturacion-crecimiento-servicios-ia-1hms_4442063/</guid>
+      <pubDate>Fri, 09 Oct 2026 13:57:00 +0000</pubDate>
+      <description>La consultora dispara un 49% las ventas vinculadas a inteligencia artificial y amplía el uso de Copilot entre su plantilla, mientras refuerza la formación tecnológica</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/1n_4vShuFdL1ltHRg7yn8Z6vPQs=/0x0:2272x1536/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F099%2Fd12%2F087%2F099d12087d49cdc1e2c463b8776b2193.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Seis consorcios compiten por la ampliación de la línea 11 de Madrid por 880 millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-09/seis-consorcios-compiten-por-la-ampliacion_4441960/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-09/seis-consorcios-compiten-por-la-ampliacion_4441960/</guid>
+      <pubDate>Fri, 09 Oct 2026 11:58:00 +0000</pubDate>
+      <description>La Dirección General de Infraestructuras ha dividido la licitación del proyecto en dos lotes. Todos los consorcios optan a ambos lotes, salvo Becsa-Acsh-Copasa, que únicamente participa en el lote 2</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/_y0oixWpgtxVfroImbPQ2sAwOgY=/0x0:2272x1595/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F046%2Fb76%2Ff3c%2F046b76f3c7b25b195668dc9524862dc8.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Banca March gana 195 M hasta junio, el doble que un año antes, por el efecto extraordinario de CFA</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-09/banca-march-resultados-beneficio-semestre-1tps_4441914/</link>
@@ -61,24 +79,6 @@
       <description>CEO y altos directivos plantean en el Foro Tecnológico Global el desafío de la soberanía europea ante la dependencia de modelos extranjeros, y proponen formación ante la escasez de talento</description>
       <author>El Confidencial</author>
       <enclosure url="https://images.ecestaticos.com/GJfLUe8shTfhifmUs-9I_cQS_N4=/0x0:1752x1168/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb20%2F1e7%2F5ae%2Fb201e75ae33615bd7b0790b1e52e9aa4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ayúdame3D reclama más apoyo para democratizar la tecnología social: “No podemos tirar nosotros solos del carro”</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-08/ayudame-protesis-impresion-3d-discapacidad-1hms-1svm_4441191/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-08/ayudame-protesis-impresion-3d-discapacidad-1hms-1svm_4441191/</guid>
-      <pubDate>Thu, 08 Oct 2026 13:51:00 +0000</pubDate>
-      <description>Un proyecto galardonado con 40.000 euros fabrica prótesis y adaptaciones gratuitas mediante impresión 3D, aunque necesita más respaldo para llegar a quienes las necesitan</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/Ki3y1B3Ea0i0WGkEj-lwtBj_66E=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2b7%2F4c1%2Fff1%2F2b74c1ff1602948105cf080b31165870.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nestlé ensaya el uso de murciélagos para el control natural de plagas de los cultivos de tomate en Extremadura</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-08/nestle-cajas-refugio-murcielagos-tomate-1hms-1svm_4441190/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-08/nestle-cajas-refugio-murcielagos-tomate-1hms-1svm_4441190/</guid>
-      <pubDate>Thu, 08 Oct 2026 13:49:00 +0000</pubDate>
-      <description>La iniciativa suma 30 estructuras ocupadas por más de 170 ejemplares y analiza su guano para conocer qué insectos consumen en las parcelas extremeñas</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/BTLQjmr01IhQDvN2lkoknDY1gzQ=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdcb%2F8eb%2Fd83%2Fdcb8ebd8391cd1ea21681862936aaec7.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +142,24 @@
       <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ayúdame3D reclama más apoyo para democratizar la tecnología social: “No podemos tirar nosotros solos del carro”</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-08/ayudame-protesis-impresion-3d-discapacidad-1hms-1svm_4441191/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-08/ayudame-protesis-impresion-3d-discapacidad-1hms-1svm_4441191/</guid>
+      <pubDate>Thu, 08 Oct 2026 13:51:00 +0000</pubDate>
+      <description>Un proyecto galardonado con 40.000 euros fabrica prótesis y adaptaciones gratuitas mediante impresión 3D, aunque necesita más respaldo para llegar a quienes las necesitan</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/Ki3y1B3Ea0i0WGkEj-lwtBj_66E=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2b7%2F4c1%2Fff1%2F2b74c1ff1602948105cf080b31165870.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nestlé ensaya el uso de murciélagos para el control natural de plagas de los cultivos de tomate en Extremadura</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-08/nestle-cajas-refugio-murcielagos-tomate-1hms-1svm_4441190/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-08/nestle-cajas-refugio-murcielagos-tomate-1hms-1svm_4441190/</guid>
+      <pubDate>Thu, 08 Oct 2026 13:49:00 +0000</pubDate>
+      <description>La iniciativa suma 30 estructuras ocupadas por más de 170 ejemplares y analiza su guano para conocer qué insectos consumen en las parcelas extremeñas</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/BTLQjmr01IhQDvN2lkoknDY1gzQ=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdcb%2F8eb%2Fd83%2Fdcb8ebd8391cd1ea21681862936aaec7.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Murtra pide a Bruselas que deje "escalar y consolidar" a las telecos y que no frene la simplificación normativa</title>
