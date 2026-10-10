@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 10 Oct 2026 13:12:16 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:14:46 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>T-Systems celebra su 25 aniversario contribuyendo al desarrollo digital del país y con la mirada puesta en la soberanía tecnológica</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-10/t-systems-25-aniversario-soberania-digital-1hms-1svm_4442526/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-10/t-systems-25-aniversario-soberania-digital-1hms-1svm_4442526/</guid>
+      <pubDate>Sat, 10 Oct 2026 11:14:00 +0000</pubDate>
+      <description>La compañía ha celebrado su 25 aniversario con un evento especial en su sede de Barcelona, que ha contado con la presencia de Jordi Hereu, ministro de Industria y Turismo</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/w6tCOlS9PXi_c079Is6Y9gB_eek=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F809%2F76b%2F093%2F80976b0938f25239b2d4d7aa31b373fa.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>EY eleva un 4,7% su facturación global anual y alcanza los 50.887 millones de euros</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-09/ey-facturacion-crecimiento-servicios-ia-1hms_4442063/</link>
