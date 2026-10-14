@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 14 Oct 2026 17:13:02 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:26:36 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -117,6 +117,33 @@
       <enclosure url="https://images.ecestaticos.com/EI7rvHiUSOcWth7EQcgKoIMxHG4=/0x0:2272x1397/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4c8%2Ff7d%2F7b2%2F4c8f7d7b2bb1bffc02ffe71482e223ea.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Foro 'España energética', en imágenes</title>
+      <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
+      <pubDate>Fri, 03 Jul 2026 03:00:00 +0000</pubDate>
+      <description>Madrid ha acogido este foro, en el que se han reunido líderes y representantes del sector energético para arrojar luz sobre la ruta que debemos seguir en España y Europa</description>
+      <author>Fotografía: J. del Río</author>
+      <enclosure url="https://images.ecestaticos.com/w2r1xlnALHSV6xitnNSbYQGlUF0=/0x0:1920x1281/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa94%2F93c%2Fea7%2Fa9493cea774861ee611bf3b11650af5b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>José Ignacio Goirigolzarri: "La banca es un negocio de confianza; sin ella, un banco desaparece"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-06-30/el-arte-de-crear-banca-jose-ignacio-goirigolzarri-bra_4380167/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-30/el-arte-de-crear-banca-jose-ignacio-goirigolzarri-bra_4380167/</guid>
+      <pubDate>Tue, 30 Jun 2026 03:00:00 +0000</pubDate>
+      <description>El presidente de Fad Juventud se une a El Arte de Crear para repasar casi cinco décadas en la primera línea de la banca española y una forma de entender el liderazgo en la que las personas, los principios y el ejemplo van siempre por delante</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/xf__Xb8oaS2YQgprj7xAJk_C-iI=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2d4%2Fc99%2Faea%2F2d4c99aea86656c31f76d98aece310f4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Carlos Moro: "El éxito es efímero: es estar cada día avanzando, mejorando y trabajando por un mundo mejor"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-06-16/el-arte-de-crear-bodega-matarromera-carlos-moro-bra_4372812/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-16/el-arte-de-crear-bodega-matarromera-carlos-moro-bra_4372812/</guid>
+      <pubDate>Tue, 16 Jun 2026 03:00:00 +0000</pubDate>
+      <description>El fundador y presidente de Bodegas Familiares Matarromera se sienta en el sofá de El Arte de Crear para repasar casi cuatro décadas de aventura: del despacho de la Administración a la viña</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/dkcobG5JQ4VzrizqnvlpLj5CSRs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed8%2Fbe9%2Fbdf%2Fed8be9bdfae73a5fff4b93c31c8ffdd2.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Bruselas obliga a Sanofi a corregir sus mensajes "engañosos" contra la vacuna rival Fluad</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-14/bruselas-obliga-a-sanofi-a-corregir-sus-mensajes_4444510/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-14/bruselas-obliga-a-sanofi-a-corregir-sus-mensajes_4444510/</guid>
@@ -133,15 +160,6 @@
       <description>El plan contempla baterías, plantas solares, una terminal de gas y mejoras en agua y saneamiento, con obras previstas durante los próximos tres años</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/8ZaqnL5hGKYTeiuv2wiPuKuPlhU=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F86b%2F2ae%2F7bb%2F86b2ae7bb79419fd36eb834dbe8fb88f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Foro 'España energética', en imágenes</title>
-      <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
-      <pubDate>Fri, 03 Jul 2026 03:00:00 +0000</pubDate>
-      <description>Madrid ha acogido este foro, en el que se han reunido líderes y representantes del sector energético para arrojar luz sobre la ruta que debemos seguir en España y Europa</description>
-      <author>Fotografía: J. del Río</author>
-      <enclosure url="https://images.ecestaticos.com/w2r1xlnALHSV6xitnNSbYQGlUF0=/0x0:1920x1281/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa94%2F93c%2Fea7%2Fa9493cea774861ee611bf3b11650af5b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>ASML prevé que la demanda por la IA supere su capacidad de producción hasta 2028</title>
@@ -185,24 +203,6 @@
       <description>La labor de la Asociación Española de Normalización, UNE, aporta el 14,7% al crecimiento medio del PIB en España y amplía su catálogo hacia ámbitos como la ciberseguridad o la sostenibilidad</description>
       <author>EC Brands</author>
       <enclosure url="https://images.ecestaticos.com/kNHulEe5EN5M5DDjAt1uaIg7aCQ=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe7e%2Facf%2Fcf3%2Fe7eacfcf38ad0fb221e91e845dc242cb.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>José Ignacio Goirigolzarri: "La banca es un negocio de confianza; sin ella, un banco desaparece"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-06-30/el-arte-de-crear-banca-jose-ignacio-goirigolzarri-bra_4380167/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-30/el-arte-de-crear-banca-jose-ignacio-goirigolzarri-bra_4380167/</guid>
-      <pubDate>Tue, 30 Jun 2026 03:00:00 +0000</pubDate>
-      <description>El presidente de Fad Juventud se une a El Arte de Crear para repasar casi cinco décadas en la primera línea de la banca española y una forma de entender el liderazgo en la que las personas, los principios y el ejemplo van siempre por delante</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/xf__Xb8oaS2YQgprj7xAJk_C-iI=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2d4%2Fc99%2Faea%2F2d4c99aea86656c31f76d98aece310f4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Carlos Moro: "El éxito es efímero: es estar cada día avanzando, mejorando y trabajando por un mundo mejor"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-06-16/el-arte-de-crear-bodega-matarromera-carlos-moro-bra_4372812/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-16/el-arte-de-crear-bodega-matarromera-carlos-moro-bra_4372812/</guid>
-      <pubDate>Tue, 16 Jun 2026 03:00:00 +0000</pubDate>
-      <description>El fundador y presidente de Bodegas Familiares Matarromera se sienta en el sofá de El Arte de Crear para repasar casi cuatro décadas de aventura: del despacho de la Administración a la viña</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/dkcobG5JQ4VzrizqnvlpLj5CSRs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed8%2Fbe9%2Fbdf%2Fed8be9bdfae73a5fff4b93c31c8ffdd2.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Laura Erra: "Todo empezó con una pregunta: ¿y si hacemos la leche sin la vaca?"</title>
