@@ -5,9 +5,45 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:58:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:04:09 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los maquinistas piden que no haya servicios mínimos durante los seis días de protestas en Ouigo</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/huelga-ouigo-maquinistas-semaf-1tps_4445809/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/huelga-ouigo-maquinistas-semaf-1tps_4445809/</guid>
+      <pubDate>Thu, 15 Oct 2026 14:46:00 +0000</pubDate>
+      <description>El conflicto laboral movilizará a un centenar de profesionales y alterará conexiones de alta velocidad en 15 provincias hasta diciembre</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/MCv-WfqB6GP3ra1zUEC8v73JUWk=/0x0:1000x750/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc02%2F5eb%2F212%2Fc025eb2128ae036d9fd1c83efd95338e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El TJUE cierra la puerta a que la banca evite devolver dinero al cliente por fraude cuando hay "negligencia"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/tjue-negligencia-cliente-phishing-banca-dinero-fraude_4445504/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/tjue-negligencia-cliente-phishing-banca-dinero-fraude_4445504/</guid>
+      <pubDate>Thu, 15 Oct 2026 09:59:00 +0000</pubDate>
+      <description>El tribunal europeo clarifica cómo se debe actuar cuando un banco sufre un fraude por haber facilitado sus claves. Los bancos podrán investigar el caso para recuperar el dinero</description>
+      <author>Óscar Giménez</author>
+      <enclosure url="https://images.ecestaticos.com/HV_rYyNBXTFnulqLlZHJk_Z5VEU=/0x0:2222x1283/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc7e%2F0b2%2F126%2Fc7e0b2126239ad908064149eab6c00ac.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Santalucía y Zurich sellan alianza estratégica a diez años en Autos, Decesos y Mascotas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/santalucia-zurich-alianza-seguros-1tps_4445491/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/santalucia-zurich-alianza-seguros-1tps_4445491/</guid>
+      <pubDate>Thu, 15 Oct 2026 09:56:00 +0000</pubDate>
+      <description>El acuerdo de coaseguro ampliará la oferta para clientes y mediadores, con nuevos productos disponibles desde 2027 tras completar su desarrollo tecnológico</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/0AUaPbvsqbTtSGzcwUyg5_uVYSE=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa95%2F222%2Ff31%2Fa95222f317a274b80e7913e9af236d4f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ACS y Acciona van a los tribunales tras ganar Ferrovial un contrato en EEUU</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/acs-acciona-impugnan-autopista-ferrovial-1tps_4445494/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/acs-acciona-impugnan-autopista-ferrovial-1tps_4445494/</guid>
+      <pubDate>Thu, 15 Oct 2026 09:56:00 +0000</pubDate>
+      <description>Las compañías reclaman revisar la transparencia y la igualdad de oportunidades tras quedar fuera de una concesión valorada en 9.200 millones de dólares</description>
+      <author>Agencias</author>
+      <enclosure url="https://images.ecestaticos.com/nb9MF9TdZwBTzPjhjEZ4q6EUcm0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F738%2F6f0%2Feef%2F7386f0eef85defab5da71d6b1167c43c.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Ercros convoca junta de accionistas extraordinaria para adaptar sus estatutos a no cotizar</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-15/ercros-junta-accionistas-bondalti-1tps_4445464/</link>
@@ -15,7 +51,7 @@
       <pubDate>Thu, 15 Oct 2026 09:38:00 +0000</pubDate>
       <description>El encuentro del 17 de noviembre abordará cambios estatutarios, retribuciones del órgano directivo y trámites derivados de la adquisición empresarial</description>
       <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/cgOMXvIjghmhqJRkBWAOWc9xd-4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa4a%2Fd5c%2F6fb%2Fa4ad5c6fb57e73086ae626dc00ed05dd.jpg" type="image/jpeg" />
+      <enclosure url="https://images.ecestaticos.com/h64fyFh9kRtpzDrKLUPitvDPT1k=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F187%2F41f%2Fd83%2F18741fd8325541bd77ab0c12dc838203.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La logística gestionará 127 millones de envíos durante Black Friday y Navidad, un 2,4% más que en 2025</title>
@@ -71,24 +107,6 @@
       <author>Agencias</author>
     </item>
     <item>
-      <title>Grupo Planeta alcanza una "facturación récord" de 2.200 millones, un 5,3% más</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-14/grupo-planeta-resultados-facturacion-record_4444943/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-14/grupo-planeta-resultados-facturacion-record_4444943/</guid>
-      <pubDate>Wed, 14 Oct 2026 15:09:00 +0000</pubDate>
-      <description>El presidente del grupo ha dicho que las previsiones para el ejercicio actual son "muy buenas" y que, hasta el momento, el crecimiento es del 7%, aunque el último trimestre es decisivo</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/rZjydCFUPJi234dRT2MU-j_aV4w=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff59%2Fee6%2F4e9%2Ff59ee64e9af7be88050327071661fb66.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Netflix despedirá a unos 1.000 empleados, el 6 % de su plantilla</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-14/netflix-despidos-plantilla-recortes-1tps_4444917/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-14/netflix-despidos-plantilla-recortes-1tps_4444917/</guid>
-      <pubDate>Wed, 14 Oct 2026 14:47:00 +0000</pubDate>
-      <description>La compañía tecnológica prepara su mayor ajuste laboral desde 2022, mientras afronta menor crecimiento y una caída bursátil superior al 40%</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/MyT31hb_LWQkocr0IO6PFdAgo4o=/0x0:2272x1611/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe57%2F42c%2F6c5%2Fe5742c6c5fc4c3bbf263077f05577273.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -123,6 +141,24 @@
       <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grupo Planeta alcanza una "facturación récord" de 2.200 millones, un 5,3% más</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-14/grupo-planeta-resultados-facturacion-record_4444943/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-14/grupo-planeta-resultados-facturacion-record_4444943/</guid>
+      <pubDate>Wed, 14 Oct 2026 15:09:00 +0000</pubDate>
+      <description>El presidente del grupo ha dicho que las previsiones para el ejercicio actual son "muy buenas" y que, hasta el momento, el crecimiento es del 7%, aunque el último trimestre es decisivo</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/rZjydCFUPJi234dRT2MU-j_aV4w=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff59%2Fee6%2F4e9%2Ff59ee64e9af7be88050327071661fb66.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Netflix despedirá a unos 1.000 empleados, el 6 % de su plantilla</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-14/netflix-despidos-plantilla-recortes-1tps_4444917/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-14/netflix-despidos-plantilla-recortes-1tps_4444917/</guid>
+      <pubDate>Wed, 14 Oct 2026 14:47:00 +0000</pubDate>
+      <description>La compañía tecnológica prepara su mayor ajuste laboral desde 2022, mientras afronta menor crecimiento y una caída bursátil superior al 40%</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/MyT31hb_LWQkocr0IO6PFdAgo4o=/0x0:2272x1611/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe57%2F42c%2F6c5%2Fe5742c6c5fc4c3bbf263077f05577273.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
