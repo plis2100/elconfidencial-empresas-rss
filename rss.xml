@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:04:09 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:11:21 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berkshire Hathaway invierte 295 millones más en Bending Spoons y alcanza el 4%</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/berkshire-hathaway-invierte-bending-spoons-1tps_4445866/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/berkshire-hathaway-invierte-bending-spoons-1tps_4445866/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:40:00 +0000</pubDate>
+      <description>La tecnológica emitirá 10 millones de acciones a 33 dólares, mientras sus títulos llegaron a dispararse un 54,6% en el Nasdaq tras conocerse la operación</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/yCU9hKXvWZtpXGChVTpa3khJi_s=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F06f%2F114%2F5e7%2F06f1145e721f9d670c3083fc26848d75.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ferrovial se adjudica una autopista en Georgia (EEUU) por unos 23.600 millones de dólares</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/ferrovial-adjudica-autopista-georgia-1tps_4445868/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/ferrovial-adjudica-autopista-georgia-1tps_4445868/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:40:00 +0000</pubDate>
+      <description>La infraestructura permitirá gestionar carriles de peaje dinámico durante medio siglo y atenderá a unos 200.000 vehículos cada jornada</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/D5Maw7GyrhPWYI0fURK7avCijQo=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F245%2F28c%2F024%2F24528c02438940fafdab1753b8247210.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Los maquinistas piden que no haya servicios mínimos durante los seis días de protestas en Ouigo</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-15/huelga-ouigo-maquinistas-semaf-1tps_4445809/</link>
@@ -27,15 +45,6 @@
       <enclosure url="https://images.ecestaticos.com/HV_rYyNBXTFnulqLlZHJk_Z5VEU=/0x0:2222x1283/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc7e%2F0b2%2F126%2Fc7e0b2126239ad908064149eab6c00ac.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Santalucía y Zurich sellan alianza estratégica a diez años en Autos, Decesos y Mascotas</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-15/santalucia-zurich-alianza-seguros-1tps_4445491/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/santalucia-zurich-alianza-seguros-1tps_4445491/</guid>
-      <pubDate>Thu, 15 Oct 2026 09:56:00 +0000</pubDate>
-      <description>El acuerdo de coaseguro ampliará la oferta para clientes y mediadores, con nuevos productos disponibles desde 2027 tras completar su desarrollo tecnológico</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/0AUaPbvsqbTtSGzcwUyg5_uVYSE=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa95%2F222%2Ff31%2Fa95222f317a274b80e7913e9af236d4f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>ACS y Acciona van a los tribunales tras ganar Ferrovial un contrato en EEUU</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-15/acs-acciona-impugnan-autopista-ferrovial-1tps_4445494/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/acs-acciona-impugnan-autopista-ferrovial-1tps_4445494/</guid>
@@ -52,15 +61,6 @@
       <description>El encuentro del 17 de noviembre abordará cambios estatutarios, retribuciones del órgano directivo y trámites derivados de la adquisición empresarial</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/h64fyFh9kRtpzDrKLUPitvDPT1k=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F187%2F41f%2Fd83%2F18741fd8325541bd77ab0c12dc838203.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La logística gestionará 127 millones de envíos durante Black Friday y Navidad, un 2,4% más que en 2025</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-15/logistica-envios-black-friday-navidad-1tps_4445381/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/logistica-envios-black-friday-navidad-1tps_4445381/</guid>
-      <pubDate>Thu, 15 Oct 2026 08:40:00 +0000</pubDate>
-      <description>El sector gestionará 127 millones de envíos durante Black Friday y Navidad, con jornadas de hasta 5,5 millones y apoyo creciente en automatización</description>
-      <author>Agencias</author>
-      <enclosure url="https://images.ecestaticos.com/wh9-lY8LoUJd1O3HUN1cMmpy91E=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F02d%2F7a1%2Ff68%2F02d7a1f687fe29eac4ff479568d7fdf9.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>TSMC eleva un 68,5% el beneficio hasta septiembre</title>
@@ -99,14 +99,6 @@
       <enclosure url="https://images.ecestaticos.com/e_xD-yWn3ZuZd_iVdcJh3pHJtbU=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff88%2Fab2%2F6c0%2Ff88ab26c014bcea7aa28d6ff2de3dfd3.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Cellnex pide favorecer los "gigantes europeos" de telecomunicaciones para asegurar la soberanía tecnológica</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-14/cellnex-inversiones-conectividad-europa-1tps_4444984/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-14/cellnex-inversiones-conectividad-europa-1tps_4444984/</guid>
-      <pubDate>Wed, 14 Oct 2026 16:08:00 +0000</pubDate>
-      <description>El máximo ejecutivo de la firma alerta del rezago continental y reclama apoyo normativo para impulsar redes resilientes, innovación y nuevos servicios digitales</description>
-      <author>Agencias</author>
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -143,6 +135,41 @@
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</guid>
+      <pubDate>Tue, 02 Jun 2026 03:00:00 +0000</pubDate>
+      <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Santalucía y Zurich sellan alianza estratégica a diez años en Autos, Decesos y Mascotas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/santalucia-zurich-alianza-seguros-1tps_4445491/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/santalucia-zurich-alianza-seguros-1tps_4445491/</guid>
+      <pubDate>Thu, 15 Oct 2026 09:56:00 +0000</pubDate>
+      <description>El acuerdo de coaseguro ampliará la oferta para clientes y mediadores, con nuevos productos disponibles desde 2027 tras completar su desarrollo tecnológico</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/0AUaPbvsqbTtSGzcwUyg5_uVYSE=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa95%2F222%2Ff31%2Fa95222f317a274b80e7913e9af236d4f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La logística gestionará 127 millones de envíos durante Black Friday y Navidad, un 2,4% más que en 2025</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/logistica-envios-black-friday-navidad-1tps_4445381/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/logistica-envios-black-friday-navidad-1tps_4445381/</guid>
+      <pubDate>Thu, 15 Oct 2026 08:40:00 +0000</pubDate>
+      <description>El sector gestionará 127 millones de envíos durante Black Friday y Navidad, con jornadas de hasta 5,5 millones y apoyo creciente en automatización</description>
+      <author>Agencias</author>
+      <enclosure url="https://images.ecestaticos.com/wh9-lY8LoUJd1O3HUN1cMmpy91E=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F02d%2F7a1%2Ff68%2F02d7a1f687fe29eac4ff479568d7fdf9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cellnex pide favorecer los "gigantes europeos" de telecomunicaciones para asegurar la soberanía tecnológica</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-14/cellnex-inversiones-conectividad-europa-1tps_4444984/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-14/cellnex-inversiones-conectividad-europa-1tps_4444984/</guid>
+      <pubDate>Wed, 14 Oct 2026 16:08:00 +0000</pubDate>
+      <description>El máximo ejecutivo de la firma alerta del rezago continental y reclama apoyo normativo para impulsar redes resilientes, innovación y nuevos servicios digitales</description>
+      <author>Agencias</author>
+    </item>
+    <item>
       <title>Grupo Planeta alcanza una "facturación récord" de 2.200 millones, un 5,3% más</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-14/grupo-planeta-resultados-facturacion-record_4444943/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-14/grupo-planeta-resultados-facturacion-record_4444943/</guid>
@@ -159,15 +186,6 @@
       <description>La compañía tecnológica prepara su mayor ajuste laboral desde 2022, mientras afronta menor crecimiento y una caída bursátil superior al 40%</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/MyT31hb_LWQkocr0IO6PFdAgo4o=/0x0:2272x1611/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe57%2F42c%2F6c5%2Fe5742c6c5fc4c3bbf263077f05577273.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</guid>
-      <pubDate>Tue, 02 Jun 2026 03:00:00 +0000</pubDate>
-      <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
