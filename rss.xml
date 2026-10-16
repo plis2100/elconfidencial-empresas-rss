@@ -5,17 +5,35 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 15 Oct 2026 21:11:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:52:54 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Berkshire Hathaway invierte 295 millones más en Bending Spoons y alcanza el 4%</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-15/berkshire-hathaway-invierte-bending-spoons-1tps_4445866/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/berkshire-hathaway-invierte-bending-spoons-1tps_4445866/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:40:00 +0000</pubDate>
-      <description>La tecnológica emitirá 10 millones de acciones a 33 dólares, mientras sus títulos llegaron a dispararse un 54,6% en el Nasdaq tras conocerse la operación</description>
-      <author>EP</author>
-      <enclosure url="https://images.ecestaticos.com/yCU9hKXvWZtpXGChVTpa3khJi_s=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F06f%2F114%2F5e7%2F06f1145e721f9d670c3083fc26848d75.jpg" type="image/jpeg" />
+      <title>Evolve ficha para su cúpula a una exdirectiva de Microsoft y Google Cloud</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-16/evolve-ficha-para-su-cupula-a-una-exdirectiva-de-microsoft-y-google-cloud_4446249/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-16/evolve-ficha-para-su-cupula-a-una-exdirectiva-de-microsoft-y-google-cloud_4446249/</guid>
+      <pubDate>Fri, 16 Oct 2026 08:41:00 +0000</pubDate>
+      <description>La compañía española incorpora a Leticia Álvarez como Chief Revenue Officer (CRO) para liderar su crecimiento y poner en marcha una nueva línea de negocio dirigida a empresas</description>
+      <author>El Confidencial</author>
+      <enclosure url="https://images.ecestaticos.com/Pocb5xjLifVAxiVLCEZCycugsaQ=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9ae%2F6ff%2F0d1%2F9ae6ff0d103f740afa0c204eded713c2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nordex (+13%) aúpa a Acciona un 3% en bolsa tras aumentar su margen de rentabilidad</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-16/cotizacion-acciona-nordex-mejora-prevision-ebitda-1tps_4446227/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-16/cotizacion-acciona-nordex-mejora-prevision-ebitda-1tps_4446227/</guid>
+      <pubDate>Fri, 16 Oct 2026 08:22:00 +0000</pubDate>
+      <description>Ha duplicado su beneficio operativo bruto en el tercer trimestre y proyecta ahora para 2026 un margen Ebitda situado entre el 11,5% y el 12,5%, por encima del rango anterior de entre el 8% y el 11%</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/YyNrA59igAAe32eXLLTKtjBNMNw=/0x0:2272x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F07d%2F6cd%2F08d%2F07d6cd08d6dea807c6852e7f3955436e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>PwC España incorpora su nueva identidad de marca al skyline de Madrid</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-16/pwc-espana-incorpora-su-nueva-identidad-de-marca-al-skyline-de-madrid_4446220/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-16/pwc-espana-incorpora-su-nueva-identidad-de-marca-al-skyline-de-madrid_4446220/</guid>
+      <pubDate>Fri, 16 Oct 2026 08:11:00 +0000</pubDate>
+      <description>La firma culmina la instalación de su nuevo logotipo en las tres fachadas de la Torre PwC, a 236 metros de altura</description>
+      <author>El Confidencial</author>
+      <enclosure url="https://images.ecestaticos.com/OPIfdjI_12wM32cf1GBNuEA5WhM=/0x0:2272x2741/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8e5%2F713%2Fa2a%2F8e5713a2ad1804e0ffeecc0e646d586e.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Ferrovial se adjudica una autopista en Georgia (EEUU) por unos 23.600 millones de dólares</title>
@@ -52,51 +70,6 @@
       <description>Las compañías reclaman revisar la transparencia y la igualdad de oportunidades tras quedar fuera de una concesión valorada en 9.200 millones de dólares</description>
       <author>Agencias</author>
       <enclosure url="https://images.ecestaticos.com/nb9MF9TdZwBTzPjhjEZ4q6EUcm0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F738%2F6f0%2Feef%2F7386f0eef85defab5da71d6b1167c43c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ercros convoca junta de accionistas extraordinaria para adaptar sus estatutos a no cotizar</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-15/ercros-junta-accionistas-bondalti-1tps_4445464/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/ercros-junta-accionistas-bondalti-1tps_4445464/</guid>
-      <pubDate>Thu, 15 Oct 2026 09:38:00 +0000</pubDate>
-      <description>El encuentro del 17 de noviembre abordará cambios estatutarios, retribuciones del órgano directivo y trámites derivados de la adquisición empresarial</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/h64fyFh9kRtpzDrKLUPitvDPT1k=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F187%2F41f%2Fd83%2F18741fd8325541bd77ab0c12dc838203.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>TSMC eleva un 68,5% el beneficio hasta septiembre</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-15/tsmc-beneficio-ventas-microchips-1tps_4445368/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/tsmc-beneficio-ventas-microchips-1tps_4445368/</guid>
-      <pubDate>Thu, 15 Oct 2026 08:32:00 +0000</pubDate>
-      <description>El fabricante taiwanés de semiconductores atribuye el avance a la demanda de procesos punteros y prevé facturar hasta 54.300 millones entre octubre y diciembre</description>
-      <author>EC</author>
-      <enclosure url="https://images.ecestaticos.com/WjHo-gr88zZsiJqijMD89yj2yfE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0fb%2F528%2F843%2F0fb5288431a7db08a02b841ea13a18a6.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Solaria acuerda con el Gobierno de Uruguay invertir 5.000 millones en centros de datos</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-15/inversion-solaria-centros-datos-uruguay-1hms_4445238/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/inversion-solaria-centros-datos-uruguay-1hms_4445238/</guid>
-      <pubDate>Thu, 15 Oct 2026 06:51:00 +0000</pubDate>
-      <description>El complejo se repartirá entre tres departamentos, contará con 500 megavatios y creará 1.500 empleos permanentes cuando alcance su plena capacidad</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/yfrZORVAacM2zkhKAaALEsN6YkY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe88%2Ffd9%2F023%2Fe88fd90235695f0d9c0ddf4f1bd8a078.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ElPozo agrupa sus patrocinio deportivos bajo una misma identidad corporativa</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-15/pozo-sports-universe-deportistas-bra_4438726/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/pozo-sports-universe-deportistas-bra_4438726/</guid>
-      <pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate>
-      <description>La compañía lanza la iniciativa Sports Universe que conecta sus alianzas con deportistas y equipos de élite como Carlos Alcaraz, la Selección Española de Fútbol o el Valencia Basket</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/J1bsgHje6tUhLy2qB8jD0fhhSWc=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe41%2Fe06%2Fb17%2Fe41e06b174e0b639bafbf615f0257fbf.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hablemos en serio de la IA: ¿cuánto (y para qué) la usan las empresas españolas?</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-15/empresas-espanolas-inteligencia-artificial-orange-bra_4440026/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/empresas-espanolas-inteligencia-artificial-orange-bra_4440026/</guid>
-      <pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate>
-      <description>Más de la mitad de las grandes compañías ya la ha incorporado, sobre todo en marketing y organización de procesos, según el Ontsi. Entre las pymes, la adopción avanza más despacio</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/e_xD-yWn3ZuZd_iVdcJh3pHJtbU=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff88%2Fab2%2F6c0%2Ff88ab26c014bcea7aa28d6ff2de3dfd3.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -144,6 +117,87 @@
       <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</guid>
+      <pubDate>Tue, 26 May 2026 03:00:00 +0000</pubDate>
+      <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
+      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
+      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</guid>
+      <pubDate>Tue, 07 Apr 2026 03:00:00 +0000</pubDate>
+      <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Berkshire Hathaway invierte 295 millones más en Bending Spoons y alcanza el 4%</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/berkshire-hathaway-invierte-bending-spoons-1tps_4445866/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/berkshire-hathaway-invierte-bending-spoons-1tps_4445866/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:40:00 +0000</pubDate>
+      <description>La tecnológica emitirá 10 millones de acciones a 33 dólares, mientras sus títulos llegaron a dispararse un 54,6% en el Nasdaq tras conocerse la operación</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/yCU9hKXvWZtpXGChVTpa3khJi_s=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F06f%2F114%2F5e7%2F06f1145e721f9d670c3083fc26848d75.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ercros convoca junta de accionistas extraordinaria para adaptar sus estatutos a no cotizar</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/ercros-junta-accionistas-bondalti-1tps_4445464/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/ercros-junta-accionistas-bondalti-1tps_4445464/</guid>
+      <pubDate>Thu, 15 Oct 2026 09:38:00 +0000</pubDate>
+      <description>El encuentro del 17 de noviembre abordará cambios estatutarios, retribuciones del órgano directivo y trámites derivados de la adquisición empresarial</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/h64fyFh9kRtpzDrKLUPitvDPT1k=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F187%2F41f%2Fd83%2F18741fd8325541bd77ab0c12dc838203.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>TSMC eleva un 68,5% el beneficio hasta septiembre</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/tsmc-beneficio-ventas-microchips-1tps_4445368/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/tsmc-beneficio-ventas-microchips-1tps_4445368/</guid>
+      <pubDate>Thu, 15 Oct 2026 08:32:00 +0000</pubDate>
+      <description>El fabricante taiwanés de semiconductores atribuye el avance a la demanda de procesos punteros y prevé facturar hasta 54.300 millones entre octubre y diciembre</description>
+      <author>EC</author>
+      <enclosure url="https://images.ecestaticos.com/WjHo-gr88zZsiJqijMD89yj2yfE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0fb%2F528%2F843%2F0fb5288431a7db08a02b841ea13a18a6.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Solaria acuerda con el Gobierno de Uruguay invertir 5.000 millones en centros de datos</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/inversion-solaria-centros-datos-uruguay-1hms_4445238/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/inversion-solaria-centros-datos-uruguay-1hms_4445238/</guid>
+      <pubDate>Thu, 15 Oct 2026 06:51:00 +0000</pubDate>
+      <description>El complejo se repartirá entre tres departamentos, contará con 500 megavatios y creará 1.500 empleos permanentes cuando alcance su plena capacidad</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/yfrZORVAacM2zkhKAaALEsN6YkY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe88%2Ffd9%2F023%2Fe88fd90235695f0d9c0ddf4f1bd8a078.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ElPozo agrupa sus patrocinio deportivos bajo una misma identidad corporativa</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/pozo-sports-universe-deportistas-bra_4438726/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/pozo-sports-universe-deportistas-bra_4438726/</guid>
+      <pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate>
+      <description>La compañía lanza la iniciativa Sports Universe que conecta sus alianzas con deportistas y equipos de élite como Carlos Alcaraz, la Selección Española de Fútbol o el Valencia Basket</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/J1bsgHje6tUhLy2qB8jD0fhhSWc=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe41%2Fe06%2Fb17%2Fe41e06b174e0b639bafbf615f0257fbf.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hablemos en serio de la IA: ¿cuánto (y para qué) la usan las empresas españolas?</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-15/empresas-espanolas-inteligencia-artificial-orange-bra_4440026/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/empresas-espanolas-inteligencia-artificial-orange-bra_4440026/</guid>
+      <pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate>
+      <description>Más de la mitad de las grandes compañías ya la ha incorporado, sobre todo en marketing y organización de procesos, según el Ontsi. Entre las pymes, la adopción avanza más despacio</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/e_xD-yWn3ZuZd_iVdcJh3pHJtbU=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff88%2Fab2%2F6c0%2Ff88ab26c014bcea7aa28d6ff2de3dfd3.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Santalucía y Zurich sellan alianza estratégica a diez años en Autos, Decesos y Mascotas</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-15/santalucia-zurich-alianza-seguros-1tps_4445491/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-15/santalucia-zurich-alianza-seguros-1tps_4445491/</guid>
@@ -186,15 +240,6 @@
       <description>La compañía tecnológica prepara su mayor ajuste laboral desde 2022, mientras afronta menor crecimiento y una caída bursátil superior al 40%</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/MyT31hb_LWQkocr0IO6PFdAgo4o=/0x0:2272x1611/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe57%2F42c%2F6c5%2Fe5742c6c5fc4c3bbf263077f05577273.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</guid>
-      <pubDate>Tue, 26 May 2026 03:00:00 +0000</pubDate>
-      <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>El Gobierno portugués elige a Lufthansa para comprar hasta el 49,9% de TAP por 1.201 M</title>
@@ -346,15 +391,6 @@
       <description>La labor de la Asociación Española de Normalización, UNE, aporta el 14,7% al crecimiento medio del PIB en España y amplía su catálogo hacia ámbitos como la ciberseguridad o la sostenibilidad</description>
       <author>EC Brands</author>
       <enclosure url="https://images.ecestaticos.com/kNHulEe5EN5M5DDjAt1uaIg7aCQ=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe7e%2Facf%2Fcf3%2Fe7eacfcf38ad0fb221e91e845dc242cb.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
-      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
-      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>GBSB Global impulsa el emprendimiento con un trimestre de actividades para conectar talento, innovación y empresas</title>
@@ -552,15 +588,6 @@
       <description>El ejecutivo, con más de 27 años de trayectoria en la entidad, asumirá el cargo tras el ascenso de su predecesor a director financiero del grupo</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/kdhyz5uJHMEne2T82SIXMyzlFMI=/0x0:2272x1797/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc16%2Fecf%2Faaa%2Fc16ecfaaaf59401f2b565357371558e1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</guid>
-      <pubDate>Tue, 07 Apr 2026 03:00:00 +0000</pubDate>
-      <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Las grandes empresas reivindican más inversión en IA y talento</title>
