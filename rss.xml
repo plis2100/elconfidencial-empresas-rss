@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:53:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:49:25 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las cinco ofertas seleccionadas por Tubos Reunidos contemplan despidos y una ofrece 27,5 M</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-16/tubos-reunidos-ofertas-compra-plantilla-1hms_4446771/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-16/tubos-reunidos-ofertas-compra-plantilla-1hms_4446771/</guid>
+      <pubDate>Fri, 16 Oct 2026 15:19:00 +0000</pubDate>
+      <description>La propuesta más elevada alcanza 27,5 millones por Trapagaran, mientras solo dos candidatos contemplan ambas fábricas y ninguno aporta liquidez provisional</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/byOgapfwEnDDm7_sFlk_hAQhlIw=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc4b%2Fbab%2Ff21%2Fc4bbabf21d8354a3b2db3ee985cd1cf1.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Amazon anuncia los cinco finalistas del Premio Literario Kindle Storyteller 2026</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-16/premio-literario-kindle-storyteller-finalistas-1hms-1svm_4446458/</link>
@@ -63,7 +72,7 @@
       <enclosure url="https://images.ecestaticos.com/Pocb5xjLifVAxiVLCEZCycugsaQ=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9ae%2F6ff%2F0d1%2F9ae6ff0d103f740afa0c204eded713c2.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Nordex (+13%) aúpa a Acciona un 3% en bolsa tras aumentar su margen de rentabilidad</title>
+      <title>Nordex (+12%) aúpa a Acciona un 3% en bolsa tras aumentar su margen de rentabilidad</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-16/cotizacion-acciona-nordex-mejora-prevision-ebitda-1tps_4446227/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-16/cotizacion-acciona-nordex-mejora-prevision-ebitda-1tps_4446227/</guid>
       <pubDate>Fri, 16 Oct 2026 08:22:00 +0000</pubDate>
