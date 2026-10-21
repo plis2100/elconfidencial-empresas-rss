@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:18:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:12:21 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puig alcanza una facturación de 3.745 millones hasta septiembre, un 4,8% más</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/puig-alcanza-una-facturacion-de-3-745-millones-hasta-septiembre-un-4-8-mas_4450104/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/puig-alcanza-una-facturacion-de-3-745-millones-hasta-septiembre-un-4-8-mas_4450104/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:04:00 +0000</pubDate>
+      <description>La empresa ha explicado que todos los segmentos de negocios y regiones crecieron en términos comparables, con aumentos a doble dígito en Fragancias Niche, Maquillaje, Dermocosmética y Asia-Pacífico</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/34UCZd8iOwu-fo2JppFLf6N2QJ4=/0x0:2272x1408/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F10b%2F632%2Fa8e%2F10b632a8e58f9c846ce4645f850f1857.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Los cinco interesados por Tubos Reunidos se reúnen con los sindicatos la próxima semana</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-21/tubos-reunidos-cinco-ofertas-concurso-1hms_4449976/</link>
@@ -72,15 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/dKMWEjKQKbjTl_vlu8tAHRIRmRM=/0x0:2272x2741/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F942%2F522%2F84c%2F94252284c4aeea13291af2997d13d75a.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Nace la Cátedra USC-Lactalis España para abordar los retos de la ganadería</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-21/catedra-usc-lactalis-retos-ganaderia-bra_4435150/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/catedra-usc-lactalis-retos-ganaderia-bra_4435150/</guid>
-      <pubDate>Wed, 21 Oct 2026 03:00:00 +0000</pubDate>
-      <description>La iniciativa se centrará en el relevo generacional, el bienestar animal y la reducción de emisiones, con el objetivo de aplicar la investigación a las explotaciones</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/qfpbd984te4fwPeMnj8R6cytF-4=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe9e%2F07c%2F76a%2Fe9e07c76a0e867cf89ae0d3bde69e597.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -142,6 +142,15 @@
       <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nace la Cátedra USC-Lactalis España para abordar los retos de la ganadería</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/catedra-usc-lactalis-retos-ganaderia-bra_4435150/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/catedra-usc-lactalis-retos-ganaderia-bra_4435150/</guid>
+      <pubDate>Wed, 21 Oct 2026 03:00:00 +0000</pubDate>
+      <description>La iniciativa se centrará en el relevo generacional, el bienestar animal y la reducción de emisiones, con el objetivo de aplicar la investigación a las explotaciones</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/qfpbd984te4fwPeMnj8R6cytF-4=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe9e%2F07c%2F76a%2Fe9e07c76a0e867cf89ae0d3bde69e597.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>La CNMC abre expediente sancionador contra Exolum por posible abuso de posición dominante</title>
