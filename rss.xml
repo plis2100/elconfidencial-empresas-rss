@@ -5,9 +5,45 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:13:16 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:18:55 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los cinco interesados por Tubos Reunidos se reúnen con los sindicatos la próxima semana</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/tubos-reunidos-cinco-ofertas-concurso-1hms_4449976/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/tubos-reunidos-cinco-ofertas-concurso-1hms_4449976/</guid>
+      <pubDate>Wed, 21 Oct 2026 13:45:00 +0000</pubDate>
+      <description>ELA dice que SEPI debe ser "parte de la solución" y que la capitalización de su deuda en acciones es una de las posibilidades</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/Y5VlsniWvZvmiHACldTA1N-jX_E=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbde%2F501%2Ffe1%2Fbde501fe14c27e704c82897db795509d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Comparar precios se afianza como hábito de compra y estrategia de ahorro para el 90% de los consumidores</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/comparar-precios-ahorrar-compras-1hms-1svm_4449920/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/comparar-precios-ahorrar-compras-1hms-1svm_4449920/</guid>
+      <pubDate>Wed, 21 Oct 2026 13:15:00 +0000</pubDate>
+      <description>Un informe de Ipsos para Amazon revela que el 90% consulta varias opciones antes de comprar y que hacerlo permite reducir entre un 5% y un 10% el desembolso</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/qFR8Q5_4mXEPfLgFa3nojgLA4CM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb4b%2F670%2Fb26%2Fb4b670b26dd711c3d16b0f59d7925e44.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bruselas acusa a Booking por no tomar medidas contra el 'phishing' y anuncios fraudulentos</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/bruselas-acusa-a-booking-por-no-tomar-medidas_4449748/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/bruselas-acusa-a-booking-por-no-tomar-medidas_4449748/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:29:00 +0000</pubDate>
+      <description>Bruselas apunta que la compañía no ha "evaluado con diligencia ni mitigado de manera efectiva" los riesgos vinculados con los anuncios fraudulentos y estafas por suplantación de identidad</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/kt25J4xwaKOUIc9DMmI_SCgucWE=/0x0:2272x1552/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1c1%2Fdf3%2Ff87%2F1c1df3f87d1f8c22e1af572060b9ec33.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Anthropic pierde casi 72.000 millones en la primera mitad de 2026</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/anthropic-perdio-casi-72-000-millones_4449721/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/anthropic-perdio-casi-72-000-millones_4449721/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:13:00 +0000</pubDate>
+      <description>Se debió a ajustes contables relacionados con variaciones en el valor de los bonos convertibles y otros instrumentos que la compañía emitió para obtener financiación</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/3CaucI5TyYu7MDS2434N_KDGMzI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd45%2F41e%2Fb5a%2Fd4541eb5a275060625d92d93c158a1c1.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>SpaceX y Tesla estudian su fusión para crear un gigante tecnológico con respaldo de Elon Musk</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-21/fusion-spacex-tesla-elon-musk-1hms_4449611/</link>
@@ -36,33 +72,6 @@
       <enclosure url="https://images.ecestaticos.com/dKMWEjKQKbjTl_vlu8tAHRIRmRM=/0x0:2272x2741/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F942%2F522%2F84c%2F94252284c4aeea13291af2997d13d75a.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La CNMC abre expediente sancionador contra Exolum por posible abuso de posición dominante</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-21/cnmc-expediente-sancionador-exolum-abuso-posicion-dominante-1tps_4449547/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/cnmc-expediente-sancionador-exolum-abuso-posicion-dominante-1tps_4449547/</guid>
-      <pubDate>Wed, 21 Oct 2026 07:20:00 +0000</pubDate>
-      <description>El organismo analiza tarifas elevadas y el veto al acceso de un rival a instalaciones de transporte y almacenamiento en Tarragona</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/ZjSCFVpxYYAZF-kGDj2YsCcWjTY=/0x0:2272x1581/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F33b%2F6bd%2Fa1c%2F33b6bda1c765dbcbc333d09cfdcacfbe.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pódcast | Sí, tu banco está usando IA a diario, pero eso no es una mala noticia: estas son sus ventajas</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-21/inteligencia-artificial-sector-bancario-bra_4389326/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/inteligencia-artificial-sector-bancario-bra_4389326/</guid>
-      <pubDate>Wed, 21 Oct 2026 03:00:00 +0000</pubDate>
-      <description>En el tercer capítulo de 'Código Futuro', el pódcast de CaixaBank y El Confidencial para reflexionar sobre tecnología y banca, hablamos de las (nuevas) formas en que los clientes se relacionan con sus entidades financieras en ciertos trámites</description>
-      <author>EB</author>
-      <enclosure url="https://images.ecestaticos.com/xcN1uqKVIaZLQo9iMBt9tzCEde8=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8f7%2F362%2Fca8%2F8f7362ca88ae8066457091cc134ce8d7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vender no siempre es cobrar a tiempo: más de la mitad de los pagos empresariales llegan tarde</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-21/vender-cobrar-impagos-tarde-bra_4436877/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/vender-cobrar-impagos-tarde-bra_4436877/</guid>
-      <pubDate>Wed, 21 Oct 2026 03:00:00 +0000</pubDate>
-      <description>Así lo recoge un estudio de Informa D&amp;amp;B. Revisar la solvencia y los antecedentes de un nuevo cliente ayuda a reducir el riesgo antes de cerrar un acuerdo</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/RxsJv2mpUzkVNnO6OuHfti5tEmM=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F57f%2Fdf8%2F88e%2F57fdf888eb3f069f863277465e646668.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Nace la Cátedra USC-Lactalis España para abordar los retos de la ganadería</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-21/catedra-usc-lactalis-retos-ganaderia-bra_4435150/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/catedra-usc-lactalis-retos-ganaderia-bra_4435150/</guid>
@@ -70,24 +79,6 @@
       <description>La iniciativa se centrará en el relevo generacional, el bienestar animal y la reducción de emisiones, con el objetivo de aplicar la investigación a las explotaciones</description>
       <author>EC Brands</author>
       <enclosure url="https://images.ecestaticos.com/qfpbd984te4fwPeMnj8R6cytF-4=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe9e%2F07c%2F76a%2Fe9e07c76a0e867cf89ae0d3bde69e597.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>DBRS eleva a 'AA (bajo)' el rating de BBVA, con perspectiva 'estable'</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-20/dbrs-mejora-rating-de-bbva_4449368/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-20/dbrs-mejora-rating-de-bbva_4449368/</guid>
-      <pubDate>Tue, 20 Oct 2026 18:01:00 +0000</pubDate>
-      <description>La mejora de la nota de solvencia refleja el historial de "rentabilidad resiliente y muy sólida", que se ha logrado sostener a través de diferentes ciclos de tipos de interés y en entornos inciertos</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/0laKuZd6pARD5DoW-ZCaoJ7bHO8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F34f%2F3d1%2Fbde%2F34f3d1bde647c3ed40fc4f4179dbfbce.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Renfe recurrirá a la AN la decisión de la CNMC para evitar que Iryo y Ouigo le "parasiten"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-20/renfe-recurrira-a-la-an-la-decision-de-la-cnmc_4449285/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-20/renfe-recurrira-a-la-an-la-decision-de-la-cnmc_4449285/</guid>
-      <pubDate>Tue, 20 Oct 2026 16:31:00 +0000</pubDate>
-      <description>Desde la empresa pública defienden que su recurso no solo busca defender sus derechos, sino también el interés general, tras la importante inversión pública realizada en su red de talleres</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/-6Ft9kwGaubX3rEkkedWa8rRVWU=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7e8%2Fe78%2Fd01%2F7e8e78d01fcacdea26b17948ef9854ee.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -142,6 +133,60 @@
       <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
+      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
+      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La CNMC abre expediente sancionador contra Exolum por posible abuso de posición dominante</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/cnmc-expediente-sancionador-exolum-abuso-posicion-dominante-1tps_4449547/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/cnmc-expediente-sancionador-exolum-abuso-posicion-dominante-1tps_4449547/</guid>
+      <pubDate>Wed, 21 Oct 2026 07:20:00 +0000</pubDate>
+      <description>El organismo analiza tarifas elevadas y el veto al acceso de un rival a instalaciones de transporte y almacenamiento en Tarragona</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/ZjSCFVpxYYAZF-kGDj2YsCcWjTY=/0x0:2272x1581/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F33b%2F6bd%2Fa1c%2F33b6bda1c765dbcbc333d09cfdcacfbe.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pódcast | Sí, tu banco está usando IA a diario, pero eso no es una mala noticia: estas son sus ventajas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/inteligencia-artificial-sector-bancario-bra_4389326/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/inteligencia-artificial-sector-bancario-bra_4389326/</guid>
+      <pubDate>Wed, 21 Oct 2026 03:00:00 +0000</pubDate>
+      <description>En el tercer capítulo de 'Código Futuro', el pódcast de CaixaBank y El Confidencial para reflexionar sobre tecnología y banca, hablamos de las (nuevas) formas en que los clientes se relacionan con sus entidades financieras en ciertos trámites</description>
+      <author>EB</author>
+      <enclosure url="https://images.ecestaticos.com/xcN1uqKVIaZLQo9iMBt9tzCEde8=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8f7%2F362%2Fca8%2F8f7362ca88ae8066457091cc134ce8d7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Vender no siempre es cobrar a tiempo: más de la mitad de los pagos empresariales llegan tarde</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/vender-cobrar-impagos-tarde-bra_4436877/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/vender-cobrar-impagos-tarde-bra_4436877/</guid>
+      <pubDate>Wed, 21 Oct 2026 03:00:00 +0000</pubDate>
+      <description>Así lo recoge un estudio de Informa D&amp;amp;B. Revisar la solvencia y los antecedentes de un nuevo cliente ayuda a reducir el riesgo antes de cerrar un acuerdo</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/RxsJv2mpUzkVNnO6OuHfti5tEmM=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F57f%2Fdf8%2F88e%2F57fdf888eb3f069f863277465e646668.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>DBRS eleva a 'AA (bajo)' el rating de BBVA, con perspectiva 'estable'</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-20/dbrs-mejora-rating-de-bbva_4449368/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-20/dbrs-mejora-rating-de-bbva_4449368/</guid>
+      <pubDate>Tue, 20 Oct 2026 18:01:00 +0000</pubDate>
+      <description>La mejora de la nota de solvencia refleja el historial de "rentabilidad resiliente y muy sólida", que se ha logrado sostener a través de diferentes ciclos de tipos de interés y en entornos inciertos</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/0laKuZd6pARD5DoW-ZCaoJ7bHO8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F34f%2F3d1%2Fbde%2F34f3d1bde647c3ed40fc4f4179dbfbce.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Renfe recurrirá a la AN la decisión de la CNMC para evitar que Iryo y Ouigo le "parasiten"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-20/renfe-recurrira-a-la-an-la-decision-de-la-cnmc_4449285/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-20/renfe-recurrira-a-la-an-la-decision-de-la-cnmc_4449285/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:31:00 +0000</pubDate>
+      <description>Desde la empresa pública defienden que su recurso no solo busca defender sus derechos, sino también el interés general, tras la importante inversión pública realizada en su red de talleres</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/-6Ft9kwGaubX3rEkkedWa8rRVWU=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7e8%2Fe78%2Fd01%2F7e8e78d01fcacdea26b17948ef9854ee.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>El World Infrastructure Forum reunirá en Madrid a más de 350 líderes de más de 30 países y ya cuenta con más de 50 ponentes confirmados</title>
@@ -367,15 +412,6 @@
       <description>La protesta afectará a todas las empresas del grupo y reclama avances en seguridad ferroviaria, protocolos meteorológicos, empleo y fiabilidad del material rodante</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/pEkPzldcsEnFAiKuX4v0px67owM=/0x0:2272x1501/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F173%2F5b0%2F780%2F1735b0780ec2161aeef8c167a51b7a61.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
-      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
-      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
