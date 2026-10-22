@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:20:48 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:09:40 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los interesados en comprar Tubos Reunidos no quieren asumir la deuda con la SEPI</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-22/tubos-reunidos-deuda-sepi-compradores-1hms_4450959/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/tubos-reunidos-deuda-sepi-compradores-1hms_4450959/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:29:00 +0000</pubDate>
+      <description>La compañía afronta una tesorería muy ajustada pese a captar 15 millones en encargos, mientras las propuestas contemplan ajustes laborales y solo tres mantienen sus dos fábricas</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/ynMWPgR0QVpnAGHWwFAgYeac4Kg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F193%2Fae9%2Feb6%2F193ae9eb653f8ea087ed0c010e4dd264.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Grandvalira Resorts prepara la temporada de nieve en la Feria de Andorra la Vella</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-22/feria-andorra-grandvalira-forfaits-1hms-1svm_4450769/</link>
@@ -99,15 +108,6 @@
       <enclosure url="https://images.ecestaticos.com/Y5VlsniWvZvmiHACldTA1N-jX_E=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbde%2F501%2Ffe1%2Fbde501fe14c27e704c82897db795509d.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Comparar precios se afianza como hábito de compra y estrategia de ahorro para el 90% de los consumidores</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-21/comparar-precios-ahorrar-compras-1hms-1svm_4449920/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/comparar-precios-ahorrar-compras-1hms-1svm_4449920/</guid>
-      <pubDate>Wed, 21 Oct 2026 13:15:00 +0000</pubDate>
-      <description>Un informe de Ipsos para Amazon revela que el 90% consulta varias opciones antes de comprar y que hacerlo permite reducir entre un 5% y un 10% el desembolso</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/qFR8Q5_4mXEPfLgFa3nojgLA4CM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb4b%2F670%2Fb26%2Fb4b670b26dd711c3d16b0f59d7925e44.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -142,6 +142,15 @@
       <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Comparar precios se afianza como hábito de compra y estrategia de ahorro para el 90% de los consumidores</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/comparar-precios-ahorrar-compras-1hms-1svm_4449920/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/comparar-precios-ahorrar-compras-1hms-1svm_4449920/</guid>
+      <pubDate>Wed, 21 Oct 2026 13:15:00 +0000</pubDate>
+      <description>Un informe de Ipsos para Amazon revela que el 90% consulta varias opciones antes de comprar y que hacerlo permite reducir entre un 5% y un 10% el desembolso</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/qFR8Q5_4mXEPfLgFa3nojgLA4CM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb4b%2F670%2Fb26%2Fb4b670b26dd711c3d16b0f59d7925e44.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Bruselas acusa a Booking por no tomar medidas contra el 'phishing' y anuncios fraudulentos</title>
