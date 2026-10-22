@@ -5,9 +5,36 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:12:21 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:14:26 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barclays recortará uno de cada veinte empleos por la implantación de la IA</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-22/barclays-recorta-empleos-inteligencia-artificial-1tps_4450488/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/barclays-recorta-empleos-inteligencia-artificial-1tps_4450488/</guid>
+      <pubDate>Thu, 22 Oct 2026 08:43:00 +0000</pubDate>
+      <description>La entidad británica prevé eliminar 4.000 plazas adicionales durante el último trimestre, tras elevar un 17% sus ganancias hasta septiembre</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/iRdb-zo_mUUvUeRcomUw2G8tJdo=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F290%2Fb34%2Fa60%2F290b34a60efc8bd15a0d31852715ebde.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bankinter gana 901 millones hasta septiembre, un 11% más, al avanzar en todas sus líneas de negocio</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-22/bankinter-beneficio-neto-tercer-trimestre-1tps_4450361/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/bankinter-beneficio-neto-tercer-trimestre-1tps_4450361/</guid>
+      <pubDate>Thu, 22 Oct 2026 06:33:00 +0000</pubDate>
+      <description>La entidad atribuye el avance a la mayor actividad con clientes y a la diversificación, mientras el ROE alcanza el 19,2% y el ROTE, el 20,4%</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/1Tt7HTMyK5GvTgDGGrjy8Wha5N4=/0x0:850x567/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F615%2F1fc%2F85b%2F6151fc85b60117f54533d078f18c61df.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>España, país de mascotas: dos emprendedores explican el auge de la 'pet economy'</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-22/banco-sabadell-podcast-doog-life-wild-balance-bra_4448154/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/banco-sabadell-podcast-doog-life-wild-balance-bra_4448154/</guid>
+      <pubDate>Thu, 22 Oct 2026 03:00:00 +0000</pubDate>
+      <description>Si nuestros animales son parte de la familia, es lógico que el sector que se ocupa de sus cuidados crezca de manera acorde. Te lo contamos junto a las historias de Alba Ciordia (The Doog Life) y Kike Domingo (Wild Balance)</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/T4Bcb62goYnA_M3RPlVzz_MKkbs=/0x0:1000x667/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F611%2F780%2F197%2F6117801972f0ebb2eda6197796bf5e6f.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Puig alcanza una facturación de 3.745 millones hasta septiembre, un 4,8% más</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-21/puig-alcanza-una-facturacion-de-3-745-millones-hasta-septiembre-un-4-8-mas_4450104/</link>
@@ -63,24 +90,6 @@
       <enclosure url="https://images.ecestaticos.com/4Wv1k16HY4tfmsCYsFsPa_slsZg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F340%2Fde5%2F495%2F340de54950309e3dc8cba243f2000976.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Moeve prolonga hasta final de año los descuentos en gasolina y diésel ante la subida de precios</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-21/moeve-prolonga-hasta-final-de-ano-los-descuentos-en-gasolina-y-diesel-ante-la-subida-de-precios_4449580/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/moeve-prolonga-hasta-final-de-ano-los-descuentos-en-gasolina-y-diesel-ante-la-subida-de-precios_4449580/</guid>
-      <pubDate>Wed, 21 Oct 2026 08:07:00 +0000</pubDate>
-      <description>La antigua Cepsa mantiene los 10 céntimos por litro para más de cuatro millones de clientes y extiende las bonificaciones a transportistas y autónomos</description>
-      <author>Alberto Sanz</author>
-      <enclosure url="https://images.ecestaticos.com/6oiWFvVYOe8qd1W783qylEKmOjE=/0x0:2272x1525/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe03%2F048%2Fa3d%2Fe03048a3da8381936dd3436b45bb4237.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Iñaki Ortega se convierte en primer accionista y CEO de la agencia Trescom tras abandonar LLYC</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-21/inaki-ortega-primer-accionista-ceo-trescom-llyc_4449499/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/inaki-ortega-primer-accionista-ceo-trescom-llyc_4449499/</guid>
-      <pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
-      <description>Se ha hecho con la propiedad de Trescom junto a Alberto Corcóstegui, un empresario con experiencia en el sector de la publicidad y la comunicación, que desarrollará las funciones de director financiero</description>
-      <author>Javier Melguizo</author>
-      <enclosure url="https://images.ecestaticos.com/dKMWEjKQKbjTl_vlu8tAHRIRmRM=/0x0:2272x2741/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F942%2F522%2F84c%2F94252284c4aeea13291af2997d13d75a.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Foro 'España energética', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/</guid>
@@ -133,6 +142,24 @@
       <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Moeve prolonga hasta final de año los descuentos en gasolina y diésel ante la subida de precios</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/moeve-prolonga-hasta-final-de-ano-los-descuentos-en-gasolina-y-diesel-ante-la-subida-de-precios_4449580/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/moeve-prolonga-hasta-final-de-ano-los-descuentos-en-gasolina-y-diesel-ante-la-subida-de-precios_4449580/</guid>
+      <pubDate>Wed, 21 Oct 2026 08:07:00 +0000</pubDate>
+      <description>La antigua Cepsa mantiene los 10 céntimos por litro para más de cuatro millones de clientes y extiende las bonificaciones a transportistas y autónomos</description>
+      <author>Alberto Sanz</author>
+      <enclosure url="https://images.ecestaticos.com/6oiWFvVYOe8qd1W783qylEKmOjE=/0x0:2272x1525/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe03%2F048%2Fa3d%2Fe03048a3da8381936dd3436b45bb4237.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iñaki Ortega se convierte en primer accionista y CEO de la agencia Trescom tras abandonar LLYC</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/inaki-ortega-primer-accionista-ceo-trescom-llyc_4449499/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/inaki-ortega-primer-accionista-ceo-trescom-llyc_4449499/</guid>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+      <description>Se ha hecho con la propiedad de Trescom junto a Alberto Corcóstegui, un empresario con experiencia en el sector de la publicidad y la comunicación, que desarrollará las funciones de director financiero</description>
+      <author>Javier Melguizo</author>
+      <enclosure url="https://images.ecestaticos.com/dKMWEjKQKbjTl_vlu8tAHRIRmRM=/0x0:2272x2741/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F942%2F522%2F84c%2F94252284c4aeea13291af2997d13d75a.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
