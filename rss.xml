@@ -5,9 +5,45 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:09:40 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:07:22 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allfunds logró unos ingresos totales de 508,2 millones hasta septiembre, un 10,7% más</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-23/allfunds-logro-unos-ingresos-totales-de-508-2-millones_4451410/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-23/allfunds-logro-unos-ingresos-totales-de-508-2-millones_4451410/</guid>
+      <pubDate>Fri, 23 Oct 2026 08:58:00 +0000</pubDate>
+      <description>Allfunds logró a finales de septiembre 1,967 billones, un 16,7% más interanual en activos bajo administración, en comparación con el mismo periodo del año anterior</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/SHlqnG89WC8V_3n_wuwgq6zOSz4=/0x0:800x533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F68c%2F81d%2F66a%2F68c81d66a7d969e2f077cae39a3a28f3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Squirrel Media compra una participación adicional en la firma chilena Comercializadora BF</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-23/squirrel-media-compra-una-participacion-comercializadora-bf_4451398/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-23/squirrel-media-compra-una-participacion-comercializadora-bf_4451398/</guid>
+      <pubDate>Fri, 23 Oct 2026 08:55:00 +0000</pubDate>
+      <description>Con esta adquisición, la empresa ha elevado así su participación accionarial desde el 51,05% hasta el 85,3% del capital social</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/iy2khU10iMeL-zpKku-ahd2siEs=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F58f%2F0f7%2F5e5%2F58f0f75e570a7f14c17612b86908e43c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Volvo se hunde un 24% en bolsa: "Nadie tendrá éxito vendiendo coches europeos en China"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-23/cotizacion-volvo-bolsa-coches-europeos-chinos-electricos-1tps_4451336/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-23/cotizacion-volvo-bolsa-coches-europeos-chinos-electricos-1tps_4451336/</guid>
+      <pubDate>Fri, 23 Oct 2026 08:16:00 +0000</pubDate>
+      <description>Los ingresos en el país asiático se redujeron a la mitad debido a la intensa competencia de nuevas alternativas locales dentro de la gama prémium, siendo castigado también en EEUU</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/B-nqCp0wZ5gvtN7cYPW99YKGU1E=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F92f%2F7f8%2F480%2F92f7f8480ccb9fcfd873b7bba6d0dd4c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nissan marca mínimos de 20 años en bolsa en plena reestructuración, que incluye despidos</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-23/cotizacion-nissan-bolsa-minimos-despidos-1tps_4451297/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-23/cotizacion-nissan-bolsa-minimos-despidos-1tps_4451297/</guid>
+      <pubDate>Fri, 23 Oct 2026 07:45:00 +0000</pubDate>
+      <description>La compañía activó su plan de transformación Re:Nissan para enderezar sus cuentas tras el deterioro de resultados, motivado por la bajada de ventas en Estados Unidos y China</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/tHMAUJOCuU31oSxC0KIXbXB0NPM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fddf%2Fd44%2Fc5f%2Fddfd44c5f365167248348abaaf19cf65.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Los interesados en comprar Tubos Reunidos no quieren asumir la deuda con la SEPI</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-22/tubos-reunidos-deuda-sepi-compradores-1hms_4450959/</link>
@@ -45,15 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/oTikC5MjJDT5bDr_VAPz4gH0lSc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3c1%2F41c%2Fc04%2F3c141cc040701a074f51fe389e96d0d6.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Banco Santander ficha a Santiago Bau, ex director general de El Corte Inglés</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-22/banco-santander-ficha-santiago-bau-el-corte-ingles-1tps_4450673/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/banco-santander-ficha-santiago-bau-el-corte-ingles-1tps_4450673/</guid>
-      <pubDate>Thu, 22 Oct 2026 11:09:00 +0000</pubDate>
-      <description>El ejecutivo asumirá la responsabilidad global de Estrategias, Finanzas y gestión de proveedores, bajo las órdenes de Juan Olaizola</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/Gla3d_0QjbkHR_-B5XUjiAy85qc=/0x0:1154x727/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff71%2F3a6%2F0a2%2Ff713a60a273d3a94915c922362c52fb8.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Enrique Riquelme se une al consejo asesor de Garamendi en la CEOE tras la entrada de Cox</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-22/riquelme-se-une-al-consejo-asesor-de-garamendi_4450645/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/riquelme-se-une-al-consejo-asesor-de-garamendi_4450645/</guid>
@@ -70,42 +97,6 @@
       <description>La entidad británica prevé eliminar 4.000 plazas adicionales durante el último trimestre, tras elevar un 17% sus ganancias hasta septiembre</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/iRdb-zo_mUUvUeRcomUw2G8tJdo=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F290%2Fb34%2Fa60%2F290b34a60efc8bd15a0d31852715ebde.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bankinter gana 901 millones hasta septiembre, un 11% más, al avanzar en todas sus líneas de negocio</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-22/bankinter-beneficio-neto-tercer-trimestre-1tps_4450361/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/bankinter-beneficio-neto-tercer-trimestre-1tps_4450361/</guid>
-      <pubDate>Thu, 22 Oct 2026 06:33:00 +0000</pubDate>
-      <description>La entidad atribuye el avance a la mayor actividad con clientes y a la diversificación, mientras el ROE alcanza el 19,2% y el ROTE, el 20,4%</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/1Tt7HTMyK5GvTgDGGrjy8Wha5N4=/0x0:850x567/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F615%2F1fc%2F85b%2F6151fc85b60117f54533d078f18c61df.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>España, país de mascotas: dos emprendedores explican el auge de la 'pet economy'</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-22/banco-sabadell-podcast-doog-life-wild-balance-bra_4448154/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/banco-sabadell-podcast-doog-life-wild-balance-bra_4448154/</guid>
-      <pubDate>Thu, 22 Oct 2026 03:00:00 +0000</pubDate>
-      <description>Si nuestros animales son parte de la familia, es lógico que el sector que se ocupa de sus cuidados crezca de manera acorde. Te lo contamos junto a las historias de Alba Ciordia (The Doog Life) y Kike Domingo (Wild Balance)</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/T4Bcb62goYnA_M3RPlVzz_MKkbs=/0x0:1000x667/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F611%2F780%2F197%2F6117801972f0ebb2eda6197796bf5e6f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Puig alcanza una facturación de 3.745 millones hasta septiembre, un 4,8% más</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-21/puig-alcanza-una-facturacion-de-3-745-millones-hasta-septiembre-un-4-8-mas_4450104/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/puig-alcanza-una-facturacion-de-3-745-millones-hasta-septiembre-un-4-8-mas_4450104/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:04:00 +0000</pubDate>
-      <description>La empresa ha explicado que todos los segmentos de negocios y regiones crecieron en términos comparables, con aumentos a doble dígito en Fragancias Niche, Maquillaje, Dermocosmética y Asia-Pacífico</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/34UCZd8iOwu-fo2JppFLf6N2QJ4=/0x0:2272x1408/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F10b%2F632%2Fa8e%2F10b632a8e58f9c846ce4645f850f1857.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Los cinco interesados por Tubos Reunidos se reúnen con los sindicatos la próxima semana</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-21/tubos-reunidos-cinco-ofertas-concurso-1hms_4449976/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/tubos-reunidos-cinco-ofertas-concurso-1hms_4449976/</guid>
-      <pubDate>Wed, 21 Oct 2026 13:45:00 +0000</pubDate>
-      <description>ELA dice que SEPI debe ser "parte de la solución" y que la capitalización de su deuda en acciones es una de las posibilidades</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/Y5VlsniWvZvmiHACldTA1N-jX_E=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbde%2F501%2Ffe1%2Fbde501fe14c27e704c82897db795509d.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Foro 'España energética', en imágenes</title>
@@ -144,6 +135,60 @@
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</guid>
+      <pubDate>Tue, 02 Jun 2026 03:00:00 +0000</pubDate>
+      <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Banco Santander ficha a Santiago Bau, ex director general de El Corte Inglés</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-22/banco-santander-ficha-santiago-bau-el-corte-ingles-1tps_4450673/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/banco-santander-ficha-santiago-bau-el-corte-ingles-1tps_4450673/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:09:00 +0000</pubDate>
+      <description>El ejecutivo asumirá la responsabilidad global de Estrategias, Finanzas y gestión de proveedores, bajo las órdenes de Juan Olaizola</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/Gla3d_0QjbkHR_-B5XUjiAy85qc=/0x0:1154x727/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff71%2F3a6%2F0a2%2Ff713a60a273d3a94915c922362c52fb8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bankinter gana 901 millones hasta septiembre, un 11% más, al avanzar en todas sus líneas de negocio</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-22/bankinter-beneficio-neto-tercer-trimestre-1tps_4450361/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/bankinter-beneficio-neto-tercer-trimestre-1tps_4450361/</guid>
+      <pubDate>Thu, 22 Oct 2026 06:33:00 +0000</pubDate>
+      <description>La entidad atribuye el avance a la mayor actividad con clientes y a la diversificación, mientras el ROE alcanza el 19,2% y el ROTE, el 20,4%</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/1Tt7HTMyK5GvTgDGGrjy8Wha5N4=/0x0:850x567/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F615%2F1fc%2F85b%2F6151fc85b60117f54533d078f18c61df.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>España, país de mascotas: dos emprendedores explican el auge de la 'pet economy'</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-22/banco-sabadell-podcast-doog-life-wild-balance-bra_4448154/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-22/banco-sabadell-podcast-doog-life-wild-balance-bra_4448154/</guid>
+      <pubDate>Thu, 22 Oct 2026 03:00:00 +0000</pubDate>
+      <description>Si nuestros animales son parte de la familia, es lógico que el sector que se ocupa de sus cuidados crezca de manera acorde. Te lo contamos junto a las historias de Alba Ciordia (The Doog Life) y Kike Domingo (Wild Balance)</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/T4Bcb62goYnA_M3RPlVzz_MKkbs=/0x0:1000x667/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F611%2F780%2F197%2F6117801972f0ebb2eda6197796bf5e6f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Puig alcanza una facturación de 3.745 millones hasta septiembre, un 4,8% más</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/puig-alcanza-una-facturacion-de-3-745-millones-hasta-septiembre-un-4-8-mas_4450104/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/puig-alcanza-una-facturacion-de-3-745-millones-hasta-septiembre-un-4-8-mas_4450104/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:04:00 +0000</pubDate>
+      <description>La empresa ha explicado que todos los segmentos de negocios y regiones crecieron en términos comparables, con aumentos a doble dígito en Fragancias Niche, Maquillaje, Dermocosmética y Asia-Pacífico</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/34UCZd8iOwu-fo2JppFLf6N2QJ4=/0x0:2272x1408/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F10b%2F632%2Fa8e%2F10b632a8e58f9c846ce4645f850f1857.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los cinco interesados por Tubos Reunidos se reúnen con los sindicatos la próxima semana</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-21/tubos-reunidos-cinco-ofertas-concurso-1hms_4449976/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/tubos-reunidos-cinco-ofertas-concurso-1hms_4449976/</guid>
+      <pubDate>Wed, 21 Oct 2026 13:45:00 +0000</pubDate>
+      <description>ELA dice que SEPI debe ser "parte de la solución" y que la capitalización de su deuda en acciones es una de las posibilidades</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/Y5VlsniWvZvmiHACldTA1N-jX_E=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbde%2F501%2Ffe1%2Fbde501fe14c27e704c82897db795509d.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Comparar precios se afianza como hábito de compra y estrategia de ahorro para el 90% de los consumidores</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-21/comparar-precios-ahorrar-compras-1hms-1svm_4449920/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-21/comparar-precios-ahorrar-compras-1hms-1svm_4449920/</guid>
@@ -178,15 +223,6 @@
       <description>El comité creado por ambas compañías estudiará una operación histórica, mientras el grupo aeroespacial dispara sus ingresos y reduce pérdidas</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/4Wv1k16HY4tfmsCYsFsPa_slsZg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F340%2Fde5%2F495%2F340de54950309e3dc8cba243f2000976.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</guid>
-      <pubDate>Tue, 02 Jun 2026 03:00:00 +0000</pubDate>
-      <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
