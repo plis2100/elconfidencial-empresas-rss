@@ -5,7 +5,7 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 23 Oct 2026 21:17:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:34:43 +0200</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,15 +16,6 @@
       <description>El 'holding' vinculado a la familia Grifols tomó el control de la compañía catalana hace ocho años, cuando estaba al borde de la liquidación. El jugador Ricky Rubio entra en el accionariado</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/8UgVP8nosqqwzCbIoW8dJk9oYsY=/0x0:2272x1511/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6ef%2Fd0b%2Fe69%2F6efd0be698d79d3440188c26d6815166.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Adiós a la tarjeta y el efectivo: Mercadona da un paso más en su evolución tecnológica y prueba un nuevo método de pago</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-23/mercadona-prueba-nuevo-metodo-pago-1qrt_4451860/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-23/mercadona-prueba-nuevo-metodo-pago-1qrt_4451860/</guid>
-      <pubDate>Fri, 23 Oct 2026 14:19:00 +0000</pubDate>
-      <description>Mercadona vuelve a revolucionar el sector del comercio probando el pagoen las cajas físicas de sus supermercados. La prueba piloto busca agilizar las compras diarias antes de su posible expansión</description>
-      <author>El Confidencial</author>
-      <enclosure url="https://images.ecestaticos.com/nQ_SAhaD_HFI1q__KesLrudp5Hk=/0x38:829x504/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F718%2F9b9%2Fc4e%2F7189b9c4e6fe3ccc248daa4362ddefc8.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Una iniciativa público-privada liderada por Azvi abre una nueva vía para desbloquear la Presa de Alcolea y el Canal de Trigueros</title>
@@ -43,15 +34,6 @@
       <description>La compañía articula su estrategia climática en torno a tres palancas: transformación de las operaciones, innovación y colaboración con proveedores</description>
       <author>Servimedia</author>
       <enclosure url="https://images.ecestaticos.com/32pP38RrJVrFyMaeLt9pFgEyJlI=/0x0:1200x799/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcb2%2Fe44%2F178%2Fcb2e4417827423c10e9c7894134f75b1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Renfe ultima la adjudicación de 30 trenes de alta velocidad por más de 1.360 millones</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-23/renfe-adjudicacion-contrato-nuevos-trenes-alta-velocidad-1tps_4451609/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-23/renfe-adjudicacion-contrato-nuevos-trenes-alta-velocidad-1tps_4451609/</guid>
-      <pubDate>Fri, 23 Oct 2026 11:23:00 +0000</pubDate>
-      <description>La operadora pública prevé cerrar el contrato el martes, con unidades capaces de alcanzar 350 km/h y renovar una flota que arrastra décadas de servicio</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/kUBuwI_8BWciBsZMoZ9apCkTB8c=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc7b%2F0b7%2F0b8%2Fc7b0b70b8c1f78087f606d244af52fdd.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Allfunds logró unos ingresos totales de 508,2 millones hasta septiembre, un 10,7% más</title>
@@ -142,6 +124,42 @@
       <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
+      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
+      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</guid>
+      <pubDate>Tue, 07 Apr 2026 03:00:00 +0000</pubDate>
+      <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Adiós a la tarjeta y el efectivo: Mercadona da un paso más en su evolución tecnológica y prueba un nuevo método de pago</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-23/mercadona-prueba-nuevo-metodo-pago-1qrt_4451860/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-23/mercadona-prueba-nuevo-metodo-pago-1qrt_4451860/</guid>
+      <pubDate>Fri, 23 Oct 2026 14:19:00 +0000</pubDate>
+      <description>Mercadona vuelve a revolucionar el sector del comercio probando el pagoen las cajas físicas de sus supermercados. La prueba piloto busca agilizar las compras diarias antes de su posible expansión</description>
+      <author>El Confidencial</author>
+      <enclosure url="https://images.ecestaticos.com/nQ_SAhaD_HFI1q__KesLrudp5Hk=/0x38:829x504/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F718%2F9b9%2Fc4e%2F7189b9c4e6fe3ccc248daa4362ddefc8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Renfe ultima la adjudicación de 30 trenes de alta velocidad por más de 1.360 millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-23/renfe-adjudicacion-contrato-nuevos-trenes-alta-velocidad-1tps_4451609/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-23/renfe-adjudicacion-contrato-nuevos-trenes-alta-velocidad-1tps_4451609/</guid>
+      <pubDate>Fri, 23 Oct 2026 11:23:00 +0000</pubDate>
+      <description>La operadora pública prevé cerrar el contrato el martes, con unidades capaces de alcanzar 350 km/h y renovar una flota que arrastra décadas de servicio</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/kUBuwI_8BWciBsZMoZ9apCkTB8c=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc7b%2F0b7%2F0b8%2Fc7b0b70b8c1f78087f606d244af52fdd.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Los interesados en comprar Tubos Reunidos no quieren asumir la deuda con la SEPI</title>
@@ -295,15 +313,6 @@
       <description>Se ha hecho con la propiedad de Trescom junto a Alberto Corcóstegui, un empresario con experiencia en el sector de la publicidad y la comunicación, que desarrollará las funciones de director financiero</description>
       <author>Javier Melguizo</author>
       <enclosure url="https://images.ecestaticos.com/dKMWEjKQKbjTl_vlu8tAHRIRmRM=/0x0:2272x2741/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F942%2F522%2F84c%2F94252284c4aeea13291af2997d13d75a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
-      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
-      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Nace la Cátedra USC-Lactalis España para abordar los retos de la ganadería</title>
@@ -583,15 +592,6 @@
       <description>La protesta afectará a todas las empresas del grupo y reclama avances en seguridad ferroviaria, protocolos meteorológicos, empleo y fiabilidad del material rodante</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/pEkPzldcsEnFAiKuX4v0px67owM=/0x0:2272x1501/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F173%2F5b0%2F780%2F1735b0780ec2161aeef8c167a51b7a61.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-07/el-arte-de-crear-nauterra-mane-calvo-bra_4332766/</guid>
-      <pubDate>Tue, 07 Apr 2026 03:00:00 +0000</pubDate>
-      <description>El CEO de Nauterra pasa por El Arte de Crear y deja una conversación reveladora sobre una de las grandes historias empresariales de la alimentación española</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/qCJssaxW_iLWu1z6HWNpsjCqySk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70a%2F216%2F6c3%2F70a2166c39f3f62e52fef8d95ca63bd5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Alfonso Jiménez: "En 45 minutos se quemaron 30 años de historia"</title>
