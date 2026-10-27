@@ -5,9 +5,53 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:37:40 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:42:04 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vox pregunta al Gobierno si "impondrá limitaciones" a la entrada de Marruecos en los puertos españoles</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-27/vox-gobierno-limitaciones-marruecos-puertos_4454015/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-27/vox-gobierno-limitaciones-marruecos-puertos_4454015/</guid>
+      <pubDate>Tue, 27 Oct 2026 16:18:00 +0000</pubDate>
+      <description>El partido de Abascal interpeló al Ejecutivo sobre el pacto de Boluda y Marsa Maroc antes de la disolución del Congreso. La naviera española denuncia "alarmismo" e insiste en que el 45% no incluye "tomar decisiones estratégicas ni políticas"</description>
+      <author>Víctor Romero. Valencia</author>
+      <enclosure url="https://images.ecestaticos.com/WIUePq5FBDM2ZR4nNUb3G3reAMU=/0x0:2242x1290/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5d5%2Fabe%2Fde1%2F5d5abede1d2f28654e39426b3dce7074.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>thePower se incorpora a CEOE como un socio clave para acelerar la adopción de la IA en las empresas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-27/thepower-ceoe-adopcion-inteligencia-artificial-1hms-1svm_4454059/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-27/thepower-ceoe-adopcion-inteligencia-artificial-1hms-1svm_4454059/</guid>
+      <pubDate>Tue, 27 Oct 2026 14:52:00 +0000</pubDate>
+      <description>El grupo educativo ofrecerá programas a medida y casos reales para capacitar a directivos y equipos de compañías de distintos sectores</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/r5M8AlX4WO5HMR5FvNFs9o7xeBM=/0x0:1200x826/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaf%2F69f%2Fcc0%2Fdaf69fcc0b8d80f5149964afc43f1f14.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Amazon y Bizum consolidan su cooperación celebrando su aniversario en España</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-27/amazon-bizum-pago-prime-1hms-1svm_4454053/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-27/amazon-bizum-pago-prime-1hms-1svm_4454053/</guid>
+      <pubDate>Tue, 27 Oct 2026 14:17:00 +0000</pubDate>
+      <description>Los usuarios podrán asociar su móvil a la cuenta bancaria para abonar Prime y pedidos, mediante una validación rápida desde la aplicación financiera</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/DxDEaYkQ7PDZqMjrE4hUrV3k4iI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F700%2F336%2F920%2F70033692084b87e01d001f73cdf052cb.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Renfe adjudica a Siemens 30 trenes de alta velocidad por 1.218 millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-27/renfe-adjudica-a-siemens-30-trenes_4454010/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-27/renfe-adjudica-a-siemens-30-trenes_4454010/</guid>
+      <pubDate>Tue, 27 Oct 2026 12:50:00 +0000</pubDate>
+      <description>Las primeras cinco unidades deberán entregarse antes de que hayan transcurrido 40 meses y el resto tendrá que llegar "con una cadencia uniforme" hasta completar el pedido en 62 meses</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/ICnseSKOrKZneV4kWzTRx0OdFTY=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3a7%2F572%2F7b3%2F3a75727b3651ec980a05c2c7624340e7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La editorial Vicens Vives planea despedir a la mitad de la plantilla y baraja el cierre de Gráficas Instar</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-27/vicens-vives-ere-graficas-instar-1tps_4453841/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-27/vicens-vives-ere-graficas-instar-1tps_4453841/</guid>
+      <pubDate>Tue, 27 Oct 2026 10:35:00 +0000</pubDate>
+      <description>La firma afronta una profunda reestructuración tras la compra de Sanoma, con ajustes laborales y una apuesta renovada por los contenidos pedagógicos</description>
+      <author>EC/Agencias</author>
+    </item>
     <item>
       <title>Abanca gana 579,1 M hasta septiembre, un 13,6% menos debido a un menor uso de créditos fiscales</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-27/abanca-resultados-beneficio-negocio-1hms_4453796/</link>
@@ -18,7 +62,7 @@
       <enclosure url="https://images.ecestaticos.com/kT4eiVXGEZ-BXQLlZAmCEbYzyHI=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbde%2Fb12%2F113%2Fbdeb12113c5a6133823d88495364236e.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>La editorial Vicens Vives anuncia un ERE para hasta 122 personas y se plantea cerrar Gráficas Instar</title>
+      <title>La editorial Vicens Vives planea despedir a la mitad de la plantilla y baraja el cierre de Gráficas Instar</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-27/vicens-vives-ere-graficas-instar-1hms_4453792/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-27/vicens-vives-ere-graficas-instar-1hms_4453792/</guid>
       <pubDate>Tue, 27 Oct 2026 10:07:00 +0000</pubDate>
@@ -36,22 +80,13 @@
       <enclosure url="https://images.ecestaticos.com/Er3R-O1YoNK5j3xBbcNuoA9v9vM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F231%2Fa98%2Fa8d%2F231a98a8d0fa39d6daa9d3a0aade065d.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Un problema técnico sin resolver deja a los clientes de Bankinter sin acceso a su web y app durante horas</title>
+      <title>Un problema técnico deja a los clientes de Bankinter sin acceso a su web y app hasta 18 horas</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-27/bankinter-problema-tecnico-acceso-web-app-horas_4453674/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-27/bankinter-problema-tecnico-acceso-web-app-horas_4453674/</guid>
       <pubDate>Tue, 27 Oct 2026 07:39:00 +0000</pubDate>
-      <description>La entidad naranja ya ha localizado el origen de la incidencia que está impidiendo el acceso normal, por lo que esperan dar con una solución en las próximas horas</description>
+      <description>La entidad naranja localizó el origen de la incidencia, que tuvo su origen en las comunicaciones y que se originó en la noche del lunes impidiendo el acceso a la banca online</description>
       <author>Carlos Rodríguez</author>
       <enclosure url="https://images.ecestaticos.com/1Tt7HTMyK5GvTgDGGrjy8Wha5N4=/0x0:850x567/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F615%2F1fc%2F85b%2F6151fc85b60117f54533d078f18c61df.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Qué conviene revisar en tu coche antes de que llegue el invierno</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-27/que-revisar-antes-de-que-llegue-el-invierno-bra_4450442/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-27/que-revisar-antes-de-que-llegue-el-invierno-bra_4450442/</guid>
-      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
-      <description>La lluvia o el frío cambian las condiciones de conducción. Preparar el vehículo para estos meses pasa por comprobar sus componentes y llevar el equipamiento adecuado para afrontar imprevistos</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/4OiJntDDeC46QUu5McKoNv_t5rQ=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa69%2F509%2Fd04%2Fa69509d04d2f9789c93dee42d563b305.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Singular Bank supera los 20.000M gestionados y se consolida en beneficios</title>
@@ -61,42 +96,6 @@
       <description>El banco liderado por Javier Marín, que afronta una nueva etapa con ING, ProA o Actinver como accionistas, deja atrás los números rojos</description>
       <author>Óscar Giménez</author>
       <enclosure url="https://images.ecestaticos.com/2j4CdX9-3aZhQHGbR-LaQjkLgX8=/0x0:2048x1366/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcc7%2F29b%2F27f%2Fcc729b27feb3c88fd4df0abb84db4636.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Microsoft ofrece un plan de bajas voluntarias para unos 60.000 empleados, el 27% de su plantilla global</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-26/microsoft-oferta-salida-voluntaria-empleados-1tps_4453363/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/microsoft-oferta-salida-voluntaria-empleados-1tps_4453363/</guid>
-      <pubDate>Mon, 26 Oct 2026 16:54:00 +0000</pubDate>
-      <description>La iniciativa, disponible por tiempo limitado, alcanza a personal de hasta nivel 70 en Canadá, India, Reino Unido y Estados Unidos, con apoyo económico y profesional</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/qBDRS4DTliliD8Ogf646hwh0_2I=/0x0:2272x1525/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5e5%2Fa19%2F7e9%2F5e5a197e98419ac48d3ffef08b3bb620.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El Instituto Coordenadas advierte de que el decreto de centros de datos daña a España en diez frentes y pide dejarlo al próximo Gobierno</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-26/decreto-centros-datos-inseguridad-juridica-1hms-1svm_4453199/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/decreto-centros-datos-inseguridad-juridica-1hms-1svm_4453199/</guid>
-      <pubDate>Mon, 26 Oct 2026 14:44:00 +0000</pubDate>
-      <description>Indica que la norma pone en riesgo 9.000 millones de inversión y repite el error de los recortes a las renovables, que ya han costado más de 2.310 millones en laudos</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/JGWbzfzjDobYFulbyOusO3eRNQ4=/0x0:881x495/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb0e%2F60f%2F919%2Fb0e60f919a6c2cbf70dc2eb9dbc3a1d8.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Grandvalira Resorts reafirma las buenas perspectivas para la temporada de invierno en la 47ª Feria de Andorra la Vella</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-26/grandvalira-forfaits-temporada-andorra-1hms-1svm_4453198/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/grandvalira-forfaits-temporada-andorra-1hms-1svm_4453198/</guid>
-      <pubDate>Mon, 26 Oct 2026 14:41:00 +0000</pubDate>
-      <description>La cita registra un aumento en la venta anticipada de pases, junto a descuentos, escuelas y nuevas opciones digitales para la próxima campaña</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/7NO6OaYLgfu9xogDp1dvC0OkeqA=/0x0:2272x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6fa%2F7c2%2F558%2F6fa7c2558925071071334524013282ee.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La Cámara de España celebra su Asamblea General de Cámaras en Ceuta en apoyo y solidaridad a la ciudad autónoma</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-26/camaras-ia-inteligencia-artificial-pymes-1hms-1svm_4453203/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/camaras-ia-inteligencia-artificial-pymes-1hms-1svm_4453203/</guid>
-      <pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
-      <description>Pequeñas empresas contarán con asesoramiento especializado y capacidad de computación para adaptar herramientas, optimizar procesos y abrir nuevas oportunidades comerciales</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/bnB_CRJNefl6jJ_BED6VrzYfGeY=/0x0:1200x799/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F668%2F8f0%2F20b%2F6688f020b19e9ccbaaefa8d45ed5fb18.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Premios 'Empresarios con raíces', en imágenes</title>
@@ -142,6 +141,51 @@
       <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Qué conviene revisar en tu coche antes de que llegue el invierno</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-27/que-revisar-antes-de-que-llegue-el-invierno-bra_4450442/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-27/que-revisar-antes-de-que-llegue-el-invierno-bra_4450442/</guid>
+      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
+      <description>La lluvia o el frío cambian las condiciones de conducción. Preparar el vehículo para estos meses pasa por comprobar sus componentes y llevar el equipamiento adecuado para afrontar imprevistos</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/4OiJntDDeC46QUu5McKoNv_t5rQ=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa69%2F509%2Fd04%2Fa69509d04d2f9789c93dee42d563b305.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Microsoft ofrece un plan de bajas voluntarias para unos 60.000 empleados, el 27% de su plantilla global</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-26/microsoft-oferta-salida-voluntaria-empleados-1tps_4453363/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/microsoft-oferta-salida-voluntaria-empleados-1tps_4453363/</guid>
+      <pubDate>Mon, 26 Oct 2026 16:54:00 +0000</pubDate>
+      <description>La iniciativa, disponible por tiempo limitado, alcanza a personal de hasta nivel 70 en Canadá, India, Reino Unido y Estados Unidos, con apoyo económico y profesional</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/qBDRS4DTliliD8Ogf646hwh0_2I=/0x0:2272x1525/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5e5%2Fa19%2F7e9%2F5e5a197e98419ac48d3ffef08b3bb620.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Instituto Coordenadas advierte de que el decreto de centros de datos daña a España en diez frentes y pide dejarlo al próximo Gobierno</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-26/decreto-centros-datos-inseguridad-juridica-1hms-1svm_4453199/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/decreto-centros-datos-inseguridad-juridica-1hms-1svm_4453199/</guid>
+      <pubDate>Mon, 26 Oct 2026 14:44:00 +0000</pubDate>
+      <description>Indica que la norma pone en riesgo 9.000 millones de inversión y repite el error de los recortes a las renovables, que ya han costado más de 2.310 millones en laudos</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/JGWbzfzjDobYFulbyOusO3eRNQ4=/0x0:881x495/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb0e%2F60f%2F919%2Fb0e60f919a6c2cbf70dc2eb9dbc3a1d8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grandvalira Resorts reafirma las buenas perspectivas para la temporada de invierno en la 47ª Feria de Andorra la Vella</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-26/grandvalira-forfaits-temporada-andorra-1hms-1svm_4453198/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/grandvalira-forfaits-temporada-andorra-1hms-1svm_4453198/</guid>
+      <pubDate>Mon, 26 Oct 2026 14:41:00 +0000</pubDate>
+      <description>La cita registra un aumento en la venta anticipada de pases, junto a descuentos, escuelas y nuevas opciones digitales para la próxima campaña</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/7NO6OaYLgfu9xogDp1dvC0OkeqA=/0x0:2272x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6fa%2F7c2%2F558%2F6fa7c2558925071071334524013282ee.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Cámara de España celebra su Asamblea General de Cámaras en Ceuta en apoyo y solidaridad a la ciudad autónoma</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-26/camaras-ia-inteligencia-artificial-pymes-1hms-1svm_4453203/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/camaras-ia-inteligencia-artificial-pymes-1hms-1svm_4453203/</guid>
+      <pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
+      <description>Pequeñas empresas contarán con asesoramiento especializado y capacidad de computación para adaptar herramientas, optimizar procesos y abrir nuevas oportunidades comerciales</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/bnB_CRJNefl6jJ_BED6VrzYfGeY=/0x0:1200x799/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F668%2F8f0%2F20b%2F6688f020b19e9ccbaaefa8d45ed5fb18.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Huelga de maquinistas de Renfe: estos son los servicios mínimos de Cercanías y AVE</title>
