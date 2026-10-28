@@ -5,11 +5,47 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:22:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:21:37 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>El neobanco británico Monzo irrumpe en España como parte de su plan de expansión europea</title>
+      <title>Airbus dispara un 35% su beneficio hasta septiembre y vuelve a confirmar previsiones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/airbus-dispara-beneficios_4455031/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/airbus-dispara-beneficios_4455031/</guid>
+      <pubDate>Wed, 28 Oct 2026 17:59:00 +0000</pubDate>
+      <description>La compañía prevé en 2026 la entrega de 870 aviones comerciales, un beneficio operativo ajustado de 7.500 millones y un flujo de caja libre antes de la financiación a clientes de alrededor de 4.500 millones</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/jWisSLzNJgMen-pUWbcYTeHbIvk=/0x0:2272x1541/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F45b%2Fea4%2F9d1%2F45bea49d179f578a4cce644beace819c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Paso a paso: todo lo que ha fallado para provocar la mayor tragedia de la alta velocidad española</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/paso-a-paso-todos-los-fallos-accidente-tres_4454913/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/paso-a-paso-todos-los-fallos-accidente-tres_4454913/</guid>
+      <pubDate>Wed, 28 Oct 2026 14:39:00 +0000</pubDate>
+      <description>Un fallo informático echó abajo el mecanismo de seguridad ferroviaria y dejó en manos del centro de control de Atocha reanudar la marcha de los trenes. A partir de aquí entró en juego el error humano</description>
+      <author>R. Ugalde</author>
+      <enclosure url="https://images.ecestaticos.com/cueY2iL2ncDi4PGfpDejQnDj-J0=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa9f%2Fb9b%2Fabf%2Fa9fb9babfa5fb1c6dc14e166f1113a0d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ING lanza su banca privada en España, que arranca con 6.000 clientes y ofrecerá mercados privados</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/ing-arranca-banca-privada-digital-espana-mercados-privados-1hms_4454722/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/ing-arranca-banca-privada-digital-espana-mercados-privados-1hms_4454722/</guid>
+      <pubDate>Wed, 28 Oct 2026 12:10:00 +0000</pubDate>
+      <description>El modelo permite que cada cliente decida cómo quiere gestionar su patrimonio en cada momento: de forma autónoma, con acompañamiento profesional o combinando ambas opciones</description>
+      <author>C. R.</author>
+      <enclosure url="https://images.ecestaticos.com/IsE8aStol2_MBYeE0wcgbiF3ph0=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2db%2F633%2F92e%2F2db63392ea9bdb4ced9f3cc0968bd663.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Las organizaciones agrarias suspenden la tractorada en Madrid por el accidente de tren en Toledo</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/aplazan-tractorada-madrid-accidente-toledo-1hms_4454639/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/aplazan-tractorada-madrid-accidente-toledo-1hms_4454639/</guid>
+      <pubDate>Wed, 28 Oct 2026 11:20:00 +0000</pubDate>
+      <description>La protesta prevista en la capital se transformó en un acto de duelo tras el siniestro de Urda, con cinco minutos de silencio y las reivindicaciones aplazadas</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/5zV5j2ANqNbIWaIIvt5bbpBgfYQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7c4%2F1df%2Fd17%2F7c41dfd17ee19ebb02345407753bfa80.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El neobanco británico Monzo irrumpe en España con una cuenta que paga el 4%</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-28/el-neobanco-britanico-monzo-irrumpe-en-espana_4454663/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/el-neobanco-britanico-monzo-irrumpe-en-espana_4454663/</guid>
       <pubDate>Wed, 28 Oct 2026 11:15:00 +0000</pubDate>
@@ -42,7 +78,7 @@
       <pubDate>Wed, 28 Oct 2026 09:53:00 +0000</pubDate>
       <description>Fuentes gubernamentales señalan un posible fallo humano mientras trabajadores ferroviarios apuntan a una incidencia previa que habría obligado a restringir la velocidad</description>
       <author>Alberto Sanz</author>
-      <enclosure url="https://images.ecestaticos.com/yNRHWJwZ97az_a5AKV9co3MHZ4U=/0x0:2272x1409/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F85d%2F12d%2F38b%2F85d12d38b46ddd76429c7574bda9b08f.jpg" type="image/jpeg" />
+      <enclosure url="https://images.ecestaticos.com/qubeWJn0dB6YqcDL8IV1ly3e8xY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F408%2F695%2F09c%2F40869509c353301ef18250badb9af064.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Redeia gana 410,3 millones hasta septiembre, un 5,3% más, tras despuntar sus ingresos un 7,8%</title>
@@ -61,15 +97,6 @@
       <description>El banco incrementó su resultado con crecimientos del 16% en el crédito y en recursos de los clientes. El beneficio ordinario, sin operaciones corporativas, aumenta un 16%</description>
       <author>Ó. Giménez</author>
       <enclosure url="https://images.ecestaticos.com/36S5MtnuGSYGTXtW0qAe8bAsirc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F85d%2F5a2%2F4e7%2F85d5a24e7f63ffd5478206d0965272ed.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Más de 600 expertos debaten en Barcelona sobre el presente y futuro de las 'smart cities'</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/smart-city-expo-barcelona-2026-bra_4450685/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/smart-city-expo-barcelona-2026-bra_4450685/</guid>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <description>La decimoquinta edición del Smart City Expo World Congress mostrará las tecnologías que ya están teniendo impacto en los desafíos urbanos más urgentes</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/HiPgyuUNXmFjc6x9lC8RfD4ylTw=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4e5%2F966%2F450%2F4e59664504c13de8a3412bde7d38747b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Premios 'Empresarios con raíces', en imágenes</title>
@@ -115,6 +142,15 @@
       <description>La directora general de Liquats Vegetals (YOSOY) repasa en El Arte de Crear décadas de historia, su expansión en Europa y una forma de dirigir que pone el cuidado de las personas en el centro</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Más de 600 expertos debaten en Barcelona sobre el presente y futuro de las 'smart cities'</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/smart-city-expo-barcelona-2026-bra_4450685/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/smart-city-expo-barcelona-2026-bra_4450685/</guid>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <description>La decimoquinta edición del Smart City Expo World Congress mostrará las tecnologías que ya están teniendo impacto en los desafíos urbanos más urgentes</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/HiPgyuUNXmFjc6x9lC8RfD4ylTw=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4e5%2F966%2F450%2F4e59664504c13de8a3412bde7d38747b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
