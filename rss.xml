@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:32:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:29:44 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dominion mejora su beneficio neto un 35% y revoluciona su cúpula directiva</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-29/dominion-beneficio-neto-cambios-cupula-1hms_4455783/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-29/dominion-beneficio-neto-cambios-cupula-1hms_4455783/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:16:00 +0000</pubDate>
+      <description>El consejo de administración de Dominion ha acordado nombrar a Mikel Barandiaran nuevo presidente ejecutivo en sustitución de Antón Pradera, que continuará como consejero dominical, y a Germán Pradera nuevo consejero delegado</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/xxLQsK_7wGQSTleQDPnglndwElI=/0x0:1920x1281/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F762%2Ff84%2F100%2F762f84100903e73424fd0c1c8f40e0ae.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Caldea lleva el concepto 'Iconic Living' al mercado corporativo con su nuevo Spa &amp; Hotel</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-29/caldea-concepto-iconic-living-mercado-corporativo-spa_4455673/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-29/caldea-concepto-iconic-living-mercado-corporativo-spa_4455673/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:20:00 +0000</pubDate>
+      <description>Caldea Spa &amp; Hotel presentó este miércoles en Barcelona su nueva propuesta para el mercado corporativo y MICE, coincidiendo con la recta final de las obras de su primer hotel, que prevé recibir a sus primeros huéspedes en diciembre</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/DtHV5Ae03Rbgvb3oTRLaLoZZ6q4=/0x0:900x595/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F758%2F620%2F134%2F7586201348c0fb4eaad26013da6af58b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Tendam ficha en Orange España a la responsable de liderar su estrategia en Inteligencia Artificial</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-29/tendam-fichaje-orange-monica-sala-inteligencia-artificial-1tps_4455261/</link>
@@ -45,7 +63,7 @@
       <enclosure url="https://images.ecestaticos.com/ClfZBOE_y3GcdUxN0jWDdxeKUAM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F753%2F5b8%2Fe0d%2F7535b8e0dacbea8aaa9abeb9a5f2e4c7.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>BBVA supera los 9.000M de beneficio hasta septiembre (+14%) pero cae hasta un 6% en bolsa</title>
+      <title>BBVA supera los 9.000M de beneficio hasta septiembre (+14%) pero cae un 2,58% en bolsa</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-29/bbva-beneficio-record-resultados-rentabilidad-credito_4455148/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-29/bbva-beneficio-record-resultados-rentabilidad-credito_4455148/</guid>
       <pubDate>Thu, 29 Oct 2026 06:12:00 +0000</pubDate>
@@ -70,24 +88,6 @@
       <description>La compañía prevé en 2026 la entrega de 870 aviones comerciales, un beneficio operativo ajustado de 7.500 millones y un flujo de caja libre antes de la financiación a clientes de alrededor de 4.500 millones</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/jWisSLzNJgMen-pUWbcYTeHbIvk=/0x0:2272x1541/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F45b%2Fea4%2F9d1%2F45bea49d179f578a4cce644beace819c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Paso a paso: todo lo que ha fallado para provocar la mayor tragedia de la alta velocidad española</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/paso-a-paso-todos-los-fallos-accidente-tres_4454913/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/paso-a-paso-todos-los-fallos-accidente-tres_4454913/</guid>
-      <pubDate>Wed, 28 Oct 2026 14:39:00 +0000</pubDate>
-      <description>Un fallo informático echó abajo el mecanismo de seguridad ferroviaria y dejó en manos del centro de control de Atocha reanudar la marcha de los trenes. A partir de aquí entró en juego el error humano</description>
-      <author>R. Ugalde</author>
-      <enclosure url="https://images.ecestaticos.com/cueY2iL2ncDi4PGfpDejQnDj-J0=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa9f%2Fb9b%2Fabf%2Fa9fb9babfa5fb1c6dc14e166f1113a0d.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El neobanco británico Monzo irrumpe en España con una cuenta que paga el 4%</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/el-neobanco-britanico-monzo-irrumpe-en-espana_4454663/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/el-neobanco-britanico-monzo-irrumpe-en-espana_4454663/</guid>
-      <pubDate>Wed, 28 Oct 2026 11:15:00 +0000</pubDate>
-      <description>España se convierte en la primera sede del banco digital en el continente tras su retirada de Estados Unidos a principios de este año</description>
-      <author>El Confidencial</author>
-      <enclosure url="https://images.ecestaticos.com/mp4-Sqt1MFu0asZouVuyTA-O0WA=/0x0:660x371/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F60e%2F107%2Fc46%2F60e107c46eb9bc12912d2ce0e28b5c34.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Premios 'Empresarios con raíces', en imágenes</title>
@@ -142,6 +142,24 @@
       <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Paso a paso: todo lo que ha fallado para provocar la mayor tragedia de la alta velocidad española</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/paso-a-paso-todos-los-fallos-accidente-tres_4454913/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/paso-a-paso-todos-los-fallos-accidente-tres_4454913/</guid>
+      <pubDate>Wed, 28 Oct 2026 14:39:00 +0000</pubDate>
+      <description>Un fallo informático echó abajo el mecanismo de seguridad ferroviaria y dejó en manos del centro de control de Atocha reanudar la marcha de los trenes. A partir de aquí entró en juego el error humano</description>
+      <author>R. Ugalde</author>
+      <enclosure url="https://images.ecestaticos.com/cueY2iL2ncDi4PGfpDejQnDj-J0=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa9f%2Fb9b%2Fabf%2Fa9fb9babfa5fb1c6dc14e166f1113a0d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El neobanco británico Monzo irrumpe en España con una cuenta que paga el 4%</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/el-neobanco-britanico-monzo-irrumpe-en-espana_4454663/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/el-neobanco-britanico-monzo-irrumpe-en-espana_4454663/</guid>
+      <pubDate>Wed, 28 Oct 2026 11:15:00 +0000</pubDate>
+      <description>España se convierte en la primera sede del banco digital en el continente tras su retirada de Estados Unidos a principios de este año</description>
+      <author>El Confidencial</author>
+      <enclosure url="https://images.ecestaticos.com/mp4-Sqt1MFu0asZouVuyTA-O0WA=/0x0:660x371/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F60e%2F107%2Fc46%2F60e107c46eb9bc12912d2ce0e28b5c34.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>ING lanza su banca privada en España, que arranca con 6.000 clientes y ofrecerá mercados privados</title>
