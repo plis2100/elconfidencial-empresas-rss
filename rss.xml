@@ -5,9 +5,63 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 19:21:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:32:49 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tendam ficha en Orange España a la responsable de liderar su estrategia en Inteligencia Artificial</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-29/tendam-fichaje-orange-monica-sala-inteligencia-artificial-1tps_4455261/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-29/tendam-fichaje-orange-monica-sala-inteligencia-artificial-1tps_4455261/</guid>
+      <pubDate>Thu, 29 Oct 2026 09:34:00 +0000</pubDate>
+      <description>La exdirectiva de la teleco se incorporará en enero de 2027 al comité de dirección para impulsar la tecnología y la transformación del grupo de moda</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/8VBKcOQvMkjIkJhZQmlSeQe_1so=/0x0:1195x1013/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F639%2Fc5c%2F3d1%2F639c5c3d1e4d8861adb614a2944400d4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Naturgy eleva sus objetivos para 2026 tras ganar 1.758 M a septiembre, un 5,4% más</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-29/naturgy-eleva-previsiones-beneficio-1tps_4455202/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-29/naturgy-eleva-previsiones-beneficio-1tps_4455202/</guid>
+      <pubDate>Thu, 29 Oct 2026 08:17:00 +0000</pubDate>
+      <description>El grupo sitúa ahora el Ebitda por encima de 5.600 millones de euros, el beneficio neto alrededor de 2.200 millones y la deuda neta por debajo de 13.000 millones de euros</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/6VQOVMPQuUmgr4UZ-vQT0dTIUxA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc05%2F44c%2Feed%2Fc0544ceedc801c2ea013279429d6514c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Indra eleva un 22% su beneficio hasta septiembre (355 M) y dispara sus ingresos un 29%</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-29/indra-beneficio-cartera-pedidos-historica-resultados-1tps_4455177/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-29/indra-beneficio-cartera-pedidos-historica-resultados-1tps_4455177/</guid>
+      <pubDate>Thu, 29 Oct 2026 07:48:00 +0000</pubDate>
+      <description>La cartera de pedidos repuntó un 133% y marcó un máximo histórico al alcanzar 22.165 millones de euros, frente a los 9.512 millones de hace un año</description>
+      <author>EP</author>
+      <enclosure url="https://images.ecestaticos.com/junmQPOAoxP2oXHssNJLTNJmIqg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3cb%2F3cc%2F69d%2F3cb3cc69dbfbe3db28461fa4de4cf8ae.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Repsol cuadruplica su beneficio al ganar 5.006 M hasta septiembre y acelera la retribución al accionista</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-29/repsol-resultados-beneficio-retribucion-accionista-1tps_4455162/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-29/repsol-resultados-beneficio-retribucion-accionista-1tps_4455162/</guid>
+      <pubDate>Thu, 29 Oct 2026 07:32:00 +0000</pubDate>
+      <description>La multienergética logró así un máximo histórico de ganancias para un periodo enero-septiembre, superando los 3.222 millones alcanzados en 2022 por la crisis energética</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/ClfZBOE_y3GcdUxN0jWDdxeKUAM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F753%2F5b8%2Fe0d%2F7535b8e0dacbea8aaa9abeb9a5f2e4c7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BBVA supera los 9.000M de beneficio hasta septiembre (+14%) pero cae hasta un 6% en bolsa</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-29/bbva-beneficio-record-resultados-rentabilidad-credito_4455148/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-29/bbva-beneficio-record-resultados-rentabilidad-credito_4455148/</guid>
+      <pubDate>Thu, 29 Oct 2026 06:12:00 +0000</pubDate>
+      <description>El banco ha obtenido un resultado récord en los nueve primeros meses del año, con un crecimiento del crédito a un ritmo del 20%. La eficiencia mejora al 37,9%</description>
+      <author>Ó. Giménez</author>
+      <enclosure url="https://images.ecestaticos.com/9yxw2NT690ywonUQasBjQCrbF8E=/0x0:2272x1517/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5d1%2F7bf%2F545%2F5d17bf5458201f41090ac614faacd0c8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sabadell vuelve a crecer en beneficios y anuncia un dividendo de 325M</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-29/sabadell-beneficios-resultados-dividendo_4455081/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-29/sabadell-beneficios-resultados-dividendo_4455081/</guid>
+      <pubDate>Thu, 29 Oct 2026 06:02:00 +0000</pubDate>
+      <description>El banco catalán obtuvo un beneficio de 405 millones en el tercer trimestre, un 13% más que en el segundo, y acumula ganancias de 1.297 millones hasta septiembre sin TSB</description>
+      <author>Ó. Giménez</author>
+      <enclosure url="https://images.ecestaticos.com/83mDR5iRcEmrpgmwXi_xS9K3h28=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff7b%2F5e8%2F224%2Ff7b5e8224acb81fead7d49dee072dd6b.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Airbus dispara un 35% su beneficio hasta septiembre y vuelve a confirmar previsiones</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-28/airbus-dispara-beneficios_4455031/</link>
@@ -27,24 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/cueY2iL2ncDi4PGfpDejQnDj-J0=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa9f%2Fb9b%2Fabf%2Fa9fb9babfa5fb1c6dc14e166f1113a0d.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>ING lanza su banca privada en España, que arranca con 6.000 clientes y ofrecerá mercados privados</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/ing-arranca-banca-privada-digital-espana-mercados-privados-1hms_4454722/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/ing-arranca-banca-privada-digital-espana-mercados-privados-1hms_4454722/</guid>
-      <pubDate>Wed, 28 Oct 2026 12:10:00 +0000</pubDate>
-      <description>El modelo permite que cada cliente decida cómo quiere gestionar su patrimonio en cada momento: de forma autónoma, con acompañamiento profesional o combinando ambas opciones</description>
-      <author>C. R.</author>
-      <enclosure url="https://images.ecestaticos.com/IsE8aStol2_MBYeE0wcgbiF3ph0=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2db%2F633%2F92e%2F2db63392ea9bdb4ced9f3cc0968bd663.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Las organizaciones agrarias suspenden la tractorada en Madrid por el accidente de tren en Toledo</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/aplazan-tractorada-madrid-accidente-toledo-1hms_4454639/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/aplazan-tractorada-madrid-accidente-toledo-1hms_4454639/</guid>
-      <pubDate>Wed, 28 Oct 2026 11:20:00 +0000</pubDate>
-      <description>La protesta prevista en la capital se transformó en un acto de duelo tras el siniestro de Urda, con cinco minutos de silencio y las reivindicaciones aplazadas</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/5zV5j2ANqNbIWaIIvt5bbpBgfYQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7c4%2F1df%2Fd17%2F7c41dfd17ee19ebb02345407753bfa80.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>El neobanco británico Monzo irrumpe en España con una cuenta que paga el 4%</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-28/el-neobanco-britanico-monzo-irrumpe-en-espana_4454663/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/el-neobanco-britanico-monzo-irrumpe-en-espana_4454663/</guid>
@@ -52,51 +88,6 @@
       <description>España se convierte en la primera sede del banco digital en el continente tras su retirada de Estados Unidos a principios de este año</description>
       <author>El Confidencial</author>
       <enclosure url="https://images.ecestaticos.com/mp4-Sqt1MFu0asZouVuyTA-O0WA=/0x0:660x371/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F60e%2F107%2Fc46%2F60e107c46eb9bc12912d2ce0e28b5c34.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mapfre gana 924,3 millones hasta septiembre, un 11,5% más</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/mapfre-beneficio-neto-nueve-meses-1hms_4454595/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/mapfre-beneficio-neto-nueve-meses-1hms_4454595/</guid>
-      <pubDate>Wed, 28 Oct 2026 10:30:00 +0000</pubDate>
-      <description>La aseguradora eleva un 11,5% sus resultados hasta septiembre pese al impacto del terremoto colombiano y avanza en la compra de Safety Insurance</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/HgGbcQnNvXVxLteIEuwO9Gwu5Ms=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff7b%2F35d%2Ffce%2Ff7b35dfce7d6de1ccffa838689ab66ca.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Línea Directa gana 80 millones de euros hasta septiembre, un 35% más</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/linea-directa-beneficio-nueve-meses-1hms_4454594/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/linea-directa-beneficio-nueve-meses-1hms_4454594/</guid>
-      <pubDate>Wed, 28 Oct 2026 10:27:00 +0000</pubDate>
-      <description>La entidad suma 3,9 millones de clientes y mejora su eficiencia, con avances destacados en Motor, Hogar y Salud y una ratio combinada del 91,3% al cierre del periodo</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/KF5OHBJecd-gfLZ2DRBh75yGVE4=/0x0:1920x1256/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F716%2F193%2F6d6%2F7161936d643128e95d3a0f8cd2d91767.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Las posibles causas del choque de trenes en Toledo: el Gobierno apunta a un error humano tras el fallo de un sistema de seguridad</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/las-posibles-causas-del-choque-de-trenes-en-toledo-el-gobierno-apunta-a-un-error-humano-tras-el-fallo-de-un-sistema-de-seguridad_4454577/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/las-posibles-causas-del-choque-de-trenes-en-toledo-el-gobierno-apunta-a-un-error-humano-tras-el-fallo-de-un-sistema-de-seguridad_4454577/</guid>
-      <pubDate>Wed, 28 Oct 2026 09:53:00 +0000</pubDate>
-      <description>Fuentes gubernamentales señalan un posible fallo humano mientras trabajadores ferroviarios apuntan a una incidencia previa que habría obligado a restringir la velocidad</description>
-      <author>Alberto Sanz</author>
-      <enclosure url="https://images.ecestaticos.com/qubeWJn0dB6YqcDL8IV1ly3e8xY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F408%2F695%2F09c%2F40869509c353301ef18250badb9af064.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Redeia gana 410,3 millones hasta septiembre, un 5,3% más, tras despuntar sus ingresos un 7,8%</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/redeia-resultados-beneficio-neto-septiembre-ingresos-1tps_4454472/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/redeia-resultados-beneficio-neto-septiembre-ingresos-1tps_4454472/</guid>
-      <pubDate>Wed, 28 Oct 2026 07:24:00 +0000</pubDate>
-      <description>El resultado bruto supera los 1.000 millones y las inversiones alcanzan 1.139 millones, con casi todo el desembolso concentrado en su filial de transporte</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/HenoBzSjldqpXLA2o90-xRgtczc=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd7d%2F4dc%2F36b%2Fd7d4dc36b07d4e6d62e27dd7335beb27.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Santander obtiene un beneficio récord de 12.405M hasta septiembre (+20%)</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/santander-beneficio-record-crecimiento-rote_4454431/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/santander-beneficio-record-crecimiento-rote_4454431/</guid>
-      <pubDate>Wed, 28 Oct 2026 06:13:00 +0000</pubDate>
-      <description>El banco incrementó su resultado con crecimientos del 16% en el crédito y en recursos de los clientes. El beneficio ordinario, sin operaciones corporativas, aumenta un 16%</description>
-      <author>Ó. Giménez</author>
-      <enclosure url="https://images.ecestaticos.com/36S5MtnuGSYGTXtW0qAe8bAsirc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F85d%2F5a2%2F4e7%2F85d5a24e7f63ffd5478206d0965272ed.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Premios 'Empresarios con raíces', en imágenes</title>
@@ -144,15 +135,6 @@
       <enclosure url="https://images.ecestaticos.com/y3nuIkIY0b9RsVv4D9va7-xWZmw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d3%2Fed4%2F1ce%2F7d3ed41ced8462aec6c2eb5ca4d79b4e.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Más de 600 expertos debaten en Barcelona sobre el presente y futuro de las 'smart cities'</title>
-      <link>https://www.elconfidencial.com/empresas/2026-10-28/smart-city-expo-barcelona-2026-bra_4450685/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/smart-city-expo-barcelona-2026-bra_4450685/</guid>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <description>La decimoquinta edición del Smart City Expo World Congress mostrará las tecnologías que ya están teniendo impacto en los desafíos urbanos más urgentes</description>
-      <author>EC Brands</author>
-      <enclosure url="https://images.ecestaticos.com/HiPgyuUNXmFjc6x9lC8RfD4ylTw=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4e5%2F966%2F450%2F4e59664504c13de8a3412bde7d38747b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Javier Roza: "Las buenas empresas necesitan tener buenas personas"</title>
       <link>https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-06-02/el-arte-de-crear-arias-javier-roza-bra_4363971/</guid>
@@ -160,6 +142,78 @@
       <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ING lanza su banca privada en España, que arranca con 6.000 clientes y ofrecerá mercados privados</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/ing-arranca-banca-privada-digital-espana-mercados-privados-1hms_4454722/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/ing-arranca-banca-privada-digital-espana-mercados-privados-1hms_4454722/</guid>
+      <pubDate>Wed, 28 Oct 2026 12:10:00 +0000</pubDate>
+      <description>El modelo permite que cada cliente decida cómo quiere gestionar su patrimonio en cada momento: de forma autónoma, con acompañamiento profesional o combinando ambas opciones</description>
+      <author>C. R.</author>
+      <enclosure url="https://images.ecestaticos.com/IsE8aStol2_MBYeE0wcgbiF3ph0=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2db%2F633%2F92e%2F2db63392ea9bdb4ced9f3cc0968bd663.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Las organizaciones agrarias suspenden la tractorada en Madrid por el accidente de tren en Toledo</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/aplazan-tractorada-madrid-accidente-toledo-1hms_4454639/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/aplazan-tractorada-madrid-accidente-toledo-1hms_4454639/</guid>
+      <pubDate>Wed, 28 Oct 2026 11:20:00 +0000</pubDate>
+      <description>La protesta prevista en la capital se transformó en un acto de duelo tras el siniestro de Urda, con cinco minutos de silencio y las reivindicaciones aplazadas</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/5zV5j2ANqNbIWaIIvt5bbpBgfYQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7c4%2F1df%2Fd17%2F7c41dfd17ee19ebb02345407753bfa80.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mapfre gana 924,3 millones hasta septiembre, un 11,5% más</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/mapfre-beneficio-neto-nueve-meses-1hms_4454595/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/mapfre-beneficio-neto-nueve-meses-1hms_4454595/</guid>
+      <pubDate>Wed, 28 Oct 2026 10:30:00 +0000</pubDate>
+      <description>La aseguradora eleva un 11,5% sus resultados hasta septiembre pese al impacto del terremoto colombiano y avanza en la compra de Safety Insurance</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/HgGbcQnNvXVxLteIEuwO9Gwu5Ms=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff7b%2F35d%2Ffce%2Ff7b35dfce7d6de1ccffa838689ab66ca.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Línea Directa gana 80 millones de euros hasta septiembre, un 35% más</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/linea-directa-beneficio-nueve-meses-1hms_4454594/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/linea-directa-beneficio-nueve-meses-1hms_4454594/</guid>
+      <pubDate>Wed, 28 Oct 2026 10:27:00 +0000</pubDate>
+      <description>La entidad suma 3,9 millones de clientes y mejora su eficiencia, con avances destacados en Motor, Hogar y Salud y una ratio combinada del 91,3% al cierre del periodo</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/KF5OHBJecd-gfLZ2DRBh75yGVE4=/0x0:1920x1256/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F716%2F193%2F6d6%2F7161936d643128e95d3a0f8cd2d91767.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Las posibles causas del choque de trenes en Toledo: el Gobierno apunta a un error humano tras el fallo de un sistema de seguridad</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/las-posibles-causas-del-choque-de-trenes-en-toledo-el-gobierno-apunta-a-un-error-humano-tras-el-fallo-de-un-sistema-de-seguridad_4454577/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/las-posibles-causas-del-choque-de-trenes-en-toledo-el-gobierno-apunta-a-un-error-humano-tras-el-fallo-de-un-sistema-de-seguridad_4454577/</guid>
+      <pubDate>Wed, 28 Oct 2026 09:53:00 +0000</pubDate>
+      <description>Fuentes gubernamentales señalan un posible fallo humano mientras trabajadores ferroviarios apuntan a una incidencia previa que habría obligado a restringir la velocidad</description>
+      <author>Alberto Sanz</author>
+      <enclosure url="https://images.ecestaticos.com/qubeWJn0dB6YqcDL8IV1ly3e8xY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F408%2F695%2F09c%2F40869509c353301ef18250badb9af064.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Redeia gana 410,3 millones hasta septiembre, un 5,3% más, tras despuntar sus ingresos un 7,8%</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/redeia-resultados-beneficio-neto-septiembre-ingresos-1tps_4454472/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/redeia-resultados-beneficio-neto-septiembre-ingresos-1tps_4454472/</guid>
+      <pubDate>Wed, 28 Oct 2026 07:24:00 +0000</pubDate>
+      <description>El resultado bruto supera los 1.000 millones y las inversiones alcanzan 1.139 millones, con casi todo el desembolso concentrado en su filial de transporte</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/HenoBzSjldqpXLA2o90-xRgtczc=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd7d%2F4dc%2F36b%2Fd7d4dc36b07d4e6d62e27dd7335beb27.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Santander obtiene un beneficio récord de 12.405M hasta septiembre (+20%)</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/santander-beneficio-record-crecimiento-rote_4454431/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/santander-beneficio-record-crecimiento-rote_4454431/</guid>
+      <pubDate>Wed, 28 Oct 2026 06:13:00 +0000</pubDate>
+      <description>El banco incrementó su resultado con crecimientos del 16% en el crédito y en recursos de los clientes. El beneficio ordinario, sin operaciones corporativas, aumenta un 16%</description>
+      <author>Ó. Giménez</author>
+      <enclosure url="https://images.ecestaticos.com/36S5MtnuGSYGTXtW0qAe8bAsirc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F85d%2F5a2%2F4e7%2F85d5a24e7f63ffd5478206d0965272ed.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Más de 600 expertos debaten en Barcelona sobre el presente y futuro de las 'smart cities'</title>
+      <link>https://www.elconfidencial.com/empresas/2026-10-28/smart-city-expo-barcelona-2026-bra_4450685/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-28/smart-city-expo-barcelona-2026-bra_4450685/</guid>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <description>La decimoquinta edición del Smart City Expo World Congress mostrará las tecnologías que ya están teniendo impacto en los desafíos urbanos más urgentes</description>
+      <author>EC Brands</author>
+      <enclosure url="https://images.ecestaticos.com/HiPgyuUNXmFjc6x9lC8RfD4ylTw=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4e5%2F966%2F450%2F4e59664504c13de8a3412bde7d38747b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
