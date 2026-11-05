@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:14:11 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:42:01 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Instituto Coordenadas pide prorrogar las concesiones de 993 km de autovías y evitar los contratos de emergencia</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-05/plan-urgente-conservacion-carreteras-1hms-1svm_4459640/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-05/plan-urgente-conservacion-carreteras-1hms-1svm_4459640/</guid>
+      <pubDate>Thu, 05 Nov 2026 14:10:00 +0000</pubDate>
+      <description>Diez contratos sobre 993 kilómetros caducan en diciembre y dejan en vilo su mantenimiento, mientras expertos cifran en 11.494 millones el déficit inversor</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/R4IGe6ozHJ07dvFY5sE6mZd0eI4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F34b%2F018%2Fed7%2F34b018ed78c1b4eb432bae47303fa9d4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Telefónica dejará de ser el prestador del servicio universal de telecos</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-05/telefonica-dejara-de-ser-el-prestador-del-servicio_4459523/</link>
@@ -18,7 +27,7 @@
       <enclosure url="https://images.ecestaticos.com/knJWZTFxc-kX1cPktQ_k-1iQrTw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcef%2F1f5%2Fff1%2Fcef1f5ff16ebf23f8e359a050f0b3b48.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>El efecto 'Spiderman' en los números de Sony: dispara un 38,8% su beneficio y vuela en bolsa</title>
+      <title>El efecto 'Spiderman' triunfa en bolsa: las acciones de Sony vuelan tras disparar su beneficio</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-05/sony-beneficio-neto-crece-1hms_4459451/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-05/sony-beneficio-neto-crece-1hms_4459451/</guid>
       <pubDate>Thu, 05 Nov 2026 11:24:00 +0000</pubDate>
@@ -27,7 +36,7 @@
       <enclosure url="https://images.ecestaticos.com/TqdNPCg1OtvQSqgWG9fKMqpa63U=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F97f%2F0be%2F0d2%2F97f0be0d25e82605380f0f87ce284440.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Rovi se dispara más de un 9% en bolsa tras ganar 162,8 M hasta septiembre, un 67% más</title>
+      <title>Rovi se dispara más de un 8% en bolsa tras ganar 162,8 M hasta septiembre, un 67% más</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-05/rovi-acciones-suben-resultados-trimestrales-1hms_4459388/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-05/rovi-acciones-suben-resultados-trimestrales-1hms_4459388/</guid>
       <pubDate>Thu, 05 Nov 2026 10:17:00 +0000</pubDate>
@@ -61,33 +70,6 @@
       <description>Luis Pedro Marco de la Peña, nombrado por Puente en 2024 para reconducir la empresa, sale en plena crisis ferroviaria y a menos de un mes de las elecciones</description>
       <author>Alberto Sanz</author>
       <enclosure url="https://images.ecestaticos.com/7qJhkvBGui-94gbhYp-2fkQVfHI=/0x0:2272x1517/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbca%2F566%2F10e%2Fbca56610e078c232986aac214a5088dc.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El 'Circuito Gran Vía' aumenta un 45% su número de anunciantes y un 25% las campañas realizadas en los nueve primeros meses de 2026</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-04/circuito-gran-via-publicidad-digital-madrid-1hms-1svm_4458794/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-04/circuito-gran-via-publicidad-digital-madrid-1hms-1svm_4458794/</guid>
-      <pubDate>Wed, 04 Nov 2026 13:07:00 +0000</pubDate>
-      <description>La plataforma publicitaria de Madrid eleva un 45% sus anunciantes y alcanza 460 millones de impactos en la primera mitad de 2026, impulsada por la demanda internacional</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/rrpBIaJpHbZQR1lRpHfAAkGydJQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcc9%2F9a6%2F415%2Fcc99a6415aead125a1a5c1bcafa28de4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Los alcaldes de Viento Alto exigen al Miteco que permita iniciar de inmediato las obras del Clúster eólico del Maestrazgo</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-04/cluster-eolico-maestrazgo-1hms-1svm_4458787/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-04/cluster-eolico-maestrazgo-1hms-1svm_4458787/</guid>
-      <pubDate>Wed, 04 Nov 2026 13:05:00 +0000</pubDate>
-      <description>El fallo definitivo respalda los permisos de El Cid I y la evaluación conjunta de 22 parques, mientras los municipios reclaman activar ayudas, empleo y servicios ya aprobados</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/hl01RZpFXsWhmHq1U8LufH66hkE=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe23%2F9c5%2F43d%2Fe239c543dabf48a756975bfe29a06431.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>NORTIA y Gencom coinvierten en la adquisición del hotel Rosewood London</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-04/adquisicion-rosewood-london-nortia-gencom-1hms-1svm_4458792/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-04/adquisicion-rosewood-london-nortia-gencom-1hms-1svm_4458792/</guid>
-      <pubDate>Wed, 04 Nov 2026 13:02:00 +0000</pubDate>
-      <description>El establecimiento londinense, con 308 habitaciones y ubicado en un edificio histórico, amplía la cartera de lujo de sus nuevos propietarios junto a otros inversores</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/Vh-KAgfa8F5EwWOww8ItdjIOMBI=/0x0:1200x728/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2e5%2Fa7f%2Fd07%2F2e5a7fd074668d46541af58c3bebde09.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Premios 'Empresarios con raíces', en imágenes</title>
@@ -142,6 +124,51 @@
       <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</guid>
+      <pubDate>Tue, 26 May 2026 03:00:00 +0000</pubDate>
+      <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
+      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
+      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El 'Circuito Gran Vía' aumenta un 45% su número de anunciantes y un 25% las campañas realizadas en los nueve primeros meses de 2026</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-04/circuito-gran-via-publicidad-digital-madrid-1hms-1svm_4458794/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-04/circuito-gran-via-publicidad-digital-madrid-1hms-1svm_4458794/</guid>
+      <pubDate>Wed, 04 Nov 2026 13:07:00 +0000</pubDate>
+      <description>La plataforma publicitaria de Madrid eleva un 45% sus anunciantes y alcanza 460 millones de impactos en la primera mitad de 2026, impulsada por la demanda internacional</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/rrpBIaJpHbZQR1lRpHfAAkGydJQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcc9%2F9a6%2F415%2Fcc99a6415aead125a1a5c1bcafa28de4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los alcaldes de Viento Alto exigen al Miteco que permita iniciar de inmediato las obras del Clúster eólico del Maestrazgo</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-04/cluster-eolico-maestrazgo-1hms-1svm_4458787/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-04/cluster-eolico-maestrazgo-1hms-1svm_4458787/</guid>
+      <pubDate>Wed, 04 Nov 2026 13:05:00 +0000</pubDate>
+      <description>El fallo definitivo respalda los permisos de El Cid I y la evaluación conjunta de 22 parques, mientras los municipios reclaman activar ayudas, empleo y servicios ya aprobados</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/hl01RZpFXsWhmHq1U8LufH66hkE=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe23%2F9c5%2F43d%2Fe239c543dabf48a756975bfe29a06431.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>NORTIA y Gencom coinvierten en la adquisición del hotel Rosewood London</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-04/adquisicion-rosewood-london-nortia-gencom-1hms-1svm_4458792/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-04/adquisicion-rosewood-london-nortia-gencom-1hms-1svm_4458792/</guid>
+      <pubDate>Wed, 04 Nov 2026 13:02:00 +0000</pubDate>
+      <description>El establecimiento londinense, con 308 habitaciones y ubicado en un edificio histórico, amplía la cartera de lujo de sus nuevos propietarios junto a otros inversores</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/Vh-KAgfa8F5EwWOww8ItdjIOMBI=/0x0:1200x728/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2e5%2Fa7f%2Fd07%2F2e5a7fd074668d46541af58c3bebde09.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>El banco Crédit Mutuel Arkéa sufre un ciberataque: le roban 118 M que transforman en criptos</title>
@@ -214,15 +241,6 @@
       <description>Por sorpresa, en los últimos momentos de su intervención en la Diputación Permanente del Congreso, y cuando ya no había opción de réplica, el ministro de Transportes ha anunciado su dimisión</description>
       <author>Alberto Sanz</author>
       <enclosure url="https://images.ecestaticos.com/-gAKndS0PJH5Eb98HpDLhnX1xO4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F270%2Fedf%2F2b0%2F270edf2b00c9d636dda3034e062c6a99.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</guid>
-      <pubDate>Tue, 26 May 2026 03:00:00 +0000</pubDate>
-      <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Sacyr gana 116 millones de euros hasta septiembre, un 87% más, y eleva un 11% su facturación</title>
@@ -412,15 +430,6 @@
       <description>Su director financiero anticipó que la desaceleración del mercado de ordenadores personales se prolongará, al menos, durante la primera mitad de 2027</description>
       <author>EFE</author>
       <enclosure url="https://images.ecestaticos.com/G_pg-Ea84ajnqmdPpwNiKAZHlNM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2c0%2F5a8%2F07c%2F2c05a807c1bec1ebc34c7f235ebe41ca.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ana Jaureguizar: "La belleza en España es una industria que aporta 19.000 millones cada año"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-04-14/el-arte-de-crear-loreal-ana-jaureguizar-bra_4337018/</guid>
-      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
-      <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Mané Calvo: "Nuestro mayor pelotazo fue un anuncio en el 'Un, dos, tres... responda otra vez"</title>
