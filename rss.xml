@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 07 Nov 2026 18:45:15 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:54:03 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los servicios mínimos de la huelga en Renfe llegan al 72% en la alta velocidad</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-07/servicios-minimos-huelga-renfe-1tps_4461128/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-07/servicios-minimos-huelga-renfe-1tps_4461128/</guid>
+      <pubDate>Sat, 07 Nov 2026 20:22:00 +0000</pubDate>
+      <description>La red ferroviaria mantendrá una oferta parcial, con mayor cobertura para los trayectos urbanos en las franjas de mayor demanda</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/gJE-7HIWfz08H_0YzQ1pc2Tusco=/0x0:2272x1435/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc3d%2F53d%2F442%2Fc3d53d4420cf9ca5708004f6daf66419.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Gayo (Telefónica) apuesta por prestar servicios tecnológicos a otros países desde España con su nuevo centro en Logroño</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-07/telefonica-centro-tecnologia-logrono-salesforce-1hms-1svm_4461011/</link>
@@ -81,15 +90,6 @@
       <enclosure url="https://images.ecestaticos.com/OV4QpvnyVxHMnhuSZPsTqV3DMgQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F789%2F846%2Fd8c%2F789846d8c6bfe32c320892d863b913aa.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>HBX (Hotelbeds) elige a un hombre de la casa como su CEO tras la jubilación de Nicolas Huss</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-06/hbx-hotelbeds-nombramiento-ceo-jubilacion-nicolas-huss-carlos-munoz-1hms_4460055/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-06/hbx-hotelbeds-nombramiento-ceo-jubilacion-nicolas-huss-carlos-munoz-1hms_4460055/</guid>
-      <pubDate>Fri, 06 Nov 2026 07:41:00 +0000</pubDate>
-      <description>La elección se produce tras un exhaustivo proceso de búsqueda liderado por el consejo de administración para identificar al líder adecuado para la próxima etapa de crecimiento</description>
-      <author>C. R.</author>
-      <enclosure url="https://images.ecestaticos.com/dDWv_8bPf-V7-gFgOfilkc06_-w=/0x0:2001x2000/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F442%2Fa56%2Fe7d%2F442a56e7d17a6145b333b6fdce657022.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Premios 'Empresarios con raíces', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-26/premios-empresarios-emprendimiento-bra_4451931/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/premios-empresarios-emprendimiento-bra_4451931/</guid>
@@ -142,6 +142,15 @@
       <description>El director general de Mantequerías Arias pasa por El Arte de Crear y resume su forma de dirigir en una idea sencilla: una empresa vale lo que vale su gente</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>HBX (Hotelbeds) elige a un hombre de la casa como su CEO tras la jubilación de Nicolas Huss</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-06/hbx-hotelbeds-nombramiento-ceo-jubilacion-nicolas-huss-carlos-munoz-1hms_4460055/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-06/hbx-hotelbeds-nombramiento-ceo-jubilacion-nicolas-huss-carlos-munoz-1hms_4460055/</guid>
+      <pubDate>Fri, 06 Nov 2026 07:41:00 +0000</pubDate>
+      <description>La elección se produce tras un exhaustivo proceso de búsqueda liderado por el consejo de administración para identificar al líder adecuado para la próxima etapa de crecimiento</description>
+      <author>C. R.</author>
+      <enclosure url="https://images.ecestaticos.com/dDWv_8bPf-V7-gFgOfilkc06_-w=/0x0:2001x2000/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F442%2Fa56%2Fe7d%2F442a56e7d17a6145b333b6fdce657022.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
