@@ -5,9 +5,27 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 07 Nov 2026 12:45:12 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 18:45:15 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gayo (Telefónica) apuesta por prestar servicios tecnológicos a otros países desde España con su nuevo centro en Logroño</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-07/telefonica-centro-tecnologia-logrono-salesforce-1hms-1svm_4461011/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-07/telefonica-centro-tecnologia-logrono-salesforce-1hms-1svm_4461011/</guid>
+      <pubDate>Sat, 07 Nov 2026 14:15:00 +0000</pubDate>
+      <description>La nueva sede, con 21 profesionales, desarrollará soluciones Salesforce para empresas y administraciones y aspira a retener empleo cualificado en La Rioja</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/3ds-z4YW__HirrgOOHHHGHcPdFM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4df%2F28c%2F5b3%2F4df28c5b37933414673152c34d04013d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El comercio de Barcelona pone en valor las oportunidades profesionales que ofrece al talento joven y a emprendedores</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-07/comercio-oportunidades-nuevas-generaciones-1hms-1svm_4461010/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-07/comercio-oportunidades-nuevas-generaciones-1hms-1svm_4461010/</guid>
+      <pubDate>Sat, 07 Nov 2026 14:13:00 +0000</pubDate>
+      <description>Cerca de un centenar de participantes exploran en la Llotja de Mar seis vías para impulsar negocios, iniciar proyectos y asegurar su continuidad generacional</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/UihdWLW3yfIiHqM4fHtd9ZW0cfE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6a7%2Fe15%2F3d0%2F6a7e153d0b75072dd57bc94f1ce78339.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Consumo abre expediente a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-07/consumo-sanciona-empresa-autobuses-1tps_4460880/</link>
