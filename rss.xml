@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 06 Nov 2026 20:57:49 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:45:12 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consumo abre expediente a una empresa de autobuses por prácticas engañosas en el precio y cláusulas abusivas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-07/consumo-sanciona-empresa-autobuses-1tps_4460880/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-07/consumo-sanciona-empresa-autobuses-1tps_4460880/</guid>
+      <pubDate>Sat, 07 Nov 2026 08:14:00 +0000</pubDate>
+      <description>El departamento de Bustinduy detecta costes ocultos y retenciones tras anulaciones; la infracción más grave podría alcanzar un millón de euros</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/6JqpPUULfAZmSD1Tc7dv78Ic0gc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1f2%2F022%2F8e4%2F1f20228e4732168fd32b63127b28e510.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>La CNMV excluye de negociación a Tubos Reunidos al entrar en fase de liquidación</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-06/cnmv-excluye-de-negociacion-a-tubos-reunidos_4460693/</link>
@@ -61,15 +70,6 @@
       <description>La elección se produce tras un exhaustivo proceso de búsqueda liderado por el consejo de administración para identificar al líder adecuado para la próxima etapa de crecimiento</description>
       <author>C. R.</author>
       <enclosure url="https://images.ecestaticos.com/dDWv_8bPf-V7-gFgOfilkc06_-w=/0x0:2001x2000/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F442%2Fa56%2Fe7d%2F442a56e7d17a6145b333b6fdce657022.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Joan Trian (RIU): "El turismo de borrachera es una lacra contra la que luchamos desde hace años"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-06/turismo-espana-sector-hotelero-joan-trian-riu_4452966/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-06/turismo-espana-sector-hotelero-joan-trian-riu_4452966/</guid>
-      <pubDate>Fri, 06 Nov 2026 04:00:00 +0000</pubDate>
-      <description>Para el consejero directivo de RIU Hotels &amp; Resorts, "el residente de grandes destinos turísticos está sufriendo una merma en su calidad de vida", de modo que "atajar el alquiler vacacional ilegal es prioritario e irrenunciable"</description>
-      <author>EC</author>
-      <enclosure url="https://images.ecestaticos.com/JkAwtDW74nba87aI9HqogFpcok4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdd8%2Fdd1%2F614%2Fdd8dd1614ba155dd4a9e9803123bb06b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Premios 'Empresarios con raíces', en imágenes</title>
@@ -142,6 +142,15 @@
       <description>Ana Jaureguizar, directora general de L’Oréal Consumer Products en España y Portugal, comparte en El Arte de Crear una mirada íntima la belleza y el papel de las personas en una industria que transforma cada día nuestras vidas</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/-fzdfrYijf7l3xsmcGmogpCqu9A=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F157%2F83e%2F179%2F15783e179afe00e621f09011f4ecf4b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Joan Trian (RIU): "El turismo de borrachera es una lacra contra la que luchamos desde hace años"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-06/turismo-espana-sector-hotelero-joan-trian-riu_4452966/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-06/turismo-espana-sector-hotelero-joan-trian-riu_4452966/</guid>
+      <pubDate>Fri, 06 Nov 2026 04:00:00 +0000</pubDate>
+      <description>Para el consejero directivo de RIU Hotels &amp; Resorts, "el residente de grandes destinos turísticos está sufriendo una merma en su calidad de vida", de modo que "atajar el alquiler vacacional ilegal es prioritario e irrenunciable"</description>
+      <author>EC</author>
+      <enclosure url="https://images.ecestaticos.com/JkAwtDW74nba87aI9HqogFpcok4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdd8%2Fdd1%2F614%2Fdd8dd1614ba155dd4a9e9803123bb06b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>CaixaBank, reconocida como la mejor banca privada en innovación en Europa por The Banker y PWM</title>
