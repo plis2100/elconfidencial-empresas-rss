@@ -5,9 +5,36 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:09:27 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:29:39 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El presidente cesado de Renfe se revuelve: "Combatiré cualquier intento de culpar a la compañía"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-13/el-presidente-cesado-de-renfe-se-revuelve_4464867/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-13/el-presidente-cesado-de-renfe-se-revuelve_4464867/</guid>
+      <pubDate>Fri, 13 Nov 2026 17:34:00 +0000</pubDate>
+      <description>Álvaro Fernández Heredia asume su responsabilidad por la crisis ferroviaria, pero rechaza que su salida sirva para señalar a Renfe. El hombre de confianza de Óscar Puente se despide tras el relevo impulsado por Cuerpo</description>
+      <author>Alberto Sanz</author>
+      <enclosure url="https://images.ecestaticos.com/2A28wFRherHFdbEzxWel3slAqv0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F324%2F6f8%2F9a3%2F3246f89a3d596ccf5c35fa8c0bcd0dbe.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Merlin Properties critica el decreto de data centers y estima coste extra de 863 millones</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-13/merlin-centros-datos-real-decreto-coste-1hms_4464820/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-13/merlin-centros-datos-real-decreto-coste-1hms_4464820/</guid>
+      <pubDate>Fri, 13 Nov 2026 16:42:00 +0000</pubDate>
+      <description>La socimi registró un beneficio operativo (FFO) de 274,5 millones de euros, lo que supone un aumento del 11,9% respecto al mismo periodo del año pasado.</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/tB3kdkZDemZKXj1GM0gCzp_2xPg=/0x0:2272x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F606%2F835%2Fa52%2F606835a5204445ca342e1b8dc0420918.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Competencia investiga a Ribera Salud, HM, Recoletas y Gerosalud por un presunto pacto en una licitación de la Xunta</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-13/competencia-investiga-a-ribera-salud-hm-recoletas-y-gerosalud_4464618/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-13/competencia-investiga-a-ribera-salud-hm-recoletas-y-gerosalud_4464618/</guid>
+      <pubDate>Fri, 13 Nov 2026 13:37:00 +0000</pubDate>
+      <description>La CNMC abre un expediente sancionador contra cinco empresas sanitarias y un directivo por posibles acuerdos que habrían impedido a la aseguradora ganadora formalizar el contrato</description>
+      <author>A. G.</author>
+      <enclosure url="https://images.ecestaticos.com/52lwEGoJsPj3Jwq8JOUSN2HLCqE=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F928%2F5b4%2F344%2F9285b4344fde1d54ed8aadd24f115b02.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>El Gobierno fulmina al presidente de Renfe, uno de los hombres de Puente, tras los accidentes ferroviarios</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-13/gobierno-cese-presidente-renfe-puente_4464555/</link>
@@ -36,7 +63,7 @@
       <enclosure url="https://images.ecestaticos.com/u0FP0FM7jLe_uNx6P8OmVERT7h4=/0x0:2272x1297/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F03e%2Fa7e%2F056%2F03ea7e0561a83bf79202aa138095f23e.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Acciona cae un 7% en bolsa tras prestar 500 M a su filial energética y retrasar desinversiones</title>
+      <title>Acciona cae un 8% en bolsa tras prestar 500 M a su filial energética y retrasar desinversiones</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-13/cotizacion-acciona-prestamo-acciona-energia-desinversiones-1tps_4464226/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-13/cotizacion-acciona-prestamo-acciona-energia-desinversiones-1tps_4464226/</guid>
       <pubDate>Fri, 13 Nov 2026 08:32:00 +0000</pubDate>
@@ -54,40 +81,13 @@
       <enclosure url="https://images.ecestaticos.com/e8q5_XUy98oQtMkfYuMTkLB88WM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F696%2Fe10%2F29d%2F696e1029d1100ae1987933fc6b7d1736.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Grandes empresas pactan diez acuerdos para reforzar la competitividad de España</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-12/grandes-empresas-pactan-diez-acuerdos_4463892/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/grandes-empresas-pactan-diez-acuerdos_4463892/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:48:00 +0000</pubDate>
-      <description>Los diez acuerdos abordan asuntos como instituciones, talento, vivienda, salud y cuidados, demografía, productividad, inversión, capacidades estratégicas, visión intergeneracional y cooperación</description>
-      <author>EC</author>
-      <enclosure url="https://images.ecestaticos.com/hqhuMbMFEDBClUiN39lt3qWNeCY=/0x0:1254x836/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F52a%2F298%2F668%2F52a29866840f42efeda5e17ae84f7a84.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Novartis ocupa el primer puesto del Access to Medicine Index 2026 y lidera todas las áreas evaluadas</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-12/novartis-lidera-access-medicine-index-1hms-1svm_4463725/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/novartis-lidera-access-medicine-index-1hms-1svm_4463725/</guid>
-      <pubDate>Thu, 12 Nov 2026 14:02:00 +0000</pubDate>
-      <description>La farmacéutica obtiene 3,86 puntos sobre cinco y se impone en gobernanza, investigación y distribución, con especial ventaja en I+D para países de ingresos bajos y medios</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/OUPDJFgToym7eontaWYMN__GhsU=/0x0:2272x1506/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9c5%2Fe95%2F449%2F9c5e95449d5efd3f297a3fd09b0dd804.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>ACS prevé multiplicar por tres su valor bursátil y alcanzar los 81.000 millones en 2030</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-12/acs-superciclo-infraestructuras-crecimiento-construccion-1hms_4463624/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/acs-superciclo-infraestructuras-crecimiento-construccion-1hms_4463624/</guid>
-      <pubDate>Thu, 12 Nov 2026 12:30:00 +0000</pubDate>
-      <description>La compañía confía en el auge de la inteligencia artificial, la energía y la electrificación, con los centros de datos como motor y nuevas operaciones corporativas</description>
+      <title>La CNMV multa con 70.000 euros a un empleado de Squirrel Media por abuso de mercado</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-12/cnmv-multa-squirrel-media-director-general-manipulacion-mercado-1tps_4463321/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/cnmv-multa-squirrel-media-director-general-manipulacion-mercado-1tps_4463321/</guid>
+      <pubDate>Thu, 12 Nov 2026 08:52:00 +0000</pubDate>
+      <description>El expediente, publicado en el BOE, señala que el afectado renunció a recurrir por vía administrativa, aunque aún puede acudir a la Audiencia Nacional</description>
       <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/d9uwEs6EdkbaHD7dRpXsFsUOYzc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffbe%2F7f1%2F470%2Ffbe7f147024489fb99418362cf65909f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Miriam González sale del consejo de Atrys para centrarse en su candidatura a las elecciones del 29N</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-12/miriam-gonzalez-dimite-atrys-health-1tps_4463395/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/miriam-gonzalez-dimite-atrys-health-1tps_4463395/</guid>
-      <pubDate>Thu, 12 Nov 2026 09:56:00 +0000</pubDate>
-      <description>La jurista deja también la presidencia de Nombramientos y Retribuciones y su puesto en Auditoría para centrarse en su candidatura</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/eIwME_hwpGXTtqgW3N0_Yb_1W58=/0x0:2272x1471/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd52%2Fca0%2F1c0%2Fd52ca01c0ba2cc970871a66cdd389601.jpg" type="image/jpeg" />
+      <enclosure url="https://images.ecestaticos.com/NlbnS_90YRlZrInDe78tSyBVxtQ=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F87a%2Fa02%2F893%2F87aa0289356bfc3f8c47db086a493b49.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Premios 'Empresarios con raíces', en imágenes</title>
@@ -144,6 +144,42 @@
       <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Grandes empresas pactan diez acuerdos para reforzar la competitividad de España</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-12/grandes-empresas-pactan-diez-acuerdos_4463892/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/grandes-empresas-pactan-diez-acuerdos_4463892/</guid>
+      <pubDate>Thu, 12 Nov 2026 15:48:00 +0000</pubDate>
+      <description>Los diez acuerdos abordan asuntos como instituciones, talento, vivienda, salud y cuidados, demografía, productividad, inversión, capacidades estratégicas, visión intergeneracional y cooperación</description>
+      <author>EC</author>
+      <enclosure url="https://images.ecestaticos.com/hqhuMbMFEDBClUiN39lt3qWNeCY=/0x0:1254x836/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F52a%2F298%2F668%2F52a29866840f42efeda5e17ae84f7a84.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Novartis ocupa el primer puesto del Access to Medicine Index 2026 y lidera todas las áreas evaluadas</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-12/novartis-lidera-access-medicine-index-1hms-1svm_4463725/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/novartis-lidera-access-medicine-index-1hms-1svm_4463725/</guid>
+      <pubDate>Thu, 12 Nov 2026 14:02:00 +0000</pubDate>
+      <description>La farmacéutica obtiene 3,86 puntos sobre cinco y se impone en gobernanza, investigación y distribución, con especial ventaja en I+D para países de ingresos bajos y medios</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/OUPDJFgToym7eontaWYMN__GhsU=/0x0:2272x1506/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9c5%2Fe95%2F449%2F9c5e95449d5efd3f297a3fd09b0dd804.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ACS prevé multiplicar por tres su valor bursátil y alcanzar los 81.000 millones en 2030</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-12/acs-superciclo-infraestructuras-crecimiento-construccion-1hms_4463624/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/acs-superciclo-infraestructuras-crecimiento-construccion-1hms_4463624/</guid>
+      <pubDate>Thu, 12 Nov 2026 12:30:00 +0000</pubDate>
+      <description>La compañía confía en el auge de la inteligencia artificial, la energía y la electrificación, con los centros de datos como motor y nuevas operaciones corporativas</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/d9uwEs6EdkbaHD7dRpXsFsUOYzc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffbe%2F7f1%2F470%2Ffbe7f147024489fb99418362cf65909f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Miriam González sale del consejo de Atrys para centrarse en su candidatura a las elecciones del 29N</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-12/miriam-gonzalez-dimite-atrys-health-1tps_4463395/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/miriam-gonzalez-dimite-atrys-health-1tps_4463395/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:56:00 +0000</pubDate>
+      <description>La jurista deja también la presidencia de Nombramientos y Retribuciones y su puesto en Auditoría para centrarse en su candidatura</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/eIwME_hwpGXTtqgW3N0_Yb_1W58=/0x0:2272x1471/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd52%2Fca0%2F1c0%2Fd52ca01c0ba2cc970871a66cdd389601.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Juan Roig, presidente de Mercadona: "Ganar dinero es bueno, necesario, obligatorio y satisfactorio. Los empresarios tenemos que salir del armario"</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-12/juan-roig-ganar-es-dinero-bueno-necesario-obligatorio-satisfactorio-1qrt_4463959/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/juan-roig-ganar-es-dinero-bueno-necesario-obligatorio-satisfactorio-1qrt_4463959/</guid>
@@ -160,15 +196,6 @@
       <description>La operación contempla entregar hasta 166 millones de nuevos títulos y deberá recibir el visto bueno de los accionistas el 15 de diciembre</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/63djQODoPX9Ki5XQ7x2Tt5p7rs0=/0x0:2272x1558/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4c5%2F5e1%2Fe67%2F4c55e1e679bc103721aa545781ecc0c3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La CNMV multa con 70.000 euros al director general de Squirrel Media por abuso de mercado</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-12/cnmv-multa-squirrel-media-director-general-manipulacion-mercado-1tps_4463321/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/cnmv-multa-squirrel-media-director-general-manipulacion-mercado-1tps_4463321/</guid>
-      <pubDate>Thu, 12 Nov 2026 08:52:00 +0000</pubDate>
-      <description>El expediente, publicado en el BOE, señala que el afectado renunció a recurrir por vía administrativa, aunque aún puede acudir a la Audiencia Nacional</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/NlbnS_90YRlZrInDe78tSyBVxtQ=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F87a%2Fa02%2F893%2F87aa0289356bfc3f8c47db086a493b49.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
