@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 21:29:39 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:13:46 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Airbus se adjudica un contrato de Defensa de casi 4 millones para mantener los helicópteros del Ejército</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-14/airbus-se-adjudica-un-contrato-de-defensa_4464766/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-14/airbus-se-adjudica-un-contrato-de-defensa_4464766/</guid>
+      <pubDate>Sat, 14 Nov 2026 04:00:00 +0000</pubDate>
+      <description>Este convenio basado en un acuerdo marco ha sido adjudicado por la Jefatura de Asuntos Económicos del Mando de Apoyo Logístico, dependiente del departamento dirigido por Margarita Robles</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/nhEAQ94NTk92Xp5BGcAOZ0CUdtw=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa0e%2F019%2Fe03%2Fa0e019e03fa58b30861cc055e6e71238.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>El presidente cesado de Renfe se revuelve: "Combatiré cualquier intento de culpar a la compañía"</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-13/el-presidente-cesado-de-renfe-se-revuelve_4464867/</link>
@@ -72,24 +81,6 @@
       <enclosure url="https://images.ecestaticos.com/KZ8AIL8ahgj6NZuUktUk5nNSe3A=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F348%2Fd05%2F2ba%2F348d052bad3842f9ce0f231d37e9c3e8.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Colonial obtiene un beneficio recurrente de 162 millones hasta septiembre, un 4% más</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-12/colonial-sfl-resultado-recurrente-1hms_4463952/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/colonial-sfl-resultado-recurrente-1hms_4463952/</guid>
-      <pubDate>Thu, 12 Nov 2026 17:09:00 +0000</pubDate>
-      <description>La evolución operativa mejora un 4%, aunque el balance acusa la ausencia de un efecto fiscal extraordinario registrado tras la fusión con SFL</description>
-      <author>Europa Press</author>
-      <enclosure url="https://images.ecestaticos.com/e8q5_XUy98oQtMkfYuMTkLB88WM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F696%2Fe10%2F29d%2F696e1029d1100ae1987933fc6b7d1736.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La CNMV multa con 70.000 euros a un empleado de Squirrel Media por abuso de mercado</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-12/cnmv-multa-squirrel-media-director-general-manipulacion-mercado-1tps_4463321/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/cnmv-multa-squirrel-media-director-general-manipulacion-mercado-1tps_4463321/</guid>
-      <pubDate>Thu, 12 Nov 2026 08:52:00 +0000</pubDate>
-      <description>El expediente, publicado en el BOE, señala que el afectado renunció a recurrir por vía administrativa, aunque aún puede acudir a la Audiencia Nacional</description>
-      <author>EFE</author>
-      <enclosure url="https://images.ecestaticos.com/NlbnS_90YRlZrInDe78tSyBVxtQ=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F87a%2Fa02%2F893%2F87aa0289356bfc3f8c47db086a493b49.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Premios 'Empresarios con raíces', en imágenes</title>
       <link>https://www.elconfidencial.com/empresas/2026-10-26/premios-empresarios-emprendimiento-bra_4451931/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-10-26/premios-empresarios-emprendimiento-bra_4451931/</guid>
@@ -144,6 +135,33 @@
       <enclosure url="https://images.ecestaticos.com/bZlpeu4-_ZDjB0nSWAfEnbKotII=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcff%2F758%2F8e7%2Fcff7588e7ba61cfb8e99f9f556f88e1d.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
+      <link>https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</guid>
+      <pubDate>Tue, 26 May 2026 03:00:00 +0000</pubDate>
+      <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
+      <author>Sonia Pardo</author>
+      <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Colonial obtiene un beneficio recurrente de 162 millones hasta septiembre, un 4% más</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-12/colonial-sfl-resultado-recurrente-1hms_4463952/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/colonial-sfl-resultado-recurrente-1hms_4463952/</guid>
+      <pubDate>Thu, 12 Nov 2026 17:09:00 +0000</pubDate>
+      <description>La evolución operativa mejora un 4%, aunque el balance acusa la ausencia de un efecto fiscal extraordinario registrado tras la fusión con SFL</description>
+      <author>Europa Press</author>
+      <enclosure url="https://images.ecestaticos.com/e8q5_XUy98oQtMkfYuMTkLB88WM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F696%2Fe10%2F29d%2F696e1029d1100ae1987933fc6b7d1736.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La CNMV multa con 70.000 euros a un empleado de Squirrel Media por abuso de mercado</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-12/cnmv-multa-squirrel-media-director-general-manipulacion-mercado-1tps_4463321/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/cnmv-multa-squirrel-media-director-general-manipulacion-mercado-1tps_4463321/</guid>
+      <pubDate>Thu, 12 Nov 2026 08:52:00 +0000</pubDate>
+      <description>El expediente, publicado en el BOE, señala que el afectado renunció a recurrir por vía administrativa, aunque aún puede acudir a la Audiencia Nacional</description>
+      <author>EFE</author>
+      <enclosure url="https://images.ecestaticos.com/NlbnS_90YRlZrInDe78tSyBVxtQ=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F87a%2Fa02%2F893%2F87aa0289356bfc3f8c47db086a493b49.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Grandes empresas pactan diez acuerdos para reforzar la competitividad de España</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-12/grandes-empresas-pactan-diez-acuerdos_4463892/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-12/grandes-empresas-pactan-diez-acuerdos_4463892/</guid>
@@ -196,15 +214,6 @@
       <description>La operación contempla entregar hasta 166 millones de nuevos títulos y deberá recibir el visto bueno de los accionistas el 15 de diciembre</description>
       <author>Europa Press</author>
       <enclosure url="https://images.ecestaticos.com/63djQODoPX9Ki5XQ7x2Tt5p7rs0=/0x0:2272x1558/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4c5%2F5e1%2Fe67%2F4c55e1e679bc103721aa545781ecc0c3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rafael Juan: "Con el éxito siempre deseas alcanzarlo y luego te das cuenta de que es efímero"</title>
-      <link>https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-05-26/el-arte-de-crear-vicky-foods-rafael-juan-bra_4360871/</guid>
-      <pubDate>Tue, 26 May 2026 03:00:00 +0000</pubDate>
-      <description>El consejero delegado de Vicky Foods comparte en El Arte de Crear una manera de hacer empresa donde las personas están siempre en el centro y donde el legado de su madre, sigue marcando el rumbo de una de las grandes compañías alimentación</description>
-      <author>Sonia Pardo</author>
-      <enclosure url="https://images.ecestaticos.com/nTOPoQ3Pd2z7skrQOrbzgiazDUw=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F53b%2F1bb%2F400%2F53b1bb400e83ceef0ec66222d563ad81.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>ACS gana 789 millones de euros hasta septiembre, un 20,5 % más, impulsada por Turner</title>
