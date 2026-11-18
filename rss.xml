@@ -5,9 +5,18 @@
     <link>https://www.elconfidencial.com/empresas/</link>
     <description>Todas las noticias de la sección Empresas de El Confidencial.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:03:47 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 22:59:10 +0100</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/elconfidencial-empresas-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Worldwide integra a Consejeros Auditores y refuerza su presencia en la Región de Murcia</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-18/a-worldwide-integra-a-consejeros-auditores-y-refuerza-su-presencia-en-la-region-de-murcia_4467809/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-18/a-worldwide-integra-a-consejeros-auditores-y-refuerza-su-presencia-en-la-region-de-murcia_4467809/</guid>
+      <pubDate>Wed, 18 Nov 2026 16:09:00 +0000</pubDate>
+      <description>La firma anuncia la integración de Consejeros Auditores, firma de referencia enAuditoría y Assurance empresarial con más de cuarenta años de trayectoria en la Región deMurcia</description>
+      <author>El Confidencial</author>
+      <enclosure url="https://images.ecestaticos.com/ZAzUvVY21JYXYqBsOpc0slXZpDM=/0x0:1208x1457/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F62e%2Fe88%2F632%2F62ee8863277774203548ecd5fcd52d17.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Prosegur lanza HR Tech, un modelo de tecnología propia capaz de automatizar y optimizar la gestión de los Recursos Humanos</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-18/prosegur-hr-tech-automatizacion-rrhh-1hms-1svm_4467568/</link>
@@ -90,15 +99,6 @@
       <enclosure url="https://images.ecestaticos.com/ZjU6D5f9Q-laNW5xxDVG4sw5tAQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6d5%2F970%2F872%2F6d5970872c115f12b2591305c82b5fd0.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Las empresas cada vez valoran más la diversidad en sus equipos</title>
-      <link>https://www.elconfidencial.com/empresas/2026-11-17/diversidad-inclusion-empresas-espanolas-1hms-1svm_4466743/</link>
-      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-17/diversidad-inclusion-empresas-espanolas-1hms-1svm_4466743/</guid>
-      <pubDate>Tue, 17 Nov 2026 13:21:00 +0000</pubDate>
-      <description>Un estudio de 93 compañías vincula los equipos plurales con más innovación y talento, mientras Recursos Humanos afronta el reto de eliminar sesgos y barreras</description>
-      <author>Servimedia</author>
-      <enclosure url="https://images.ecestaticos.com/FaWz_Y9TfuDXOnc_NACyJQtSL5U=/0x0:1254x837/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc17%2F2c6%2F2c9%2Fc172c62c9a82d37f9d41774a063b52c3.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Deutsche Bank cae un 6% en bolsa al salir a la luz operaciones sospechosas y vínculos con Epstein</title>
       <link>https://www.elconfidencial.com/empresas/2026-11-17/cotizacion-deutsche-bank-operaciones-sospechosas-vinculos-epstein_4466534/</link>
       <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-17/cotizacion-deutsche-bank-operaciones-sospechosas-vinculos-epstein_4466534/</guid>
@@ -142,6 +142,15 @@
       <description>El fundador y presidente de Bodegas Familiares Matarromera se sienta en el sofá de El Arte de Crear para repasar casi cuatro décadas de aventura: del despacho de la Administración a la viña</description>
       <author>Sonia Pardo</author>
       <enclosure url="https://images.ecestaticos.com/dkcobG5JQ4VzrizqnvlpLj5CSRs=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed8%2Fbe9%2Fbdf%2Fed8be9bdfae73a5fff4b93c31c8ffdd2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Las empresas cada vez valoran más la diversidad en sus equipos</title>
+      <link>https://www.elconfidencial.com/empresas/2026-11-17/diversidad-inclusion-empresas-espanolas-1hms-1svm_4466743/</link>
+      <guid isPermaLink="false">https://www.elconfidencial.com/empresas/2026-11-17/diversidad-inclusion-empresas-espanolas-1hms-1svm_4466743/</guid>
+      <pubDate>Tue, 17 Nov 2026 13:21:00 +0000</pubDate>
+      <description>Un estudio de 93 compañías vincula los equipos plurales con más innovación y talento, mientras Recursos Humanos afronta el reto de eliminar sesgos y barreras</description>
+      <author>Servimedia</author>
+      <enclosure url="https://images.ecestaticos.com/FaWz_Y9TfuDXOnc_NACyJQtSL5U=/0x0:1254x837/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc17%2F2c6%2F2c9%2Fc172c62c9a82d37f9d41774a063b52c3.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>El 64% de las firmas auditoras catalanas reconoce un uso bajo o muy bajo de la IA</title>
